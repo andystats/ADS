@@ -16,8 +16,9 @@ brfss_trim <- brfss %>%
 mydata <- merge(mydata, brfss_trim, by="State", all=F)
 
 ## Velocities
-CovJHU_3.28 <- read.csv(url("https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_daily_reports/03-28-2020.csv"))
-CovJHU_3.27 <- read.csv(url("https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_daily_reports/03-27-2020.csv"))
+
+CovJHU_3.28 <- read.csv(url("https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_daily_reports/04-02-2020.csv"))
+CovJHU_3.27 <- read.csv(url("https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_daily_reports/04-01-2020.csv"))
 
 #Get cases by state
 
@@ -35,7 +36,7 @@ COV27_28 <-merge(CovJHU_3.28_sum, CovJHU_3.27_sum)
 
 COV27_28$confirm_change <-((COV27_28$total_confirmed28-COV27_28$total_confirmed27)/COV27_28$total_confirmed27)*100
 COV27_28$deaths_change <-((COV27_28$total_deaths28-COV27_28$total_deaths27)/COV27_28$total_deaths27)*100
-COV27_28$State_Name <- COV27_28$Province_State
+COV27_28$NAME <- COV27_28$Province_State
 
 Updated<- merge(COV27_28, mydata, by="State_Name", all=F)
 

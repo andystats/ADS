@@ -1,0 +1,2861 @@
+"","State","Region","Retail...recreation","Grocery...pharmacy","Parks","Transit.stations","Workplaces","Residential"
+"1","Alabama","Total",-41,-13,19,-30,-32,9
+"2","Alabama","Autauga County",-42,-8,-14,NA,-35,16
+"3","Alabama","Baldwin County",-47,-19,-27,-24,-32,9
+"4","Alabama","Barbour County",-27,-20,NA,NA,-23,NA
+"5","Alabama","Bibb County",-25,-10,NA,NA,-32,NA
+"6","Alabama","Blount County",-36,-2,NA,NA,-29,15
+"7","Alabama","Bullock County",-37,-13,NA,NA,-24,NA
+"8","Alabama","Butler County",-37,-5,NA,-45,-30,NA
+"9","Alabama","Calhoun County",-40,-17,-22,NA,-33,8
+"10","Alabama","Chambers County",-34,1,NA,-12,-28,13
+"11","Alabama","Cherokee County",-24,6,NA,NA,-29,NA
+"12","Alabama","Chilton County",-41,-11,NA,-27,-26,14
+"13","Alabama","Choctaw County",-13,-16,NA,NA,-28,NA
+"14","Alabama","Clarke County",-27,-24,NA,NA,-27,NA
+"15","Alabama","Clay County",-33,-14,NA,NA,-20,NA
+"16","Alabama","Cleburne County",-22,-3,NA,-36,-9,NA
+"17","Alabama","Coffee County",-28,-15,NA,NA,-26,11
+"18","Alabama","Colbert County",-30,-6,-14,-20,-22,12
+"19","Alabama","Conecuh County",-49,-10,NA,-33,-21,NA
+"20","Alabama","Coosa County",NA,NA,NA,NA,-28,NA
+"21","Alabama","Covington County",-37,-15,NA,NA,-23,7
+"22","Alabama","Crenshaw County",-57,-17,NA,NA,-35,NA
+"23","Alabama","Cullman County",-33,-2,86,-33,-29,8
+"24","Alabama","Dale County",-34,-9,NA,-17,-25,11
+"25","Alabama","Dallas County",-27,-2,NA,NA,-22,5
+"26","Alabama","DeKalb County",-38,-7,9,-33,-23,11
+"27","Alabama","Elmore County",-40,-13,50,NA,-37,8
+"28","Alabama","Escambia County",-35,-20,NA,NA,-27,7
+"29","Alabama","Etowah County",-47,-13,19,-27,-33,9
+"30","Alabama","Fayette County",-23,NA,NA,NA,-28,NA
+"31","Alabama","Franklin County",-27,-4,NA,NA,-14,5
+"32","Alabama","Geneva County",-34,-4,NA,NA,-28,-2
+"33","Alabama","Greene County",11,-22,NA,-32,-33,NA
+"34","Alabama","Hale County",-46,-29,NA,NA,-14,NA
+"35","Alabama","Henry County",-46,-8,NA,NA,-29,NA
+"36","Alabama","Houston County",-46,-18,23,-27,-30,9
+"37","Alabama","Jackson County",-31,-4,NA,NA,-25,12
+"38","Alabama","Jefferson County",-48,-16,7,-43,-36,11
+"39","Alabama","Lamar County",0,2,NA,NA,-28,NA
+"40","Alabama","Lauderdale County",-43,-14,-15,NA,-33,9
+"41","Alabama","Lawrence County",-27,-6,NA,NA,-25,7
+"42","Alabama","Lee County",-52,-23,-14,NA,-36,11
+"43","Alabama","Limestone County",-35,-12,38,NA,-32,9
+"44","Alabama","Lowndes County",NA,NA,NA,-29,-34,NA
+"45","Alabama","Macon County",-29,-12,NA,-42,-37,NA
+"46","Alabama","Madison County",-46,-17,35,-39,-38,10
+"47","Alabama","Marengo County",-18,-4,NA,NA,-17,NA
+"48","Alabama","Marion County",-31,-4,NA,NA,-24,NA
+"49","Alabama","Marshall County",-34,-4,107,NA,-30,8
+"50","Alabama","Mobile County",-39,-11,-21,-30,-29,9
+"51","Alabama","Monroe County",-28,-7,NA,NA,-27,NA
+"52","Alabama","Montgomery County",-44,-14,-9,-14,-34,11
+"53","Alabama","Morgan County",-37,-4,18,-27,-27,8
+"54","Alabama","Perry County",-53,4,NA,NA,-29,NA
+"55","Alabama","Pickens County",-36,-4,NA,NA,-36,NA
+"56","Alabama","Pike County",-39,-36,NA,NA,-25,0
+"57","Alabama","Randolph County",-29,-14,NA,NA,-22,NA
+"58","Alabama","Russell County",-28,-5,NA,NA,-27,13
+"59","Alabama","Shelby County",-43,-20,44,NA,-36,12
+"60","Alabama","St. Clair County",-30,-15,NA,-24,-34,9
+"61","Alabama","Sumter County",-52,-6,NA,NA,-31,NA
+"62","Alabama","Talladega County",-31,-10,17,-12,-33,7
+"63","Alabama","Tallapoosa County",-31,-9,NA,NA,-25,13
+"64","Alabama","Tuscaloosa County",-46,-14,-1,-29,-40,12
+"65","Alabama","Walker County",-37,-10,NA,-32,-24,12
+"66","Alabama","Washington County",NA,-13,NA,NA,-25,NA
+"67","Alabama","Wilcox County",-49,-17,NA,NA,-31,NA
+"68","Alabama","Winston County",-28,1,NA,NA,-21,NA
+"69","Alaska","Total",-48,-27,18,-55,-33,10
+"70","Alaska","Anchorage",-49,-25,51,-53,-39,11
+"71","Alaska","Bethel",NA,-26,NA,NA,-19,NA
+"72","Alaska","Fairbanks North Star",-48,-34,NA,-76,-32,12
+"73","Alaska","Juneau",-61,-34,-34,-66,-31,-1
+"74","Alaska","Kenai Peninsula Borough",-49,-28,NA,NA,-24,14
+"75","Alaska","Ketchikan Gateway",-48,-38,NA,NA,-32,NA
+"76","Alaska","Kodiak Island",-50,NA,NA,NA,-23,NA
+"77","Alaska","Matanuska-Susitna",-48,-33,NA,NA,-33,10
+"78","Alaska","North Slope",NA,NA,NA,NA,-7,NA
+"79","Alaska","Sitka",-59,NA,NA,NA,-31,NA
+"80","Alaska","Southeast Fairbanks",NA,NA,NA,NA,-35,NA
+"81","Alaska","Valdez-Cordova",NA,NA,NA,NA,-22,NA
+"82","Arizona","Total",-40,-17,-7,-41,-33,10
+"83","Arizona","Apache County",-38,-13,-35,-8,-27,20
+"84","Arizona","Cochise County",-37,-21,-14,-23,-29,8
+"85","Arizona","Coconino County",-55,-24,-25,-34,-38,12
+"86","Arizona","Gila County",-14,16,95,NA,-28,11
+"87","Arizona","Graham County",-21,14,-63,NA,-19,11
+"88","Arizona","Greenlee County",-37,-10,NA,NA,-28,NA
+"89","Arizona","La Paz County",-61,-35,-54,-50,-21,NA
+"90","Arizona","Maricopa County",-40,-18,-6,-44,-33,10
+"91","Arizona","Mohave County",-36,-13,-13,-23,-37,9
+"92","Arizona","Navajo County",-29,-9,11,-12,-28,10
+"93","Arizona","Pima County",-43,-16,-16,-43,-36,10
+"94","Arizona","Pinal County",-27,-23,1,-28,-31,8
+"95","Arizona","Santa Cruz County",-56,-47,-29,-25,-33,18
+"96","Arizona","Yavapai County",-40,-15,6,-27,-38,9
+"97","Arizona","Yuma County",-45,-21,-17,-53,-27,10
+"98","Arkansas","Total",-29,-7,81,-22,-27,7
+"99","Arkansas","Arkansas County",-22,-7,NA,NA,-11,NA
+"100","Arkansas","Ashley County",-24,-4,NA,NA,-27,NA
+"101","Arkansas","Baxter County",-30,-2,NA,NA,-26,11
+"102","Arkansas","Benton County",-36,-16,56,-65,-34,9
+"103","Arkansas","Boone County",-25,-17,NA,NA,-32,14
+"104","Arkansas","Bradley County",-28,-17,NA,NA,-37,NA
+"105","Arkansas","Carroll County",-27,14,NA,NA,-27,-1
+"106","Arkansas","Chicot County",-19,6,NA,NA,-25,NA
+"107","Arkansas","Clark County",-33,2,NA,-23,-22,NA
+"108","Arkansas","Clay County",-7,-2,NA,NA,-21,NA
+"109","Arkansas","Cleburne County",-16,0,NA,NA,-37,NA
+"110","Arkansas","Cleveland County",NA,NA,NA,NA,-33,NA
+"111","Arkansas","Columbia County",-18,-20,NA,NA,-20,NA
+"112","Arkansas","Conway County",2,4,NA,-2,-25,NA
+"113","Arkansas","Craighead County",-32,-3,-59,-5,-24,4
+"114","Arkansas","Crawford County",-16,-1,NA,-11,-21,14
+"115","Arkansas","Crittenden County",-15,-11,NA,-17,-26,15
+"116","Arkansas","Cross County",-49,90,NA,NA,-7,NA
+"117","Arkansas","Dallas County",-17,NA,NA,NA,-32,NA
+"118","Arkansas","Desha County",-8,0,NA,NA,-33,NA
+"119","Arkansas","Drew County",-27,-10,NA,NA,-16,NA
+"120","Arkansas","Faulkner County",-32,-15,-21,NA,-31,8
+"121","Arkansas","Franklin County",-8,12,NA,8,-16,NA
+"122","Arkansas","Fulton County",NA,NA,NA,NA,-28,NA
+"123","Arkansas","Garland County",-32,-12,17,NA,-32,7
+"124","Arkansas","Grant County",-10,-17,NA,NA,-26,NA
+"125","Arkansas","Greene County",-18,-4,NA,NA,-20,12
+"126","Arkansas","Hempstead County",-19,-13,NA,NA,-24,NA
+"127","Arkansas","Hot Spring County",5,9,NA,-28,-24,10
+"128","Arkansas","Howard County",-8,-7,NA,NA,-29,NA
+"129","Arkansas","Independence County",-27,9,NA,NA,-24,13
+"130","Arkansas","Izard County",-24,-15,NA,NA,-29,NA
+"131","Arkansas","Jackson County",-10,-12,NA,NA,-14,NA
+"132","Arkansas","Jefferson County",-30,4,NA,-14,-26,11
+"133","Arkansas","Johnson County",-24,12,-28,NA,-14,-2
+"134","Arkansas","Lawrence County",-19,-6,NA,NA,-30,NA
+"135","Arkansas","Lincoln County",-60,-16,NA,NA,-23,NA
+"136","Arkansas","Little River County",-7,5,NA,NA,-34,NA
+"137","Arkansas","Logan County",-5,13,NA,NA,-18,NA
+"138","Arkansas","Lonoke County",-23,-5,NA,NA,-27,15
+"139","Arkansas","Madison County",-10,17,NA,NA,-11,NA
+"140","Arkansas","Marion County",4,5,NA,NA,-26,NA
+"141","Arkansas","Miller County",-33,-10,-35,-24,-32,12
+"142","Arkansas","Mississippi County",-11,-1,NA,-18,-15,10
+"143","Arkansas","Monroe County",-26,-8,NA,NA,-34,NA
+"144","Arkansas","Montgomery County",NA,NA,NA,NA,-33,NA
+"145","Arkansas","Nevada County",-61,NA,NA,-23,-21,NA
+"146","Arkansas","Newton County",NA,NA,NA,NA,-38,NA
+"147","Arkansas","Ouachita County",-9,-21,NA,NA,-16,NA
+"148","Arkansas","Perry County",NA,NA,NA,NA,-35,NA
+"149","Arkansas","Phillips County",-1,-6,NA,NA,-32,NA
+"150","Arkansas","Pike County",-30,13,NA,NA,-33,NA
+"151","Arkansas","Poinsett County",2,-5,NA,NA,-15,NA
+"152","Arkansas","Polk County",-17,3,NA,NA,-25,NA
+"153","Arkansas","Pope County",-32,-9,NA,-11,-22,12
+"154","Arkansas","Prairie County",NA,NA,NA,NA,-26,NA
+"155","Arkansas","Pulaski County",-35,-9,73,-38,-30,9
+"156","Arkansas","Randolph County",-22,12,NA,NA,-23,NA
+"157","Arkansas","Saline County",-26,-13,-52,-10,-33,7
+"158","Arkansas","Scott County",-39,NA,NA,NA,-27,NA
+"159","Arkansas","Searcy County",NA,NA,NA,NA,-39,NA
+"160","Arkansas","Sebastian County",-36,-11,45,-41,-27,7
+"161","Arkansas","Sevier County",-24,-11,NA,NA,-19,NA
+"162","Arkansas","Sharp County",-17,-7,NA,NA,-26,NA
+"163","Arkansas","St. Francis County",-16,10,NA,-22,-25,NA
+"164","Arkansas","Stone County",-11,-29,NA,NA,-26,NA
+"165","Arkansas","Union County",-33,-8,NA,NA,-24,8
+"166","Arkansas","Van Buren County",-20,NA,NA,NA,-39,NA
+"167","Arkansas","Washington County",-37,-16,37,-10,-34,8
+"168","Arkansas","White County",-27,-12,-19,4,-21,9
+"169","Arkansas","Yell County",-11,13,16,NA,-19,NA
+"170","California","Total",-50,-24,-38,-54,-39,15
+"171","California","Alameda County",-58,-27,-14,-64,-44,17
+"172","California","Amador County",-41,-20,-50,NA,-44,0
+"173","California","Butte County",-45,-16,-23,-45,-34,11
+"174","California","Calaveras County",-42,-12,-28,NA,-39,10
+"175","California","Colusa County",-37,-1,NA,-32,-37,NA
+"176","California","Contra Costa County",-48,-21,-15,-49,-41,15
+"177","California","Del Norte County",-31,-11,-26,NA,-29,NA
+"178","California","El Dorado County",-58,-37,-35,-50,-48,13
+"179","California","Fresno County",-40,-14,-27,-43,-31,11
+"180","California","Glenn County",-23,-14,-11,-20,-36,2
+"181","California","Humboldt County",-48,-23,-10,-48,-35,11
+"182","California","Imperial County",-53,-31,-65,-62,-32,16
+"183","California","Inyo County",-75,-37,-35,NA,-39,NA
+"184","California","Kern County",-43,-17,-16,-37,-30,11
+"185","California","Kings County",-34,-14,-12,-43,-27,10
+"186","California","Lake County",-38,-13,-42,-42,-33,16
+"187","California","Lassen County",-30,-8,NA,NA,-22,NA
+"188","California","Los Angeles County",-51,-27,-48,-54,-41,17
+"189","California","Madera County",-39,-25,-20,-30,-30,11
+"190","California","Marin County",-61,-30,-59,-61,-42,17
+"191","California","Mariposa County",-75,-23,-72,NA,-45,NA
+"192","California","Mendocino County",-47,-29,-39,-44,-32,17
+"193","California","Merced County",-34,-18,-1,-37,-26,11
+"194","California","Modoc County",-59,-9,NA,NA,-26,NA
+"195","California","Mono County",-100,-60,-57,NA,-73,NA
+"196","California","Monterey County",-46,-19,-48,-45,-43,14
+"197","California","Napa County",-53,-34,-24,-45,-51,18
+"198","California","Nevada County",-56,-26,-48,-73,-41,15
+"199","California","Orange County",-52,-24,-31,-55,-44,17
+"200","California","Placer County",-52,-27,-2,-55,-44,13
+"201","California","Plumas County",-30,-8,NA,NA,-25,NA
+"202","California","Riverside County",-43,-20,-44,-41,-39,14
+"203","California","Sacramento County",-45,-21,-1,-57,-37,13
+"204","California","San Benito County",-45,-25,-36,NA,-32,23
+"205","California","San Bernardino County",-45,-23,-36,-42,-34,14
+"206","California","San Diego County",-50,-26,-51,-64,-41,15
+"207","California","San Francisco County",-75,-37,-55,-66,-53,21
+"208","California","San Joaquin County",-41,-16,-16,-31,-30,12
+"209","California","San Luis Obispo County",-56,-29,-27,-58,-45,13
+"210","California","San Mateo County",-60,-26,-35,-83,-46,19
+"211","California","Santa Barbara County",-47,-17,-30,-51,-40,13
+"212","California","Santa Clara County",-62,-33,-22,-71,-48,17
+"213","California","Santa Cruz County",-55,-27,-40,-57,-41,15
+"214","California","Shasta County",-39,-15,-21,-22,-31,9
+"215","California","Siskiyou County",-35,-20,-6,9,-25,13
+"216","California","Solano County",-45,-21,-18,-37,-34,13
+"217","California","Sonoma County",-53,-22,-58,-54,-41,15
+"218","California","Stanislaus County",-44,-19,-12,-28,-29,11
+"219","California","Sutter County",-41,-18,-28,-43,-34,13
+"220","California","Tehama County",-34,-9,-9,-22,-27,15
+"221","California","Trinity County",-65,-20,NA,NA,-28,NA
+"222","California","Tulare County",-39,-13,-27,-28,-25,11
+"223","California","Tuolumne County",-48,-17,-67,NA,-38,14
+"224","California","Ventura County",-46,-24,-24,-40,-39,14
+"225","California","Yolo County",-43,-23,2,-34,-37,13
+"226","California","Yuba County",-34,-12,24,-34,-38,13
+"227","Colorado","Total",-51,-27,-12,-60,-40,13
+"228","Colorado","Adams County",-49,-25,-12,-30,-36,13
+"229","Colorado","Alamosa County",-44,-28,NA,NA,-28,NA
+"230","Colorado","Arapahoe County",-52,-30,14,-36,-40,14
+"231","Colorado","Archuleta County",-60,-28,NA,NA,-44,NA
+"232","Colorado","Boulder County",-59,-32,-7,-44,-47,15
+"233","Colorado","Broomfield County",-57,-30,9,-46,-41,30
+"234","Colorado","Chaffee County",-56,-31,-36,NA,-45,NA
+"235","Colorado","Clear Creek County",-88,-55,-42,NA,-40,NA
+"236","Colorado","Conejos County",NA,NA,NA,NA,-29,NA
+"237","Colorado","Delta County",-41,-20,-40,NA,-19,5
+"238","Colorado","Denver County",-63,-25,-17,-75,-43,16
+"239","Colorado","Douglas County",-56,-36,10,-50,-43,14
+"240","Colorado","Eagle County",-75,-47,-46,-67,-74,26
+"241","Colorado","El Paso County",-45,-22,-1,-55,-40,12
+"242","Colorado","Elbert County",-22,-16,NA,NA,-37,0
+"243","Colorado","Fremont County",-35,-13,-7,NA,-29,14
+"244","Colorado","Garfield County",-51,-35,4,-34,-45,22
+"245","Colorado","Gilpin County",NA,NA,NA,NA,-67,NA
+"246","Colorado","Grand County",-85,-49,-84,-43,-60,NA
+"247","Colorado","Gunnison County",-73,-43,-50,NA,-55,NA
+"248","Colorado","Huerfano County",-62,-43,NA,NA,-28,NA
+"249","Colorado","Jefferson County",-53,-41,-3,-39,-43,14
+"250","Colorado","Kit Carson County",-39,-20,NA,-18,-13,NA
+"251","Colorado","La Plata County",-58,-28,4,-68,-43,25
+"252","Colorado","Lake County",-82,-33,NA,NA,-57,NA
+"253","Colorado","Larimer County",-53,-27,1,-38,-38,13
+"254","Colorado","Las Animas County",-40,-23,NA,NA,-21,NA
+"255","Colorado","Lincoln County",-33,-31,NA,-31,-30,NA
+"256","Colorado","Logan County",-32,-15,NA,NA,-26,NA
+"257","Colorado","Mesa County",-40,-21,11,-35,-35,9
+"258","Colorado","Moffat County",-26,-22,NA,NA,-36,NA
+"259","Colorado","Montezuma County",-39,-14,NA,NA,-31,-1
+"260","Colorado","Montrose County",-45,-31,NA,NA,-36,17
+"261","Colorado","Morgan County",-40,-33,0,-23,-18,14
+"262","Colorado","Otero County",-32,-28,NA,NA,-25,NA
+"263","Colorado","Ouray County",-28,NA,NA,NA,-56,NA
+"264","Colorado","Park County",-84,-44,3,NA,-52,NA
+"265","Colorado","Pitkin County",-100,-56,NA,-85,-75,NA
+"266","Colorado","Prowers County",-32,-25,NA,-33,-17,NA
+"267","Colorado","Pueblo County",-42,-21,-45,-32,-29,9
+"268","Colorado","Rio Blanco County",NA,NA,NA,NA,-28,NA
+"269","Colorado","Rio Grande County",-38,-24,NA,NA,-17,NA
+"270","Colorado","Routt County",-82,-49,-48,-65,-62,-2
+"271","Colorado","Saguache County",NA,NA,NA,NA,-44,NA
+"272","Colorado","San Miguel County",-80,NA,NA,NA,-69,NA
+"273","Colorado","Summit County",-86,-73,-74,-67,-71,5
+"274","Colorado","Teller County",-46,-23,NA,NA,-45,-1
+"275","Colorado","Weld County",-42,-26,-4,-32,-33,12
+"276","Colorado","Yuma County",-33,-22,NA,NA,-30,NA
+"277","Connecticut","Total",-56,-32,-52,-64,-38,15
+"278","Connecticut","Fairfield County",-61,-35,-60,-72,-44,17
+"279","Connecticut","Hartford County",-56,-31,-48,-61,-35,13
+"280","Connecticut","Litchfield County",-51,-27,-40,NA,-33,13
+"281","Connecticut","Middlesex County",-58,-28,-49,-60,-38,15
+"282","Connecticut","New Haven County",-56,-31,-52,-62,-36,14
+"283","Connecticut","New London County",-56,-28,-45,-67,-41,15
+"284","Connecticut","Tolland County",-59,-33,-38,-38,-37,14
+"285","Connecticut","Windham County",-42,-27,-58,-69,-32,12
+"286","Delaware","Total",-47,-28,-6,-57,-37,12
+"287","Delaware","Kent County",-45,-32,2,-50,-35,11
+"288","Delaware","New Castle County",-48,-31,5,-60,-37,13
+"289","Delaware","Sussex County",-46,-23,-5,-40,-36,11
+"290","District of Columbia","Total",-64,-30,-41,-68,-47,14
+"291","Florida","Total",-50,-26,-48,-63,-41,13
+"292","Florida","Alachua County",-54,-26,-32,-48,-37,12
+"293","Florida","Baker County",-23,-8,NA,-45,-27,-3
+"294","Florida","Bay County",-38,-16,-2,-50,-27,8
+"295","Florida","Bradford County",-26,0,NA,NA,-26,0
+"296","Florida","Brevard County",-44,-22,-26,-37,-38,11
+"297","Florida","Broward County",-52,-28,-62,-72,-42,16
+"298","Florida","Calhoun County",-38,-5,NA,NA,-28,NA
+"299","Florida","Charlotte County",-49,-25,-35,-33,-40,10
+"300","Florida","Citrus County",-38,-15,-35,NA,-36,9
+"301","Florida","Clay County",-33,-15,1,NA,-34,10
+"302","Florida","Collier County",-56,-29,-62,-56,-44,14
+"303","Florida","Columbia County",-36,-8,-41,-25,-25,8
+"304","Florida","DeSoto County",-35,-21,-28,NA,-26,12
+"305","Florida","Dixie County",-30,-4,NA,NA,-31,NA
+"306","Florida","Duval County",-36,-13,-26,-40,-33,10
+"307","Florida","Escambia County",-38,-10,-11,-47,-32,9
+"308","Florida","Flagler County",-44,-16,-34,NA,-40,10
+"309","Florida","Franklin County",-56,-12,-14,NA,-30,NA
+"310","Florida","Gadsden County",-24,-10,NA,-36,-31,14
+"311","Florida","Gilchrist County",-26,-1,NA,NA,-24,NA
+"312","Florida","Glades County",-62,NA,-65,-39,-30,NA
+"313","Florida","Gulf County",-28,-1,NA,NA,-16,NA
+"314","Florida","Hamilton County",-16,-4,NA,-28,-24,NA
+"315","Florida","Hardee County",-30,-29,-30,NA,-29,NA
+"316","Florida","Hendry County",-34,-10,-42,NA,-28,12
+"317","Florida","Hernando County",-36,-16,-10,-37,-36,10
+"318","Florida","Highlands County",-44,-21,-49,NA,-36,9
+"319","Florida","Hillsborough County",-52,-30,-53,-67,-42,14
+"320","Florida","Holmes County",-19,-12,NA,NA,-18,NA
+"321","Florida","Indian River County",-46,-29,-30,-47,-38,11
+"322","Florida","Jackson County",-29,-11,NA,-32,-32,12
+"323","Florida","Jefferson County",-20,-10,NA,NA,-28,NA
+"324","Florida","Lafayette County",NA,NA,NA,NA,-28,NA
+"325","Florida","Lake County",-42,-24,-24,-57,-41,12
+"326","Florida","Lee County",-55,-28,-60,-69,-41,12
+"327","Florida","Leon County",-45,-22,0,-50,-36,11
+"328","Florida","Levy County",-35,-12,-20,NA,-31,12
+"329","Florida","Liberty County",NA,-5,NA,NA,-28,NA
+"330","Florida","Madison County",-41,-2,NA,-26,-31,NA
+"331","Florida","Manatee County",-48,-22,-28,-63,-36,11
+"332","Florida","Marion County",-41,-21,-40,-31,-34,9
+"333","Florida","Martin County",-50,-28,-28,-59,-37,12
+"334","Florida","Miami-Dade County",-57,-35,-77,-71,-46,18
+"335","Florida","Monroe County",-74,-47,-76,-76,-55,15
+"336","Florida","Nassau County",-40,-18,-24,-68,-34,10
+"337","Florida","Okaloosa County",-39,-14,-7,-62,-32,9
+"338","Florida","Okeechobee County",-37,-10,-23,-84,-33,11
+"339","Florida","Orange County",-70,-42,-59,-80,-53,17
+"340","Florida","Osceola County",-64,-40,-49,-65,-54,18
+"341","Florida","Palm Beach County",-49,-23,-65,-61,-40,15
+"342","Florida","Pasco County",-40,-24,-10,-25,-35,11
+"343","Florida","Pinellas County",-51,-25,-16,-44,-39,12
+"344","Florida","Polk County",-40,-22,-28,-29,-38,11
+"345","Florida","Putnam County",-23,-15,-20,NA,-33,9
+"346","Florida","Santa Rosa County",-28,-13,17,NA,-32,9
+"347","Florida","Sarasota County",-52,-28,-59,-28,-41,11
+"348","Florida","Seminole County",-48,-21,-19,-74,-42,13
+"349","Florida","St. Johns County",-48,-13,-53,-34,-41,11
+"350","Florida","St. Lucie County",-40,-14,-22,-52,-34,11
+"351","Florida","Sumter County",-50,-21,-31,-36,-45,10
+"352","Florida","Suwannee County",-28,-14,0,-42,-27,11
+"353","Florida","Taylor County",-34,-7,NA,NA,-25,NA
+"354","Florida","Union County",-44,-5,NA,NA,-35,NA
+"355","Florida","Volusia County",-42,-19,-10,-39,-38,10
+"356","Florida","Wakulla County",-25,-20,20,NA,-20,16
+"357","Florida","Walton County",-46,-23,-29,-21,-31,9
+"358","Florida","Washington County",-33,5,NA,NA,-31,NA
+"359","Georgia","Total",-42,-17,-2,-52,-37,11
+"360","Georgia","Appling County",-28,-16,NA,NA,-19,NA
+"361","Georgia","Atkinson County",-29,12,NA,NA,-26,NA
+"362","Georgia","Bacon County",-26,-15,NA,NA,-20,NA
+"363","Georgia","Baldwin County",-34,-20,NA,NA,-31,13
+"364","Georgia","Banks County",-35,NA,NA,NA,-19,NA
+"365","Georgia","Barrow County",-35,-12,-37,NA,-34,11
+"366","Georgia","Bartow County",-42,-5,40,-25,-33,9
+"367","Georgia","Ben Hill County",-28,9,NA,NA,-30,NA
+"368","Georgia","Berrien County",-28,5,NA,NA,-20,NA
+"369","Georgia","Bibb County",-43,-16,36,-27,-32,10
+"370","Georgia","Bleckley County",-31,-8,NA,NA,-37,NA
+"371","Georgia","Brantley County",-27,-4,NA,NA,-28,NA
+"372","Georgia","Brooks County",-38,-5,NA,NA,-23,NA
+"373","Georgia","Bryan County",-45,-19,-9,-29,-36,18
+"374","Georgia","Bulloch County",-41,-12,NA,NA,-35,9
+"375","Georgia","Burke County",-24,-7,-23,NA,-14,NA
+"376","Georgia","Butts County",-30,-6,NA,-13,-31,-1
+"377","Georgia","Camden County",-35,3,7,-29,-30,16
+"378","Georgia","Candler County",-57,-20,NA,NA,-24,NA
+"379","Georgia","Carroll County",-38,-18,12,-25,-36,10
+"380","Georgia","Catoosa County",-38,-8,14,NA,-33,16
+"381","Georgia","Charlton County",-31,7,NA,NA,-25,NA
+"382","Georgia","Chatham County",-50,-24,-32,-48,-41,11
+"383","Georgia","Chattahoochee County",-53,-39,NA,NA,-36,NA
+"384","Georgia","Chattooga County",-15,-2,NA,NA,-42,NA
+"385","Georgia","Cherokee County",-39,-20,59,NA,-40,12
+"386","Georgia","Clarke County",-51,-24,-21,-30,-41,12
+"387","Georgia","Clayton County",-30,-18,15,-80,-33,11
+"388","Georgia","Clinch County",NA,-2,NA,NA,-25,NA
+"389","Georgia","Cobb County",-49,-22,-47,-38,-41,13
+"390","Georgia","Coffee County",-41,-8,NA,NA,-23,11
+"391","Georgia","Colquitt County",-31,-6,NA,NA,-25,13
+"392","Georgia","Columbia County",-35,-7,-20,-44,-37,11
+"393","Georgia","Cook County",-17,2,NA,-21,-21,NA
+"394","Georgia","Coweta County",-46,-16,-56,-15,-35,11
+"395","Georgia","Crawford County",NA,NA,NA,NA,-20,NA
+"396","Georgia","Crisp County",-28,-22,NA,-10,-35,NA
+"397","Georgia","Dade County",-49,-9,NA,-16,-23,NA
+"398","Georgia","Dawson County",-49,-25,17,NA,-37,0
+"399","Georgia","DeKalb County",-47,-26,-15,-27,-42,13
+"400","Georgia","Decatur County",-24,-10,NA,NA,-19,-3
+"401","Georgia","Dodge County",-26,-5,NA,NA,-26,NA
+"402","Georgia","Dooly County",-59,-25,NA,-28,-21,NA
+"403","Georgia","Dougherty County",-51,-24,-37,-30,-34,11
+"404","Georgia","Douglas County",-40,-26,-2,-28,-37,11
+"405","Georgia","Early County",-73,-23,NA,NA,-27,NA
+"406","Georgia","Effingham County",-28,-7,NA,NA,-33,16
+"407","Georgia","Elbert County",-13,3,NA,NA,-25,NA
+"408","Georgia","Emanuel County",-21,17,NA,NA,-9,NA
+"409","Georgia","Evans County",-22,4,NA,NA,-23,NA
+"410","Georgia","Fannin County",-45,-21,38,NA,-38,NA
+"411","Georgia","Fayette County",-40,-29,25,NA,-43,13
+"412","Georgia","Floyd County",-36,-8,28,NA,-28,9
+"413","Georgia","Forsyth County",-45,-32,3,NA,-42,13
+"414","Georgia","Franklin County",-42,-15,-22,-22,-28,NA
+"415","Georgia","Fulton County",-54,-26,-44,-47,-43,13
+"416","Georgia","Gilmer County",-45,-31,NA,NA,-33,2
+"417","Georgia","Glynn County",-45,-22,-32,-39,-40,10
+"418","Georgia","Gordon County",-30,-8,NA,-20,-33,15
+"419","Georgia","Grady County",-35,-6,NA,NA,-35,-1
+"420","Georgia","Greene County",-17,-13,NA,NA,-36,NA
+"421","Georgia","Gwinnett County",-50,-24,-9,-42,-46,15
+"422","Georgia","Habersham County",-35,-10,NA,NA,-27,13
+"423","Georgia","Hall County",-39,-19,51,-20,-34,10
+"424","Georgia","Hancock County",NA,6,NA,NA,-24,NA
+"425","Georgia","Haralson County",-27,-6,-29,-22,-33,8
+"426","Georgia","Harris County",-4,9,NA,NA,-41,13
+"427","Georgia","Hart County",-18,-6,NA,NA,-17,NA
+"428","Georgia","Heard County",NA,2,NA,NA,-31,NA
+"429","Georgia","Henry County",-42,-13,22,NA,-41,12
+"430","Georgia","Houston County",-39,-15,-6,NA,-36,10
+"431","Georgia","Irwin County",NA,-2,NA,NA,-26,NA
+"432","Georgia","Jackson County",-61,-38,NA,-22,-30,16
+"433","Georgia","Jasper County",-39,-2,NA,NA,-9,NA
+"434","Georgia","Jeff Davis County",-27,-12,NA,NA,-21,NA
+"435","Georgia","Jefferson County",-28,-3,NA,NA,-13,NA
+"436","Georgia","Jenkins County",-33,2,NA,NA,-25,NA
+"437","Georgia","Johnson County",NA,-9,NA,NA,-26,NA
+"438","Georgia","Jones County",-25,4,NA,NA,-38,8
+"439","Georgia","Lamar County",-34,-6,NA,NA,-36,NA
+"440","Georgia","Lanier County",-43,-6,NA,NA,-35,NA
+"441","Georgia","Laurens County",-42,-15,NA,-27,-31,14
+"442","Georgia","Lee County",-45,-21,NA,NA,-28,11
+"443","Georgia","Liberty County",-32,-17,-17,-22,-27,10
+"444","Georgia","Lincoln County",NA,NA,NA,NA,-27,NA
+"445","Georgia","Long County",NA,NA,NA,NA,-30,NA
+"446","Georgia","Lowndes County",-45,-17,-13,-21,-29,8
+"447","Georgia","Lumpkin County",-35,19,NA,NA,-37,6
+"448","Georgia","Macon County",-35,-4,NA,NA,-22,NA
+"449","Georgia","Madison County",-51,-17,NA,NA,-24,8
+"450","Georgia","Marion County",NA,12,NA,NA,-27,NA
+"451","Georgia","McDuffie County",-14,4,NA,-21,-18,NA
+"452","Georgia","McIntosh County",-49,0,NA,NA,-39,NA
+"453","Georgia","Meriwether County",-21,-4,NA,NA,-26,NA
+"454","Georgia","Miller County",-58,NA,NA,NA,-30,NA
+"455","Georgia","Mitchell County",-21,-25,NA,NA,-13,NA
+"456","Georgia","Monroe County",-39,3,11,-35,-32,-2
+"457","Georgia","Montgomery County",NA,-7,NA,NA,-26,NA
+"458","Georgia","Morgan County",-33,-14,NA,-27,-30,NA
+"459","Georgia","Murray County",-18,1,NA,NA,-25,13
+"460","Georgia","Muscogee County",-44,-8,19,-56,-29,9
+"461","Georgia","Newton County",-31,-14,-13,NA,-36,10
+"462","Georgia","Oconee County",-46,-7,NA,NA,-37,0
+"463","Georgia","Oglethorpe County",NA,0,NA,NA,-41,NA
+"464","Georgia","Paulding County",-34,-25,-55,NA,-36,11
+"465","Georgia","Peach County",-39,-16,NA,-24,-33,7
+"466","Georgia","Pickens County",-27,-16,NA,NA,-30,9
+"467","Georgia","Pierce County",-48,-14,NA,NA,-26,NA
+"468","Georgia","Pike County",-38,3,NA,NA,-38,NA
+"469","Georgia","Polk County",-21,-4,NA,NA,-31,12
+"470","Georgia","Pulaski County",-54,-12,NA,NA,-31,NA
+"471","Georgia","Putnam County",-3,2,NA,-59,-28,NA
+"472","Georgia","Rabun County",-42,-2,37,NA,-40,NA
+"473","Georgia","Randolph County",-64,NA,NA,NA,-32,NA
+"474","Georgia","Richmond County",-40,-5,26,-51,-31,8
+"475","Georgia","Rockdale County",-43,-11,-18,NA,-39,12
+"476","Georgia","Schley County",NA,NA,NA,NA,-36,NA
+"477","Georgia","Screven County",-37,0,NA,NA,-29,NA
+"478","Georgia","Seminole County",-7,-18,NA,NA,-22,NA
+"479","Georgia","Spalding County",-27,-13,NA,NA,-31,8
+"480","Georgia","Stephens County",-24,-9,NA,NA,-27,1
+"481","Georgia","Sumter County",-29,-25,NA,NA,-21,1
+"482","Georgia","Talbot County",NA,NA,-9,NA,-29,NA
+"483","Georgia","Tattnall County",-32,3,NA,NA,-23,NA
+"484","Georgia","Taylor County",NA,4,NA,NA,-15,NA
+"485","Georgia","Telfair County",-55,0,NA,NA,-28,NA
+"486","Georgia","Terrell County",-27,-17,NA,NA,-33,NA
+"487","Georgia","Thomas County",-35,-9,NA,NA,-28,15
+"488","Georgia","Tift County",-40,-26,NA,-24,-25,14
+"489","Georgia","Toombs County",-31,-12,NA,NA,-23,-2
+"490","Georgia","Towns County",-38,-3,NA,NA,-22,NA
+"491","Georgia","Treutlen County",NA,-4,NA,NA,-26,NA
+"492","Georgia","Troup County",-36,-10,NA,-28,-27,10
+"493","Georgia","Turner County",-61,23,NA,-22,-23,NA
+"494","Georgia","Twiggs County",NA,NA,NA,NA,-36,NA
+"495","Georgia","Union County",-30,11,22,NA,-36,NA
+"496","Georgia","Upson County",-25,-8,NA,NA,-36,-4
+"497","Georgia","Walker County",-20,7,-28,NA,-28,15
+"498","Georgia","Walton County",-28,7,NA,NA,-35,9
+"499","Georgia","Ware County",-39,-18,NA,NA,-23,11
+"500","Georgia","Warren County",NA,NA,NA,NA,-32,NA
+"501","Georgia","Washington County",-12,-31,NA,NA,-13,NA
+"502","Georgia","Wayne County",-30,-8,NA,NA,-33,-2
+"503","Georgia","White County",-43,-2,-16,NA,-29,9
+"504","Georgia","Whitfield County",-34,-7,-45,-23,-25,9
+"505","Georgia","Wilcox County",NA,13,NA,NA,-24,NA
+"506","Georgia","Wilkes County",-31,-14,NA,NA,-22,NA
+"507","Georgia","Wilkinson County",NA,0,NA,NA,-24,NA
+"508","Georgia","Worth County",-28,-9,NA,NA,-28,NA
+"509","Hawaii","Total",-56,-36,-65,-72,-45,16
+"510","Hawaii","Hawaii County",-61,-47,-77,-84,-41,15
+"511","Hawaii","Honolulu County",-53,-32,-58,-69,-44,16
+"512","Hawaii","Kauai County",-69,-53,-74,-83,-48,26
+"513","Hawaii","Maui County",-64,-40,-73,-85,-54,17
+"514","Idaho","Total",-42,-18,25,-34,-38,10
+"515","Idaho","Ada County",-49,-23,33,-54,-43,11
+"516","Idaho","Bannock County",-39,-24,-6,-28,-37,9
+"517","Idaho","Bear Lake County",-53,NA,NA,NA,-36,NA
+"518","Idaho","Benewah County",-65,4,NA,NA,-35,NA
+"519","Idaho","Bingham County",-21,-13,NA,NA,-38,14
+"520","Idaho","Blaine County",-83,-48,NA,-49,-62,NA
+"521","Idaho","Boise County",-62,NA,-50,NA,-48,NA
+"522","Idaho","Bonner County",-40,-34,-22,NA,-38,14
+"523","Idaho","Bonneville County",-38,-11,59,-21,-34,9
+"524","Idaho","Boundary County",-23,-9,NA,NA,-18,NA
+"525","Idaho","Canyon County",-41,-15,35,-15,-37,9
+"526","Idaho","Caribou County",-50,-2,NA,NA,-27,NA
+"527","Idaho","Cassia County",-7,-10,NA,NA,-26,0
+"528","Idaho","Clearwater County",-61,0,NA,NA,-28,NA
+"529","Idaho","Elmore County",-35,-9,NA,-25,-29,14
+"530","Idaho","Franklin County",-6,-4,NA,NA,-27,NA
+"531","Idaho","Fremont County",-36,-5,-33,NA,-57,NA
+"532","Idaho","Gem County",-20,-25,NA,NA,-34,NA
+"533","Idaho","Gooding County",-42,-10,NA,NA,-21,NA
+"534","Idaho","Idaho County",-60,-12,NA,NA,-46,NA
+"535","Idaho","Jefferson County",-39,-10,-56,NA,-45,9
+"536","Idaho","Jerome County",-8,-44,NA,-13,-27,6
+"537","Idaho","Kootenai County",-42,-20,26,-18,-40,10
+"538","Idaho","Latah County",-54,-33,NA,NA,-47,20
+"539","Idaho","Lemhi County",-26,-20,NA,NA,-28,NA
+"540","Idaho","Lincoln County",NA,NA,NA,NA,-44,NA
+"541","Idaho","Madison County",-29,-19,NA,NA,-59,20
+"542","Idaho","Minidoka County",-43,10,NA,-11,-33,1
+"543","Idaho","Nez Perce County",-46,-14,-24,-55,-31,18
+"544","Idaho","Oneida County",NA,NA,NA,NA,-42,NA
+"545","Idaho","Owyhee County",-14,13,NA,NA,-20,NA
+"546","Idaho","Payette County",-33,-10,NA,NA,-26,5
+"547","Idaho","Power County",NA,-7,NA,NA,-34,NA
+"548","Idaho","Shoshone County",-31,4,NA,NA,-31,NA
+"549","Idaho","Teton County",-73,-20,NA,NA,-47,NA
+"550","Idaho","Twin Falls County",-43,-13,-6,NA,-25,8
+"551","Idaho","Valley County",-86,-58,-57,NA,-60,NA
+"552","Idaho","Washington County",-23,-15,NA,NA,-39,NA
+"553","Illinois","Total",-53,-24,-29,-55,-39,13
+"554","Illinois","Adams County",-42,-15,NA,-30,-27,16
+"555","Illinois","Alexander County",NA,NA,NA,NA,-30,NA
+"556","Illinois","Bond County",-36,-2,NA,-5,-21,NA
+"557","Illinois","Boone County",-41,-23,NA,-65,-38,21
+"558","Illinois","Bureau County",-43,-9,NA,NA,-25,3
+"559","Illinois","Carroll County",-60,-9,NA,NA,-32,NA
+"560","Illinois","Cass County",-21,-10,NA,NA,-6,NA
+"561","Illinois","Champaign County",-54,-29,44,-48,-40,13
+"562","Illinois","Christian County",-31,-30,NA,NA,-20,9
+"563","Illinois","Clark County",-28,NA,NA,-15,-32,NA
+"564","Illinois","Clay County",-25,NA,NA,NA,-27,NA
+"565","Illinois","Clinton County",-28,-4,NA,NA,-29,14
+"566","Illinois","Coles County",-35,-11,NA,NA,-27,18
+"567","Illinois","Cook County",-58,-26,-45,-63,-45,15
+"568","Illinois","Crawford County",-24,2,NA,NA,-27,NA
+"569","Illinois","Cumberland County",-65,NA,NA,-23,-33,NA
+"570","Illinois","De Witt County",-65,-29,NA,NA,-22,NA
+"571","Illinois","DeKalb County",-52,-20,NA,NA,-37,14
+"572","Illinois","Douglas County",-53,-3,NA,NA,-30,NA
+"573","Illinois","DuPage County",-60,-29,-42,-51,-45,15
+"574","Illinois","Edgar County",-25,-20,NA,NA,-38,NA
+"575","Illinois","Edwards County",NA,NA,NA,NA,-39,NA
+"576","Illinois","Effingham County",-42,-2,NA,-26,-36,12
+"577","Illinois","Fayette County",-33,-16,NA,NA,-19,NA
+"578","Illinois","Ford County",-59,-18,NA,NA,-22,NA
+"579","Illinois","Franklin County",-17,9,NA,-34,-28,14
+"580","Illinois","Fulton County",-37,-19,NA,NA,-26,17
+"581","Illinois","Greene County",-46,-2,NA,NA,-21,NA
+"582","Illinois","Grundy County",-43,-24,NA,-22,-34,19
+"583","Illinois","Hamilton County",-50,NA,NA,NA,-33,NA
+"584","Illinois","Hancock County",-44,-16,NA,NA,-24,NA
+"585","Illinois","Henderson County",NA,NA,NA,NA,-23,NA
+"586","Illinois","Henry County",-44,-18,NA,-35,-31,18
+"587","Illinois","Iroquois County",-38,-2,NA,-39,-24,3
+"588","Illinois","Jackson County",-47,-14,22,NA,-33,18
+"589","Illinois","Jasper County",-41,NA,NA,NA,-27,NA
+"590","Illinois","Jefferson County",-37,-21,NA,-10,-39,14
+"591","Illinois","Jersey County",-39,10,NA,NA,-23,NA
+"592","Illinois","Jo Daviess County",-59,-13,NA,NA,-38,NA
+"593","Illinois","Johnson County",-22,NA,-20,NA,-35,NA
+"594","Illinois","Kane County",-57,-27,-20,-46,-39,14
+"595","Illinois","Kankakee County",-48,-20,NA,-15,-29,11
+"596","Illinois","Kendall County",-46,-28,-25,NA,-38,17
+"597","Illinois","Knox County",-50,3,NA,-31,-32,16
+"598","Illinois","LaSalle County",-53,0,-62,-18,-32,11
+"599","Illinois","Lake County",-57,-25,-36,-58,-41,14
+"600","Illinois","Lawrence County",-17,NA,NA,NA,-17,NA
+"601","Illinois","Lee County",-39,-18,NA,NA,-24,13
+"602","Illinois","Livingston County",-44,-1,NA,NA,-27,17
+"603","Illinois","Logan County",-40,-31,NA,NA,-25,6
+"604","Illinois","Macon County",-43,-14,NA,-20,-30,10
+"605","Illinois","Macoupin County",-40,1,NA,NA,-30,17
+"606","Illinois","Madison County",-39,-17,58,-24,-34,10
+"607","Illinois","Marion County",-39,-5,NA,NA,-33,14
+"608","Illinois","Marshall County",-72,NA,NA,NA,-39,NA
+"609","Illinois","Mason County",-32,4,NA,NA,-27,NA
+"610","Illinois","Massac County",-48,-18,NA,NA,-22,NA
+"611","Illinois","McDonough County",-40,-13,NA,NA,-28,0
+"612","Illinois","McHenry County",-54,-23,-26,-61,-38,13
+"613","Illinois","McLean County",-53,-28,1,-37,-41,12
+"614","Illinois","Menard County",-62,NA,NA,NA,-42,NA
+"615","Illinois","Mercer County",-63,NA,NA,NA,-33,NA
+"616","Illinois","Monroe County",-37,-12,NA,NA,-33,16
+"617","Illinois","Montgomery County",-37,-13,NA,NA,-28,1
+"618","Illinois","Morgan County",-39,-3,NA,-14,-34,6
+"619","Illinois","Moultrie County",-56,NA,NA,NA,-26,NA
+"620","Illinois","Ogle County",-46,-9,NA,NA,-27,17
+"621","Illinois","Peoria County",-50,-19,-16,-45,-35,11
+"622","Illinois","Perry County",-35,-4,NA,NA,-28,NA
+"623","Illinois","Piatt County",-55,NA,NA,NA,-26,NA
+"624","Illinois","Pike County",-36,-11,NA,NA,-19,NA
+"625","Illinois","Pulaski County",NA,NA,NA,NA,-33,NA
+"626","Illinois","Putnam County",NA,NA,NA,NA,-38,NA
+"627","Illinois","Randolph County",-24,9,NA,NA,-24,10
+"628","Illinois","Richland County",-32,-11,NA,NA,-19,NA
+"629","Illinois","Rock Island County",-50,0,-55,-57,-36,10
+"630","Illinois","Saline County",-20,1,NA,NA,-24,NA
+"631","Illinois","Sangamon County",-47,-18,31,-38,-36,10
+"632","Illinois","Schuyler County",-55,NA,NA,NA,-29,NA
+"633","Illinois","Shelby County",-20,NA,NA,NA,-31,NA
+"634","Illinois","St. Clair County",-45,-13,52,-26,-34,10
+"635","Illinois","Stark County",NA,NA,NA,NA,-36,NA
+"636","Illinois","Stephenson County",-44,-27,NA,NA,-30,17
+"637","Illinois","Tazewell County",-41,-9,-15,NA,-33,11
+"638","Illinois","Union County",-8,-5,NA,NA,-23,NA
+"639","Illinois","Vermilion County",-39,-15,NA,-31,-26,9
+"640","Illinois","Wabash County",-33,-17,NA,NA,-32,NA
+"641","Illinois","Warren County",-48,0,NA,NA,-20,NA
+"642","Illinois","Washington County",-58,0,NA,NA,-40,NA
+"643","Illinois","Wayne County",-30,-8,NA,NA,-24,NA
+"644","Illinois","White County",-23,-7,NA,NA,-23,NA
+"645","Illinois","Whiteside County",-53,-24,NA,NA,-30,18
+"646","Illinois","Will County",-54,-27,-36,-28,-36,14
+"647","Illinois","Williamson County",-33,-15,-45,-16,-32,17
+"648","Illinois","Winnebago County",-47,-30,-40,-40,-36,11
+"649","Illinois","Woodford County",-61,-5,NA,NA,-34,15
+"650","Indiana","Total",-48,-25,24,-34,-36,11
+"651","Indiana","Adams County",-43,-25,NA,NA,-33,8
+"652","Indiana","Allen County",-54,-36,13,-44,-39,12
+"653","Indiana","Bartholomew County",-49,-30,10,-28,-45,26
+"654","Indiana","Benton County",NA,NA,NA,NA,-42,NA
+"655","Indiana","Blackford County",-51,-17,NA,NA,-24,NA
+"656","Indiana","Boone County",-51,-28,NA,-19,-39,26
+"657","Indiana","Brown County",-68,-4,NA,NA,-37,NA
+"658","Indiana","Carroll County",-52,-14,NA,NA,-38,NA
+"659","Indiana","Cass County",-38,-17,NA,NA,-34,18
+"660","Indiana","Clark County",-48,-10,64,-14,-36,10
+"661","Indiana","Clay County",-33,-35,NA,-21,-32,-1
+"662","Indiana","Clinton County",-36,-30,NA,NA,-30,19
+"663","Indiana","Crawford County",-58,-16,NA,-38,-36,NA
+"664","Indiana","Daviess County",-40,-5,NA,NA,-25,8
+"665","Indiana","DeKalb County",-50,-18,NA,NA,-34,22
+"666","Indiana","Dearborn County",-35,-11,NA,NA,-42,22
+"667","Indiana","Decatur County",-45,-26,NA,-35,-43,11
+"668","Indiana","Delaware County",-52,-28,NA,1,-36,10
+"669","Indiana","Dubois County",-40,-19,NA,NA,-29,21
+"670","Indiana","Elkhart County",-43,-35,18,-19,-35,10
+"671","Indiana","Fayette County",-32,-21,NA,NA,-35,6
+"672","Indiana","Floyd County",-39,-21,NA,NA,-38,21
+"673","Indiana","Fountain County",-65,-10,NA,NA,-36,NA
+"674","Indiana","Franklin County",-38,-28,NA,NA,-36,NA
+"675","Indiana","Fulton County",-33,-19,NA,-54,-31,NA
+"676","Indiana","Gibson County",-35,-19,NA,-29,-29,11
+"677","Indiana","Grant County",-46,-17,NA,-13,-22,17
+"678","Indiana","Greene County",-33,-23,NA,NA,-29,5
+"679","Indiana","Hamilton County",-58,-31,38,NA,-47,13
+"680","Indiana","Hancock County",-46,9,NA,-12,-38,24
+"681","Indiana","Harrison County",-44,-8,NA,NA,-30,20
+"682","Indiana","Hendricks County",-47,-26,-13,-19,-39,12
+"683","Indiana","Henry County",-32,-19,NA,-28,-31,21
+"684","Indiana","Howard County",-56,-36,NA,NA,-47,14
+"685","Indiana","Huntington County",-47,-29,NA,-46,-34,21
+"686","Indiana","Jackson County",-24,-55,NA,-6,-41,22
+"687","Indiana","Jasper County",-44,-24,NA,-22,-33,15
+"688","Indiana","Jay County",-40,-35,NA,NA,-22,NA
+"689","Indiana","Jefferson County",-37,-1,NA,NA,-23,14
+"690","Indiana","Jennings County",-26,-11,NA,NA,-37,12
+"691","Indiana","Johnson County",-51,-22,-5,-24,-37,11
+"692","Indiana","Knox County",-44,-15,NA,NA,-31,14
+"693","Indiana","Kosciusko County",-52,-24,NA,NA,-33,23
+"694","Indiana","LaGrange County",-70,-25,-46,-32,-36,9
+"695","Indiana","LaPorte County",-49,-24,-23,-43,-32,10
+"696","Indiana","Lake County",-52,-27,-18,-25,-38,13
+"697","Indiana","Lawrence County",-41,-23,NA,NA,-34,17
+"698","Indiana","Madison County",-44,-12,NA,-27,-35,10
+"699","Indiana","Marion County",-52,-27,17,-49,-38,11
+"700","Indiana","Marshall County",-48,-19,NA,-26,-25,21
+"701","Indiana","Martin County",-40,-4,NA,NA,-36,NA
+"702","Indiana","Miami County",-43,-27,NA,NA,-39,16
+"703","Indiana","Monroe County",-53,-33,39,-40,-42,12
+"704","Indiana","Montgomery County",-40,-25,NA,-35,-31,16
+"705","Indiana","Morgan County",-39,-12,NA,NA,-32,20
+"706","Indiana","Newton County",-45,NA,NA,NA,-27,NA
+"707","Indiana","Noble County",-42,-26,NA,NA,-42,23
+"708","Indiana","Ohio County",NA,NA,NA,NA,-53,NA
+"709","Indiana","Orange County",-41,-19,NA,NA,-45,NA
+"710","Indiana","Owen County",-30,-21,NA,NA,-29,NA
+"711","Indiana","Parke County",-44,-2,NA,NA,-37,NA
+"712","Indiana","Perry County",-59,-4,NA,NA,-45,NA
+"713","Indiana","Pike County",-54,-7,NA,NA,-39,NA
+"714","Indiana","Porter County",-54,-28,20,-39,-34,13
+"715","Indiana","Posey County",-25,6,NA,NA,-22,-1
+"716","Indiana","Pulaski County",-33,-23,NA,NA,-34,NA
+"717","Indiana","Putnam County",-45,-31,NA,NA,-26,11
+"718","Indiana","Randolph County",-24,-14,NA,NA,-28,8
+"719","Indiana","Ripley County",-46,-18,NA,NA,-27,0
+"720","Indiana","Rush County",-44,-11,NA,NA,-35,NA
+"721","Indiana","Scott County",-30,-8,NA,NA,-33,3
+"722","Indiana","Shelby County",-46,-18,NA,-43,-32,21
+"723","Indiana","Spencer County",-45,15,NA,NA,-24,NA
+"724","Indiana","St. Joseph County",-53,-26,-17,-37,-35,11
+"725","Indiana","Starke County",-50,-10,NA,NA,-25,NA
+"726","Indiana","Steuben County",-49,-32,NA,-29,-37,19
+"727","Indiana","Sullivan County",-38,-17,NA,NA,-20,NA
+"728","Indiana","Switzerland County",NA,-34,NA,NA,-44,NA
+"729","Indiana","Tippecanoe County",-57,-37,5,-27,-41,12
+"730","Indiana","Tipton County",-46,-22,NA,NA,-33,NA
+"731","Indiana","Union County",-55,NA,NA,NA,-39,NA
+"732","Indiana","Vanderburgh County",-41,-16,-16,-53,-29,10
+"733","Indiana","Vermillion County",-34,4,NA,-32,-20,NA
+"734","Indiana","Vigo County",-47,-24,-12,-9,-36,9
+"735","Indiana","Wabash County",-50,-36,NA,NA,-26,8
+"736","Indiana","Warren County",NA,NA,NA,NA,-32,NA
+"737","Indiana","Warrick County",-23,-1,NA,NA,-30,22
+"738","Indiana","Washington County",-27,-22,NA,NA,-25,11
+"739","Indiana","Wayne County",-48,-30,NA,-18,-32,12
+"740","Indiana","Wells County",-35,-12,NA,NA,-29,11
+"741","Indiana","White County",-38,-12,NA,-22,-39,6
+"742","Indiana","Whitley County",-45,-34,NA,NA,-32,22
+"743","Iowa","Total",-43,-10,41,-28,-29,10
+"744","Iowa","Adair County",-46,-3,NA,NA,-33,NA
+"745","Iowa","Allamakee County",-57,-27,NA,NA,-22,NA
+"746","Iowa","Appanoose County",-21,26,NA,NA,-24,NA
+"747","Iowa","Audubon County",NA,NA,NA,NA,-28,NA
+"748","Iowa","Benton County",-54,-10,NA,NA,-33,8
+"749","Iowa","Black Hawk County",-46,-23,11,-14,-30,10
+"750","Iowa","Boone County",-32,-21,NA,NA,-22,14
+"751","Iowa","Bremer County",-36,-24,NA,NA,-34,-1
+"752","Iowa","Buchanan County",-39,-13,NA,NA,-23,NA
+"753","Iowa","Buena Vista County",-28,-6,NA,NA,-13,NA
+"754","Iowa","Butler County",NA,-15,NA,NA,-30,NA
+"755","Iowa","Calhoun County",NA,-12,NA,NA,-29,NA
+"756","Iowa","Carroll County",-34,-4,NA,NA,-29,NA
+"757","Iowa","Cass County",-23,-6,NA,NA,-16,NA
+"758","Iowa","Cedar County",-44,-23,NA,14,-18,NA
+"759","Iowa","Cerro Gordo County",-46,-13,NA,-44,-29,17
+"760","Iowa","Cherokee County",-75,NA,NA,NA,-20,NA
+"761","Iowa","Chickasaw County",-56,-28,NA,NA,-25,NA
+"762","Iowa","Clarke County",-30,NA,NA,-29,-17,NA
+"763","Iowa","Clay County",-27,-18,NA,NA,-17,NA
+"764","Iowa","Clayton County",-61,-12,NA,NA,-19,NA
+"765","Iowa","Clinton County",-41,18,NA,NA,-24,16
+"766","Iowa","Crawford County",-34,NA,NA,NA,-23,NA
+"767","Iowa","Dallas County",-60,-40,NA,NA,-34,25
+"768","Iowa","Davis County",-64,NA,NA,NA,-21,NA
+"769","Iowa","Decatur County",NA,NA,NA,NA,-25,NA
+"770","Iowa","Delaware County",-40,-20,NA,NA,-22,NA
+"771","Iowa","Des Moines County",-40,-7,NA,-32,-24,14
+"772","Iowa","Dickinson County",-29,-2,-50,NA,-20,NA
+"773","Iowa","Dubuque County",-53,-9,-25,-63,-34,15
+"774","Iowa","Emmet County",-42,11,NA,NA,-32,NA
+"775","Iowa","Fayette County",-36,-11,NA,NA,-20,NA
+"776","Iowa","Floyd County",-40,-21,NA,-9,-16,NA
+"777","Iowa","Franklin County",-47,-16,NA,NA,-25,NA
+"778","Iowa","Fremont County",-65,-9,NA,-16,-15,NA
+"779","Iowa","Greene County",-51,2,NA,NA,-31,NA
+"780","Iowa","Grundy County",-70,-33,NA,NA,-29,NA
+"781","Iowa","Guthrie County",NA,NA,NA,NA,-34,NA
+"782","Iowa","Hamilton County",-27,-6,NA,-39,-6,NA
+"783","Iowa","Hancock County",NA,-22,NA,NA,-34,NA
+"784","Iowa","Hardin County",-52,15,NA,NA,-25,NA
+"785","Iowa","Harrison County",-26,0,NA,NA,-19,NA
+"786","Iowa","Henry County",-28,-17,NA,-17,-30,NA
+"787","Iowa","Howard County",-69,-5,NA,NA,-21,NA
+"788","Iowa","Humboldt County",-45,-7,NA,NA,-32,NA
+"789","Iowa","Ida County",-57,NA,NA,NA,-22,NA
+"790","Iowa","Iowa County",-80,-9,NA,NA,-41,NA
+"791","Iowa","Jackson County",-37,-10,NA,NA,-24,NA
+"792","Iowa","Jasper County",-40,60,NA,5,-22,11
+"793","Iowa","Jefferson County",-40,NA,NA,NA,-34,NA
+"794","Iowa","Johnson County",-58,-36,-6,-24,-36,13
+"795","Iowa","Jones County",-43,4,NA,NA,-30,NA
+"796","Iowa","Keokuk County",-66,NA,NA,NA,-21,NA
+"797","Iowa","Kossuth County",-70,47,NA,NA,-21,NA
+"798","Iowa","Lee County",-24,-13,NA,NA,-14,14
+"799","Iowa","Linn County",-52,-7,2,-55,-36,11
+"800","Iowa","Louisa County",NA,NA,NA,NA,-18,NA
+"801","Iowa","Lucas County",-59,6,NA,NA,-16,NA
+"802","Iowa","Lyon County",-66,NA,NA,NA,-24,NA
+"803","Iowa","Madison County",-53,33,NA,NA,-25,NA
+"804","Iowa","Mahaska County",-31,NA,NA,NA,-22,NA
+"805","Iowa","Marion County",-17,26,NA,NA,-19,13
+"806","Iowa","Marshall County",-36,-15,NA,NA,-29,14
+"807","Iowa","Mills County",-6,NA,NA,NA,-20,NA
+"808","Iowa","Mitchell County",-73,NA,NA,NA,-28,NA
+"809","Iowa","Monona County",-35,NA,NA,NA,-30,NA
+"810","Iowa","Monroe County",-51,NA,NA,NA,-26,NA
+"811","Iowa","Montgomery County",-56,2,NA,NA,-23,NA
+"812","Iowa","Muscatine County",-42,33,NA,NA,-28,16
+"813","Iowa","O'Brien County",-22,-6,NA,NA,-4,NA
+"814","Iowa","Osceola County",NA,NA,NA,NA,-25,NA
+"815","Iowa","Page County",-35,NA,NA,NA,-22,NA
+"816","Iowa","Palo Alto County",-73,-55,NA,NA,-30,NA
+"817","Iowa","Plymouth County",-26,6,NA,NA,-30,8
+"818","Iowa","Pocahontas County",NA,NA,NA,NA,-26,NA
+"819","Iowa","Polk County",-44,-9,66,-45,-34,10
+"820","Iowa","Pottawattamie County",-33,2,14,-4,-30,7
+"821","Iowa","Poweshiek County",-36,-15,NA,-18,-28,NA
+"822","Iowa","Sac County",NA,NA,NA,NA,-22,NA
+"823","Iowa","Scott County",-50,-22,-1,-24,-31,11
+"824","Iowa","Shelby County",-17,-5,NA,NA,-25,NA
+"825","Iowa","Sioux County",-25,4,NA,NA,-23,19
+"826","Iowa","Story County",-50,-29,NA,-38,-43,22
+"827","Iowa","Tama County",-44,-18,NA,NA,-36,NA
+"828","Iowa","Taylor County",NA,NA,NA,NA,-18,NA
+"829","Iowa","Union County",-14,NA,NA,NA,-29,NA
+"830","Iowa","Van Buren County",NA,-7,NA,NA,-13,NA
+"831","Iowa","Wapello County",-33,8,NA,NA,-18,10
+"832","Iowa","Warren County",-28,-13,NA,NA,-32,15
+"833","Iowa","Washington County",-41,-19,NA,NA,-30,-3
+"834","Iowa","Wayne County",NA,NA,NA,NA,-25,NA
+"835","Iowa","Webster County",-33,22,NA,NA,-24,15
+"836","Iowa","Winnebago County",-53,-18,NA,NA,-36,NA
+"837","Iowa","Winneshiek County",-56,-33,NA,NA,-33,NA
+"838","Iowa","Woodbury County",-34,-3,NA,-13,-26,8
+"839","Iowa","Worth County",NA,-42,NA,NA,-31,NA
+"840","Iowa","Wright County",-57,-4,NA,NA,-8,NA
+"841","Kansas","Total",-36,-14,72,-20,-30,9
+"842","Kansas","Allen County",-19,-2,NA,NA,-14,NA
+"843","Kansas","Anderson County",-18,NA,NA,NA,-27,NA
+"844","Kansas","Atchison County",-24,NA,NA,NA,-27,NA
+"845","Kansas","Barton County",-12,3,NA,NA,-15,-1
+"846","Kansas","Bourbon County",-38,-21,NA,NA,-29,NA
+"847","Kansas","Brown County",8,0,NA,NA,-20,NA
+"848","Kansas","Butler County",-19,-11,-46,NA,-25,15
+"849","Kansas","Cherokee County",5,16,NA,NA,-23,-4
+"850","Kansas","Clay County",-16,-22,NA,NA,-27,NA
+"851","Kansas","Cloud County",-27,NA,NA,NA,-20,NA
+"852","Kansas","Coffey County",-67,-24,NA,-29,-35,NA
+"853","Kansas","Cowley County",-17,5,NA,NA,-28,12
+"854","Kansas","Crawford County",-42,-29,NA,NA,-22,15
+"855","Kansas","Dickinson County",-29,-4,NA,-9,-24,NA
+"856","Kansas","Doniphan County",NA,NA,NA,NA,-24,NA
+"857","Kansas","Douglas County",-50,-20,88,-26,-38,11
+"858","Kansas","Ellis County",-34,-19,NA,-17,-14,-1
+"859","Kansas","Ellsworth County",NA,NA,NA,NA,-16,NA
+"860","Kansas","Finney County",-24,2,NA,-24,-15,12
+"861","Kansas","Ford County",-21,-1,NA,-8,-16,11
+"862","Kansas","Franklin County",-30,-27,NA,-17,-20,15
+"863","Kansas","Geary County",-38,-18,NA,NA,-33,15
+"864","Kansas","Grant County",-20,NA,NA,NA,-14,NA
+"865","Kansas","Greenwood County",NA,NA,NA,NA,-27,NA
+"866","Kansas","Harper County",-61,NA,NA,NA,NA,NA
+"867","Kansas","Harvey County",-13,-1,NA,-38,-31,14
+"868","Kansas","Jackson County",-24,-33,NA,NA,-35,NA
+"869","Kansas","Jefferson County",-62,13,NA,NA,-31,NA
+"870","Kansas","Johnson County",-42,-24,192,-20,-40,12
+"871","Kansas","Kingman County",-51,NA,NA,NA,-28,NA
+"872","Kansas","Labette County",-13,0,NA,NA,-6,NA
+"873","Kansas","Leavenworth County",-30,-19,NA,-43,-32,17
+"874","Kansas","Linn County",NA,NA,NA,NA,-17,NA
+"875","Kansas","Lyon County",-41,-27,NA,-31,-23,15
+"876","Kansas","Marion County",-32,NA,NA,NA,-28,NA
+"877","Kansas","Marshall County",-15,NA,NA,NA,-13,NA
+"878","Kansas","McPherson County",-32,-9,NA,-16,-26,13
+"879","Kansas","Miami County",-19,-16,NA,NA,-28,16
+"880","Kansas","Mitchell County",-73,NA,NA,NA,-24,NA
+"881","Kansas","Montgomery County",-8,13,NA,NA,1,9
+"882","Kansas","Morris County",NA,NA,NA,NA,-29,NA
+"883","Kansas","Nemaha County",-40,NA,NA,NA,-15,NA
+"884","Kansas","Neosho County",-11,15,NA,-22,-18,NA
+"885","Kansas","Osage County",-51,-7,NA,NA,-12,NA
+"886","Kansas","Ottawa County",NA,NA,NA,NA,-24,NA
+"887","Kansas","Pawnee County",-22,2,NA,NA,-26,NA
+"888","Kansas","Pottawatomie County",-37,-26,NA,NA,-31,2
+"889","Kansas","Pratt County",-8,-2,NA,NA,-20,NA
+"890","Kansas","Reno County",-28,-11,NA,-16,-25,10
+"891","Kansas","Rice County",-26,10,NA,NA,-27,NA
+"892","Kansas","Riley County",-58,-34,-50,NA,-38,20
+"893","Kansas","Russell County",-66,-2,NA,NA,-17,NA
+"894","Kansas","Saline County",-27,-16,-7,-11,-21,11
+"895","Kansas","Scott County",-53,NA,NA,NA,-19,NA
+"896","Kansas","Sedgwick County",-38,-16,76,-37,-34,9
+"897","Kansas","Seward County",-24,-1,NA,-11,-14,-1
+"898","Kansas","Shawnee County",-37,-16,55,13,-30,10
+"899","Kansas","Sherman County",-18,NA,NA,NA,NA,NA
+"900","Kansas","Stevens County",-62,NA,NA,NA,NA,NA
+"901","Kansas","Sumner County",-26,10,NA,NA,-30,1
+"902","Kansas","Thomas County",-31,NA,NA,-2,-25,NA
+"903","Kansas","Trego County",NA,-14,NA,NA,NA,NA
+"904","Kansas","Wabaunsee County",NA,NA,NA,NA,-32,NA
+"905","Kansas","Washington County",NA,NA,NA,NA,-16,NA
+"906","Kansas","Wilson County",-18,2,NA,NA,-26,NA
+"907","Kansas","Wyandotte County",-43,-10,53,-5,-33,9
+"908","Kentucky","Total",-37,-11,68,-34,-34,9
+"909","Kentucky","Adair County",-22,-16,NA,NA,-39,NA
+"910","Kentucky","Allen County",-17,0,NA,NA,-24,NA
+"911","Kentucky","Anderson County",-26,-5,NA,NA,-27,-1
+"912","Kentucky","Ballard County",NA,NA,NA,NA,-24,NA
+"913","Kentucky","Barren County",-31,-9,NA,NA,-28,7
+"914","Kentucky","Bath County",NA,-9,NA,NA,-34,NA
+"915","Kentucky","Bell County",-28,-12,NA,NA,-25,NA
+"916","Kentucky","Boone County",-44,-16,53,-54,-37,9
+"917","Kentucky","Bourbon County",-19,-25,NA,NA,-29,NA
+"918","Kentucky","Boyd County",-44,-11,NA,-18,-27,15
+"919","Kentucky","Boyle County",-40,-15,NA,NA,-38,NA
+"920","Kentucky","Bracken County",NA,NA,NA,NA,-33,NA
+"921","Kentucky","Breathitt County",-14,NA,NA,NA,-33,NA
+"922","Kentucky","Breckinridge County",-7,7,NA,NA,-21,NA
+"923","Kentucky","Bullitt County",-36,-10,NA,-26,-35,18
+"924","Kentucky","Butler County",-39,4,NA,NA,-33,NA
+"925","Kentucky","Caldwell County",-20,10,NA,NA,-30,NA
+"926","Kentucky","Calloway County",-39,-10,NA,NA,-34,10
+"927","Kentucky","Campbell County",-42,-4,NA,NA,-38,13
+"928","Kentucky","Carroll County",-20,-18,NA,NA,-9,NA
+"929","Kentucky","Carter County",-26,-6,NA,-13,-15,NA
+"930","Kentucky","Casey County",0,5,NA,NA,-38,NA
+"931","Kentucky","Christian County",-21,-11,NA,-17,-36,16
+"932","Kentucky","Clark County",-27,-8,NA,NA,-34,12
+"933","Kentucky","Clay County",-2,-12,NA,NA,-24,NA
+"934","Kentucky","Clinton County",NA,NA,NA,NA,-29,NA
+"935","Kentucky","Crittenden County",-37,-2,NA,NA,-25,NA
+"936","Kentucky","Daviess County",-43,-16,39,NA,-28,8
+"937","Kentucky","Edmonson County",NA,NA,NA,NA,-35,NA
+"938","Kentucky","Estill County",-26,-11,NA,NA,-34,NA
+"939","Kentucky","Fayette County",-45,-12,57,-46,-39,10
+"940","Kentucky","Fleming County",-10,0,NA,NA,-39,NA
+"941","Kentucky","Floyd County",-22,-6,NA,NA,-25,NA
+"942","Kentucky","Franklin County",-32,-15,NA,NA,-36,18
+"943","Kentucky","Fulton County",-16,-12,NA,NA,-22,NA
+"944","Kentucky","Gallatin County",-6,58,NA,-89,-34,NA
+"945","Kentucky","Garrard County",-49,9,NA,NA,-34,NA
+"946","Kentucky","Grant County",-27,-10,NA,NA,-42,1
+"947","Kentucky","Graves County",-21,-6,NA,NA,-32,10
+"948","Kentucky","Grayson County",-13,8,NA,NA,-36,NA
+"949","Kentucky","Green County",NA,NA,NA,NA,-30,NA
+"950","Kentucky","Greenup County",-33,-5,NA,NA,-23,1
+"951","Kentucky","Hancock County",NA,NA,NA,NA,-32,NA
+"952","Kentucky","Hardin County",-39,-16,NA,-34,-38,8
+"953","Kentucky","Harlan County",-14,3,NA,NA,-4,NA
+"954","Kentucky","Harrison County",86,-49,NA,NA,-33,NA
+"955","Kentucky","Hart County",10,3,NA,-15,-30,NA
+"956","Kentucky","Henderson County",-21,23,NA,NA,-30,16
+"957","Kentucky","Henry County",-35,1,NA,-26,-42,NA
+"958","Kentucky","Hopkins County",-35,-18,NA,-37,-31,15
+"959","Kentucky","Jackson County",NA,NA,NA,NA,-38,NA
+"960","Kentucky","Jefferson County",-44,-10,83,-37,-38,10
+"961","Kentucky","Jessamine County",-38,-24,NA,-7,-39,17
+"962","Kentucky","Johnson County",-22,-17,NA,NA,-22,NA
+"963","Kentucky","Kenton County",-35,-8,108,-2,-35,10
+"964","Kentucky","Knott County",NA,NA,NA,NA,-35,NA
+"965","Kentucky","Knox County",-20,-15,NA,NA,-24,NA
+"966","Kentucky","Larue County",-26,-5,NA,NA,-28,NA
+"967","Kentucky","Laurel County",-36,-14,61,-22,-30,14
+"968","Kentucky","Lawrence County",-28,-33,NA,NA,-20,NA
+"969","Kentucky","Letcher County",-12,-11,NA,NA,-32,NA
+"970","Kentucky","Lewis County",NA,-14,NA,NA,-22,NA
+"971","Kentucky","Lincoln County",-12,16,NA,NA,-29,NA
+"972","Kentucky","Livingston County",NA,4,NA,NA,-34,NA
+"973","Kentucky","Logan County",-16,-5,NA,NA,-23,NA
+"974","Kentucky","Lyon County",-33,NA,NA,NA,-29,NA
+"975","Kentucky","Madison County",-40,-15,NA,-8,-41,8
+"976","Kentucky","Marion County",-12,-4,NA,NA,-34,NA
+"977","Kentucky","Marshall County",-24,7,NA,-16,-30,9
+"978","Kentucky","Mason County",-23,NA,NA,NA,-20,NA
+"979","Kentucky","McCracken County",-40,-13,-24,-15,-34,16
+"980","Kentucky","McCreary County",-21,5,NA,NA,-33,NA
+"981","Kentucky","McLean County",NA,NA,NA,NA,-27,NA
+"982","Kentucky","Meade County",-26,4,NA,NA,-29,8
+"983","Kentucky","Menifee County",NA,NA,NA,NA,-38,NA
+"984","Kentucky","Mercer County",-25,-9,NA,NA,-28,NA
+"985","Kentucky","Metcalfe County",NA,-16,NA,NA,-36,NA
+"986","Kentucky","Monroe County",-16,NA,NA,NA,-33,NA
+"987","Kentucky","Montgomery County",-28,-3,NA,-8,-23,-3
+"988","Kentucky","Morgan County",-59,NA,NA,NA,-34,NA
+"989","Kentucky","Muhlenberg County",-26,-2,NA,NA,-30,NA
+"990","Kentucky","Nelson County",-29,-15,NA,NA,-35,17
+"991","Kentucky","Nicholas County",NA,NA,NA,NA,-43,NA
+"992","Kentucky","Ohio County",-18,8,NA,-34,-27,NA
+"993","Kentucky","Oldham County",-36,-6,NA,NA,-41,24
+"994","Kentucky","Owen County",NA,NA,NA,NA,-41,NA
+"995","Kentucky","Pendleton County",-4,-19,NA,NA,-35,NA
+"996","Kentucky","Perry County",-30,-12,NA,NA,-18,NA
+"997","Kentucky","Pike County",-35,-12,NA,NA,-25,NA
+"998","Kentucky","Powell County",1,-4,NA,NA,-37,NA
+"999","Kentucky","Pulaski County",-34,-22,NA,NA,-36,15
+"1000","Kentucky","Rockcastle County",-53,-21,NA,NA,-24,NA
+"1001","Kentucky","Rowan County",-26,1,NA,NA,-28,NA
+"1002","Kentucky","Russell County",-22,10,NA,NA,-32,NA
+"1003","Kentucky","Scott County",-38,-23,NA,-25,-42,23
+"1004","Kentucky","Shelby County",-38,-4,NA,-35,-45,18
+"1005","Kentucky","Simpson County",-22,-8,NA,-25,-31,NA
+"1006","Kentucky","Spencer County",-25,6,NA,NA,-40,NA
+"1007","Kentucky","Taylor County",-33,-5,NA,NA,-22,NA
+"1008","Kentucky","Todd County",-48,0,NA,NA,-32,NA
+"1009","Kentucky","Trigg County",-27,-2,NA,NA,-35,NA
+"1010","Kentucky","Trimble County",NA,NA,NA,NA,-36,NA
+"1011","Kentucky","Union County",-19,-10,NA,NA,-44,NA
+"1012","Kentucky","Warren County",-42,-23,-26,-22,-37,10
+"1013","Kentucky","Washington County",-33,NA,NA,NA,-44,NA
+"1014","Kentucky","Wayne County",-8,-21,NA,NA,-29,NA
+"1015","Kentucky","Webster County",NA,-8,NA,NA,-25,NA
+"1016","Kentucky","Whitley County",-33,3,NA,-4,-26,-3
+"1017","Kentucky","Woodford County",-33,-17,NA,NA,-30,NA
+"1018","Louisiana","Total",-45,-16,-18,-49,-35,11
+"1019","Louisiana","Acadia Parish",-24,-5,NA,-36,-21,15
+"1020","Louisiana","Allen Parish",-34,-19,NA,NA,-33,NA
+"1021","Louisiana","Ascension Parish",-45,-21,NA,NA,-34,15
+"1022","Louisiana","Assumption Parish",NA,-8,NA,NA,-36,NA
+"1023","Louisiana","Avoyelles Parish",-24,-8,NA,NA,-32,-2
+"1024","Louisiana","Beauregard Parish",-29,-10,NA,NA,-31,3
+"1025","Louisiana","Bienville Parish",-41,-15,NA,NA,-32,NA
+"1026","Louisiana","Bossier Parish",-49,-19,4,-30,-37,12
+"1027","Louisiana","Caddo Parish",-36,-9,-14,-31,-32,10
+"1028","Louisiana","Calcasieu Parish",-40,-19,-6,-38,-34,11
+"1029","Louisiana","Caldwell Parish",-25,NA,NA,NA,-29,NA
+"1030","Louisiana","Cameron Parish",NA,10,NA,NA,-17,NA
+"1031","Louisiana","Catahoula Parish",-64,-20,NA,NA,-38,NA
+"1032","Louisiana","Claiborne Parish",-49,-18,NA,NA,-31,NA
+"1033","Louisiana","Concordia Parish",-23,-16,NA,NA,-20,NA
+"1034","Louisiana","De Soto Parish",-13,-16,NA,-35,-24,NA
+"1035","Louisiana","East Baton Rouge Parish",-48,-16,-26,-44,-34,12
+"1036","Louisiana","East Feliciana Parish",-23,-9,NA,NA,-35,NA
+"1037","Louisiana","Evangeline Parish",-16,-4,NA,NA,-25,NA
+"1038","Louisiana","Franklin Parish",-28,-8,NA,NA,-22,NA
+"1039","Louisiana","Grant Parish",NA,-13,NA,NA,-20,NA
+"1040","Louisiana","Iberia Parish",-26,-11,-30,NA,-23,16
+"1041","Louisiana","Iberville Parish",-29,-4,NA,-43,-30,NA
+"1042","Louisiana","Jackson Parish",-19,-8,NA,NA,-30,NA
+"1043","Louisiana","Jefferson Davis Parish",-40,-12,NA,-47,-33,-1
+"1044","Louisiana","Jefferson Parish",-49,-20,-1,-84,-44,14
+"1045","Louisiana","La Salle Parish",-27,-9,NA,NA,-31,NA
+"1046","Louisiana","Lafayette Parish",-44,-22,15,-42,-31,11
+"1047","Louisiana","Lafourche Parish",-23,-13,NA,-36,-25,12
+"1048","Louisiana","Lincoln Parish",-53,-26,NA,NA,-38,9
+"1049","Louisiana","Livingston Parish",-40,-12,-13,-16,-32,10
+"1050","Louisiana","Madison Parish",-17,-8,NA,-37,-20,NA
+"1051","Louisiana","Morehouse Parish",-24,-8,NA,NA,-23,NA
+"1052","Louisiana","Natchitoches Parish",-33,-24,NA,NA,-30,6
+"1053","Louisiana","Orleans Parish",-71,-35,-55,-59,-54,16
+"1054","Louisiana","Ouachita Parish",-41,-15,-24,-27,-29,9
+"1055","Louisiana","Plaquemines Parish",-39,-21,-31,NA,-25,NA
+"1056","Louisiana","Pointe Coupee Parish",-15,-12,NA,NA,-16,NA
+"1057","Louisiana","Rapides Parish",-40,-15,-2,-55,-30,10
+"1058","Louisiana","Red River Parish",-42,NA,NA,NA,-26,NA
+"1059","Louisiana","Richland Parish",-24,-10,NA,-25,-16,NA
+"1060","Louisiana","Sabine Parish",-16,-6,NA,NA,-23,NA
+"1061","Louisiana","St. Bernard Parish",-31,1,-21,NA,-35,23
+"1062","Louisiana","St. Charles Parish",-39,-13,NA,-18,-35,22
+"1063","Louisiana","St. Helena Parish",NA,-20,NA,NA,-35,NA
+"1064","Louisiana","St. James Parish",-46,-11,NA,NA,-17,NA
+"1065","Louisiana","St. John the Baptist Parish",-34,-3,-67,-51,-37,22
+"1066","Louisiana","St. Landry Parish",-28,-16,NA,-40,-28,14
+"1067","Louisiana","St. Martin Parish",-34,-14,-10,-45,-29,19
+"1068","Louisiana","St. Mary Parish",-31,-11,NA,-43,-33,15
+"1069","Louisiana","St. Tammany Parish",-45,-19,3,-21,-35,11
+"1070","Louisiana","Tangipahoa Parish",-35,-6,-20,-17,-32,10
+"1071","Louisiana","Terrebonne Parish",-43,-12,25,-42,-32,9
+"1072","Louisiana","Union Parish",-22,6,NA,NA,-31,NA
+"1073","Louisiana","Vermilion Parish",-21,-3,NA,NA,-29,16
+"1074","Louisiana","Vernon Parish",-32,-21,NA,NA,-34,19
+"1075","Louisiana","Washington Parish",-21,-1,NA,NA,-20,2
+"1076","Louisiana","Webster Parish",-27,-19,NA,-19,-31,13
+"1077","Louisiana","West Baton Rouge Parish",-42,1,NA,-37,-36,NA
+"1078","Louisiana","West Carroll Parish",-23,-29,NA,NA,-22,NA
+"1079","Louisiana","West Feliciana Parish",-54,-19,NA,NA,-45,NA
+"1080","Louisiana","Winn Parish",-25,0,NA,NA,-23,NA
+"1081","Maine","Total",-50,-22,-24,-56,-31,10
+"1082","Maine","Androscoggin County",-49,-21,-26,NA,-30,10
+"1083","Maine","Aroostook County",-28,9,-4,NA,-18,16
+"1084","Maine","Cumberland County",-60,-36,-38,-67,-37,13
+"1085","Maine","Franklin County",-53,-21,NA,NA,-32,0
+"1086","Maine","Hancock County",-35,-1,15,NA,-22,17
+"1087","Maine","Kennebec County",-42,-19,-37,-53,-28,10
+"1088","Maine","Knox County",-35,-24,NA,NA,-30,11
+"1089","Maine","Lincoln County",-54,-15,NA,NA,-30,6
+"1090","Maine","Oxford County",-53,-27,-55,NA,-38,18
+"1091","Maine","Penobscot County",-45,-14,4,-29,-31,9
+"1092","Maine","Piscataquis County",-62,-8,NA,NA,-14,NA
+"1093","Maine","Sagadahoc County",-48,-11,NA,NA,-34,13
+"1094","Maine","Somerset County",-29,-15,-9,NA,-22,17
+"1095","Maine","Waldo County",-44,-20,NA,NA,-27,13
+"1096","Maine","Washington County",-42,-8,NA,NA,-24,NA
+"1097","Maine","York County",-55,-23,-48,-64,-36,12
+"1098","Maryland","Total",-45,-25,29,-51,-39,13
+"1099","Maryland","Allegany County",-39,-17,-8,-32,-31,16
+"1100","Maryland","Anne Arundel County",-49,-31,33,-76,-42,13
+"1101","Maryland","Baltimore",-44,-18,12,-34,-37,12
+"1102","Maryland","Baltimore County",-46,-21,10,-39,-36,13
+"1103","Maryland","Calvert County",-37,-33,33,NA,-39,23
+"1104","Maryland","Caroline County",-28,-21,NA,NA,-28,15
+"1105","Maryland","Carroll County",-43,-35,10,-50,-34,12
+"1106","Maryland","Cecil County",-34,-32,-34,-57,-30,10
+"1107","Maryland","Charles County",-41,-18,-42,-28,-39,13
+"1108","Maryland","Dorchester County",-29,-6,NA,NA,-28,12
+"1109","Maryland","Frederick County",-49,-30,19,-35,-38,13
+"1110","Maryland","Garrett County",-37,-20,NA,-17,-37,-1
+"1111","Maryland","Harford County",-43,-30,50,-62,-32,12
+"1112","Maryland","Howard County",-57,-45,7,-30,-47,16
+"1113","Maryland","Kent County",-43,-14,NA,NA,-33,NA
+"1114","Maryland","Montgomery County",-51,-30,44,-50,-45,16
+"1115","Maryland","Prince George's County",-40,-26,37,-50,-40,14
+"1116","Maryland","Queen Anne's County",-57,-33,-36,NA,-40,21
+"1117","Maryland","Somerset County",-41,-7,NA,NA,-36,NA
+"1118","Maryland","St. Mary's County",-40,-19,32,NA,-34,14
+"1119","Maryland","Talbot County",-42,-23,NA,NA,-38,8
+"1120","Maryland","Washington County",-42,-20,28,-22,-32,10
+"1121","Maryland","Wicomico County",-46,-23,NA,-58,-34,10
+"1122","Maryland","Worcester County",-47,-21,-24,NA,-39,16
+"1123","Massachusetts","Total",-59,-36,-56,-73,-42,16
+"1124","Massachusetts","Barnstable County",-57,-28,-38,-67,-41,13
+"1125","Massachusetts","Berkshire County",-49,-31,-36,-68,-35,12
+"1126","Massachusetts","Bristol County",-54,-32,-44,-54,-35,13
+"1127","Massachusetts","Dukes County",-79,-41,NA,-53,-51,NA
+"1128","Massachusetts","Essex County",-58,-39,-53,-60,-44,16
+"1129","Massachusetts","Franklin County",-58,-40,-37,-39,-37,22
+"1130","Massachusetts","Hampden County",-54,-28,-46,-56,-37,12
+"1131","Massachusetts","Hampshire County",-60,-39,-45,-65,-43,15
+"1132","Massachusetts","Middlesex County",-64,-41,-62,-73,-46,18
+"1133","Massachusetts","Nantucket County",-70,-38,NA,NA,-54,NA
+"1134","Massachusetts","Norfolk County",-63,-37,-57,-61,-44,17
+"1135","Massachusetts","Plymouth County",-57,-32,-34,-54,-37,14
+"1136","Massachusetts","Suffolk County",-71,-41,-68,-79,-51,18
+"1137","Massachusetts","Worcester County",-55,-36,-60,-66,-38,14
+"1138","Michigan","Total",-58,-28,15,-55,-43,12
+"1139","Michigan","Alcona County",1,NA,NA,NA,-45,NA
+"1140","Michigan","Alger County",-79,-57,-54,NA,-56,NA
+"1141","Michigan","Allegan County",-49,-17,-21,-36,-39,12
+"1142","Michigan","Alpena County",-43,-17,NA,NA,-31,3
+"1143","Michigan","Antrim County",-75,-20,NA,NA,-43,NA
+"1144","Michigan","Arenac County",-41,-9,NA,NA,-36,NA
+"1145","Michigan","Baraga County",NA,-44,NA,NA,-57,NA
+"1146","Michigan","Barry County",-55,-9,NA,NA,-40,25
+"1147","Michigan","Bay County",-55,-25,-23,NA,-37,11
+"1148","Michigan","Benzie County",-44,-7,NA,NA,-39,NA
+"1149","Michigan","Berrien County",-50,-22,31,-37,-38,11
+"1150","Michigan","Branch County",-52,-36,NA,NA,-28,22
+"1151","Michigan","Calhoun County",-53,-24,-13,-30,-42,11
+"1152","Michigan","Cass County",-55,-15,NA,NA,-38,22
+"1153","Michigan","Charlevoix County",-54,-20,-34,NA,-40,NA
+"1154","Michigan","Cheboygan County",-45,-14,NA,NA,-37,NA
+"1155","Michigan","Chippewa County",-63,-3,-47,NA,-44,2
+"1156","Michigan","Clare County",-61,-17,NA,NA,-35,9
+"1157","Michigan","Clinton County",-59,-36,NA,-54,-38,28
+"1158","Michigan","Crawford County",-55,-40,NA,NA,-39,NA
+"1159","Michigan","Delta County",-47,-24,NA,NA,-29,9
+"1160","Michigan","Dickinson County",-38,-13,NA,NA,-27,0
+"1161","Michigan","Eaton County",-59,-35,NA,NA,-38,12
+"1162","Michigan","Emmet County",-60,-32,NA,NA,-49,1
+"1163","Michigan","Genesee County",-55,-25,6,-48,-45,12
+"1164","Michigan","Gladwin County",-77,-6,NA,NA,-41,0
+"1165","Michigan","Gogebic County",-53,-35,NA,NA,-45,NA
+"1166","Michigan","Grand Traverse County",-60,-30,-8,-69,-43,15
+"1167","Michigan","Gratiot County",-50,-31,NA,NA,-32,21
+"1168","Michigan","Hillsdale County",-48,-22,NA,NA,-38,24
+"1169","Michigan","Houghton County",-61,-27,-59,NA,-44,3
+"1170","Michigan","Huron County",-42,-5,NA,NA,-29,0
+"1171","Michigan","Ingham County",-64,-31,13,-63,-41,14
+"1172","Michigan","Ionia County",-52,-24,NA,-47,-39,24
+"1173","Michigan","Iosco County",-42,-5,NA,NA,-39,NA
+"1174","Michigan","Iron County",-58,-14,NA,NA,-39,NA
+"1175","Michigan","Isabella County",-62,-36,NA,NA,-47,24
+"1176","Michigan","Jackson County",-54,-23,-7,-41,-42,11
+"1177","Michigan","Kalamazoo County",-61,-34,15,-56,-40,12
+"1178","Michigan","Kalkaska County",-73,-11,NA,NA,-42,NA
+"1179","Michigan","Kent County",-65,-31,-26,-68,-44,13
+"1180","Michigan","Lake County",-56,5,NA,NA,-47,NA
+"1181","Michigan","Lapeer County",-52,-30,-38,NA,-46,27
+"1182","Michigan","Leelanau County",-67,-12,NA,NA,-49,NA
+"1183","Michigan","Lenawee County",-55,-23,NA,NA,-42,11
+"1184","Michigan","Livingston County",-65,-29,11,NA,-46,12
+"1185","Michigan","Luce County",-67,NA,NA,NA,NA,NA
+"1186","Michigan","Mackinac County",-71,-39,NA,NA,-52,NA
+"1187","Michigan","Macomb County",-59,-30,106,-33,-48,13
+"1188","Michigan","Manistee County",-71,-17,NA,NA,-40,NA
+"1189","Michigan","Marquette County",-61,-39,-40,NA,-37,21
+"1190","Michigan","Mason County",-48,-24,NA,NA,-43,7
+"1191","Michigan","Mecosta County",-46,-18,NA,NA,-37,20
+"1192","Michigan","Menominee County",-47,-35,NA,NA,-23,NA
+"1193","Michigan","Midland County",-55,-27,-15,NA,-40,27
+"1194","Michigan","Missaukee County",-44,NA,NA,NA,-39,NA
+"1195","Michigan","Monroe County",-54,-30,52,-21,-34,11
+"1196","Michigan","Montcalm County",-46,-17,NA,NA,-29,22
+"1197","Michigan","Montmorency County",-54,-14,NA,NA,-40,NA
+"1198","Michigan","Muskegon County",-52,-22,15,NA,-40,11
+"1199","Michigan","Newaygo County",-49,-13,40,NA,-34,23
+"1200","Michigan","Oakland County",-65,-35,31,-50,-50,14
+"1201","Michigan","Oceana County",-69,-5,-26,NA,-35,-1
+"1202","Michigan","Ogemaw County",-47,-14,NA,NA,-45,NA
+"1203","Michigan","Ontonagon County",-46,NA,NA,NA,NA,NA
+"1204","Michigan","Osceola County",-66,-5,NA,NA,-42,NA
+"1205","Michigan","Oscoda County",-74,-12,NA,NA,-43,NA
+"1206","Michigan","Otsego County",-58,-36,NA,NA,-41,-1
+"1207","Michigan","Ottawa County",-57,-32,33,-20,-48,13
+"1208","Michigan","Presque Isle County",-63,-19,NA,NA,-38,NA
+"1209","Michigan","Roscommon County",-45,-9,-38,NA,-43,NA
+"1210","Michigan","Saginaw County",-60,-24,-10,-61,-43,12
+"1211","Michigan","Sanilac County",-38,-8,NA,NA,-39,12
+"1212","Michigan","Schoolcraft County",-80,-37,-51,NA,-44,NA
+"1213","Michigan","Shiawassee County",-51,-25,NA,NA,-34,24
+"1214","Michigan","St. Clair County",-50,-30,38,-32,-37,11
+"1215","Michigan","St. Joseph County",-44,-31,NA,NA,-39,23
+"1216","Michigan","Tuscola County",-47,-19,NA,NA,-37,23
+"1217","Michigan","Van Buren County",-43,-24,-9,NA,-30,23
+"1218","Michigan","Washtenaw County",-65,-48,53,-49,-53,15
+"1219","Michigan","Wayne County",-57,-25,24,-61,-45,13
+"1220","Michigan","Wexford County",-52,-21,NA,NA,-37,12
+"1221","Minnesota","Total",-58,-35,-16,-64,-38,14
+"1222","Minnesota","Aitkin County",-63,-46,-65,NA,-41,NA
+"1223","Minnesota","Anoka County",-55,-34,12,-45,-39,15
+"1224","Minnesota","Becker County",-51,-21,NA,NA,-35,16
+"1225","Minnesota","Beltrami County",-52,-29,4,NA,-36,18
+"1226","Minnesota","Benton County",-58,-33,NA,NA,-31,18
+"1227","Minnesota","Big Stone County",NA,NA,NA,NA,-35,NA
+"1228","Minnesota","Blue Earth County",-65,-38,-40,NA,-35,20
+"1229","Minnesota","Brown County",-31,-39,NA,NA,-19,9
+"1230","Minnesota","Carlton County",-57,-45,NA,NA,-26,11
+"1231","Minnesota","Carver County",-53,-39,-41,NA,-46,24
+"1232","Minnesota","Cass County",-67,-22,-18,NA,-45,0
+"1233","Minnesota","Chippewa County",-31,NA,NA,NA,-25,NA
+"1234","Minnesota","Chisago County",-72,-41,-33,NA,-35,20
+"1235","Minnesota","Clay County",-44,-25,NA,NA,-34,20
+"1236","Minnesota","Clearwater County",-35,-34,NA,NA,-38,NA
+"1237","Minnesota","Cook County",-78,-47,NA,NA,-46,NA
+"1238","Minnesota","Cottonwood County",-74,NA,NA,NA,-24,NA
+"1239","Minnesota","Crow Wing County",-55,-31,-33,NA,-37,16
+"1240","Minnesota","Dakota County",-57,-37,-16,-43,-41,15
+"1241","Minnesota","Dodge County",-71,-35,NA,NA,-30,4
+"1242","Minnesota","Douglas County",-56,-38,-47,-20,-35,17
+"1243","Minnesota","Faribault County",-59,-31,NA,NA,-18,NA
+"1244","Minnesota","Fillmore County",-74,-25,NA,NA,-28,NA
+"1245","Minnesota","Freeborn County",-47,-29,NA,-20,-32,15
+"1246","Minnesota","Goodhue County",-49,-38,-20,NA,-39,18
+"1247","Minnesota","Grant County",NA,NA,NA,NA,-23,NA
+"1248","Minnesota","Hennepin County",-64,-37,-17,-74,-44,16
+"1249","Minnesota","Houston County",-85,-30,NA,NA,-28,NA
+"1250","Minnesota","Hubbard County",-45,-32,NA,NA,-44,NA
+"1251","Minnesota","Isanti County",-53,-40,-36,NA,-32,17
+"1252","Minnesota","Itasca County",-54,-29,NA,NA,-26,17
+"1253","Minnesota","Jackson County",-77,NA,NA,NA,-27,NA
+"1254","Minnesota","Kanabec County",-59,-39,NA,NA,-38,NA
+"1255","Minnesota","Kandiyohi County",-51,-25,NA,NA,-29,16
+"1256","Minnesota","Koochiching County",-44,-32,NA,NA,-29,NA
+"1257","Minnesota","Lac qui Parle County",NA,NA,NA,NA,-20,NA
+"1258","Minnesota","Lake County",-81,-48,-50,NA,-31,NA
+"1259","Minnesota","Lake of the Woods County",-71,NA,NA,NA,NA,NA
+"1260","Minnesota","Le Sueur County",-22,-22,NA,NA,-33,17
+"1261","Minnesota","Lincoln County",NA,NA,NA,NA,-26,NA
+"1262","Minnesota","Lyon County",-51,-33,NA,NA,-25,4
+"1263","Minnesota","Mahnomen County",NA,NA,NA,NA,-52,NA
+"1264","Minnesota","Marshall County",NA,NA,NA,NA,-29,NA
+"1265","Minnesota","Martin County",-55,-27,NA,NA,-26,NA
+"1266","Minnesota","McLeod County",-49,-31,NA,NA,-25,16
+"1267","Minnesota","Meeker County",-40,-49,NA,NA,-32,3
+"1268","Minnesota","Mille Lacs County",-49,-30,NA,NA,-39,11
+"1269","Minnesota","Morrison County",-49,-37,-61,NA,-27,13
+"1270","Minnesota","Mower County",-48,-37,NA,NA,-25,18
+"1271","Minnesota","Murray County",-35,NA,NA,NA,-22,NA
+"1272","Minnesota","Nicollet County",-64,-43,NA,NA,-33,20
+"1273","Minnesota","Nobles County",-49,-20,NA,-45,-22,NA
+"1274","Minnesota","Norman County",NA,NA,NA,NA,-23,NA
+"1275","Minnesota","Olmsted County",-62,-35,-13,-57,-40,15
+"1276","Minnesota","Otter Tail County",-45,-15,-2,NA,-30,15
+"1277","Minnesota","Pennington County",-39,-21,NA,NA,-40,NA
+"1278","Minnesota","Pine County",-56,-58,-47,NA,-53,10
+"1279","Minnesota","Pipestone County",-64,-20,NA,NA,-26,NA
+"1280","Minnesota","Polk County",-55,-28,NA,NA,-29,15
+"1281","Minnesota","Pope County",-83,NA,NA,NA,-33,NA
+"1282","Minnesota","Ramsey County",-64,-34,-29,-43,-42,15
+"1283","Minnesota","Redwood County",-49,-2,NA,NA,-38,NA
+"1284","Minnesota","Renville County",-50,NA,NA,NA,-22,NA
+"1285","Minnesota","Rice County",-51,-28,-48,-43,-39,18
+"1286","Minnesota","Rock County",-65,NA,NA,NA,-26,NA
+"1287","Minnesota","Roseau County",-73,-26,NA,NA,-49,NA
+"1288","Minnesota","Scott County",-55,-41,-19,NA,-42,15
+"1289","Minnesota","Sherburne County",-50,-37,-42,NA,-38,20
+"1290","Minnesota","Sibley County",-32,NA,NA,NA,-18,NA
+"1291","Minnesota","St. Louis County",-64,-41,-35,-56,-37,14
+"1292","Minnesota","Stearns County",-61,-37,-53,-62,-36,14
+"1293","Minnesota","Steele County",-53,-27,-60,-44,-33,19
+"1294","Minnesota","Stevens County",-63,-26,NA,NA,-28,NA
+"1295","Minnesota","Swift County",-29,-27,NA,NA,-23,NA
+"1296","Minnesota","Todd County",-46,-20,NA,NA,-28,3
+"1297","Minnesota","Wabasha County",-75,-25,NA,NA,-28,NA
+"1298","Minnesota","Wadena County",-46,-27,NA,NA,-28,NA
+"1299","Minnesota","Waseca County",-40,-45,NA,NA,-21,NA
+"1300","Minnesota","Washington County",-55,-39,-8,-38,-40,16
+"1301","Minnesota","Watonwan County",-57,NA,NA,NA,-7,NA
+"1302","Minnesota","Wilkin County",NA,NA,NA,NA,-28,NA
+"1303","Minnesota","Winona County",-52,-35,NA,-49,-23,20
+"1304","Minnesota","Wright County",-55,-37,-25,NA,-35,15
+"1305","Minnesota","Yellow Medicine County",-23,NA,NA,NA,-26,NA
+"1306","Mississippi","Total",-32,-7,27,-29,-30,9
+"1307","Mississippi","Adams County",-33,-10,NA,NA,-34,NA
+"1308","Mississippi","Alcorn County",-32,-9,NA,NA,-28,1
+"1309","Mississippi","Amite County",-34,-13,NA,NA,-33,NA
+"1310","Mississippi","Attala County",-10,11,NA,NA,-20,NA
+"1311","Mississippi","Benton County",NA,NA,NA,NA,-23,NA
+"1312","Mississippi","Bolivar County",-15,1,NA,NA,-24,NA
+"1313","Mississippi","Calhoun County",-30,2,NA,NA,-32,NA
+"1314","Mississippi","Carroll County",NA,NA,NA,NA,-33,NA
+"1315","Mississippi","Chickasaw County",-18,-16,NA,NA,-35,NA
+"1316","Mississippi","Claiborne County",-22,NA,NA,NA,-9,NA
+"1317","Mississippi","Clarke County",-31,-10,NA,NA,-25,NA
+"1318","Mississippi","Clay County",-24,8,NA,-34,-33,NA
+"1319","Mississippi","Coahoma County",-19,18,NA,NA,-43,NA
+"1320","Mississippi","Copiah County",-19,-2,NA,NA,-15,NA
+"1321","Mississippi","Covington County",-32,-7,NA,NA,-29,NA
+"1322","Mississippi","DeSoto County",-37,-7,50,-25,-34,10
+"1323","Mississippi","Forrest County",-32,-8,NA,-27,-30,13
+"1324","Mississippi","George County",-28,9,NA,NA,-28,NA
+"1325","Mississippi","Greene County",NA,-10,NA,NA,-23,NA
+"1326","Mississippi","Grenada County",-14,10,NA,NA,-15,NA
+"1327","Mississippi","Hancock County",-22,-7,NA,NA,-40,16
+"1328","Mississippi","Harrison County",-39,-13,51,-41,-44,10
+"1329","Mississippi","Hinds County",-28,0,10,-9,-29,9
+"1330","Mississippi","Holmes County",2,13,NA,NA,-30,NA
+"1331","Mississippi","Humphreys County",NA,-9,NA,NA,-30,NA
+"1332","Mississippi","Itawamba County",-33,14,NA,NA,-28,NA
+"1333","Mississippi","Jackson County",-28,-9,19,-38,-38,10
+"1334","Mississippi","Jasper County",-22,-3,NA,NA,-18,NA
+"1335","Mississippi","Jefferson Davis County",NA,6,NA,NA,-34,NA
+"1336","Mississippi","Jones County",-24,1,NA,NA,-28,11
+"1337","Mississippi","Kemper County",NA,NA,NA,NA,-26,NA
+"1338","Mississippi","Lafayette County",-46,-21,NA,NA,-35,10
+"1339","Mississippi","Lamar County",-52,-11,NA,-44,-25,14
+"1340","Mississippi","Lauderdale County",-38,-14,8,-29,-35,14
+"1341","Mississippi","Lawrence County",NA,4,NA,NA,-30,NA
+"1342","Mississippi","Leake County",-21,-23,NA,NA,-26,NA
+"1343","Mississippi","Lee County",-46,-12,NA,-26,-33,19
+"1344","Mississippi","Leflore County",-7,6,NA,NA,-15,NA
+"1345","Mississippi","Lincoln County",-22,-13,NA,NA,-25,NA
+"1346","Mississippi","Lowndes County",-33,8,NA,-39,-28,13
+"1347","Mississippi","Madison County",-33,-11,45,-45,-37,21
+"1348","Mississippi","Marion County",-17,-7,NA,NA,-15,NA
+"1349","Mississippi","Marshall County",-14,4,NA,NA,-22,5
+"1350","Mississippi","Monroe County",-46,-7,NA,NA,-31,0
+"1351","Mississippi","Montgomery County",-50,-23,NA,-22,-17,NA
+"1352","Mississippi","Neshoba County",-23,-7,NA,NA,-27,NA
+"1353","Mississippi","Newton County",-19,-7,NA,NA,-16,NA
+"1354","Mississippi","Noxubee County",-5,10,NA,NA,-19,NA
+"1355","Mississippi","Oktibbeha County",-44,-20,NA,NA,-32,2
+"1356","Mississippi","Panola County",-8,7,NA,-28,-22,-3
+"1357","Mississippi","Pearl River County",-18,0,NA,-24,-28,14
+"1358","Mississippi","Perry County",NA,-4,-22,NA,-27,NA
+"1359","Mississippi","Pike County",-27,-9,NA,-28,-19,-2
+"1360","Mississippi","Pontotoc County",-28,-3,NA,NA,-29,-1
+"1361","Mississippi","Prentiss County",-23,-3,NA,NA,-25,NA
+"1362","Mississippi","Quitman County",NA,NA,NA,NA,-32,NA
+"1363","Mississippi","Rankin County",-42,-12,-9,-42,-27,10
+"1364","Mississippi","Scott County",-27,-1,NA,-9,-17,NA
+"1365","Mississippi","Simpson County",-25,-3,NA,-40,-20,NA
+"1366","Mississippi","Smith County",NA,7,NA,NA,-21,NA
+"1367","Mississippi","Stone County",-18,-22,NA,NA,-28,NA
+"1368","Mississippi","Sunflower County",-9,25,NA,-20,-10,NA
+"1369","Mississippi","Tallahatchie County",NA,-6,NA,NA,-31,NA
+"1370","Mississippi","Tate County",-24,-1,NA,-8,-28,NA
+"1371","Mississippi","Tippah County",-26,-17,NA,NA,-25,NA
+"1372","Mississippi","Tishomingo County",-2,8,NA,NA,-22,NA
+"1373","Mississippi","Tunica County",-50,16,NA,NA,-44,NA
+"1374","Mississippi","Union County",-25,-8,NA,-20,-32,NA
+"1375","Mississippi","Walthall County",-47,2,NA,NA,-28,NA
+"1376","Mississippi","Warren County",-26,-11,-20,NA,-28,15
+"1377","Mississippi","Washington County",-22,5,NA,NA,-18,11
+"1378","Mississippi","Wayne County",-25,11,NA,NA,-21,NA
+"1379","Mississippi","Webster County",-41,-9,NA,NA,-33,NA
+"1380","Mississippi","Wilkinson County",NA,-8,NA,NA,-28,NA
+"1381","Mississippi","Winston County",-6,-6,NA,NA,-23,NA
+"1382","Mississippi","Yalobusha County",NA,-2,NA,NA,-28,NA
+"1383","Mississippi","Yazoo County",-19,11,NA,NA,-20,NA
+"1384","Missouri","Total",-38,-12,73,-34,-32,9
+"1385","Missouri","Adair County",-40,55,NA,NA,-20,-1
+"1386","Missouri","Andrew County",-63,5,NA,NA,-32,NA
+"1387","Missouri","Audrain County",-29,-9,NA,NA,-20,6
+"1388","Missouri","Barry County",-18,19,NA,NA,-26,9
+"1389","Missouri","Barton County",-18,NA,NA,NA,-25,NA
+"1390","Missouri","Bates County",-20,15,NA,NA,-18,NA
+"1391","Missouri","Benton County",-32,128,NA,NA,-24,NA
+"1392","Missouri","Bollinger County",-50,-18,NA,NA,-35,NA
+"1393","Missouri","Boone County",-55,-18,65,-58,-36,10
+"1394","Missouri","Buchanan County",-29,2,NA,-5,-22,7
+"1395","Missouri","Butler County",-23,-5,NA,NA,-20,10
+"1396","Missouri","Caldwell County",NA,NA,NA,NA,-20,NA
+"1397","Missouri","Callaway County",-36,-1,NA,NA,-20,18
+"1398","Missouri","Camden County",-28,16,NA,NA,-36,13
+"1399","Missouri","Cape Girardeau County",-43,-20,0,NA,-33,12
+"1400","Missouri","Carroll County",-28,NA,NA,NA,-19,NA
+"1401","Missouri","Cass County",-26,-17,29,-14,-33,9
+"1402","Missouri","Cedar County",-15,-5,NA,NA,-28,NA
+"1403","Missouri","Chariton County",NA,NA,NA,NA,-30,NA
+"1404","Missouri","Christian County",-30,-10,-19,NA,-33,13
+"1405","Missouri","Clark County",NA,-10,NA,-46,-4,NA
+"1406","Missouri","Clay County",-32,-17,214,-30,-38,10
+"1407","Missouri","Clinton County",-76,-8,NA,NA,-31,NA
+"1408","Missouri","Cole County",-44,-23,NA,NA,-29,19
+"1409","Missouri","Cooper County",-27,-19,NA,-15,-20,NA
+"1410","Missouri","Crawford County",-20,-7,NA,-7,-17,NA
+"1411","Missouri","Dade County",NA,NA,NA,NA,-13,NA
+"1412","Missouri","Dallas County",-11,8,NA,NA,-16,NA
+"1413","Missouri","Daviess County",NA,NA,NA,NA,-13,NA
+"1414","Missouri","DeKalb County",-7,3,NA,NA,-18,NA
+"1415","Missouri","Dent County",0,NA,NA,NA,-5,NA
+"1416","Missouri","Douglas County",-5,-14,NA,NA,-21,NA
+"1417","Missouri","Dunklin County",-15,10,NA,NA,-23,NA
+"1418","Missouri","Franklin County",-33,2,61,-12,-25,8
+"1419","Missouri","Gasconade County",-22,NA,NA,NA,-25,NA
+"1420","Missouri","Gentry County",NA,NA,NA,NA,-34,NA
+"1421","Missouri","Greene County",-45,-30,43,-34,-36,10
+"1422","Missouri","Grundy County",-16,-7,NA,NA,-10,NA
+"1423","Missouri","Harrison County",-25,-20,NA,-15,-20,NA
+"1424","Missouri","Henry County",-9,2,NA,NA,-20,-1
+"1425","Missouri","Hickory County",NA,NA,NA,NA,-2,NA
+"1426","Missouri","Howard County",NA,NA,NA,NA,-23,NA
+"1427","Missouri","Howell County",-36,-16,NA,-24,-28,12
+"1428","Missouri","Iron County",-18,4,104,NA,-9,NA
+"1429","Missouri","Jackson County",-43,-14,28,-13,-36,10
+"1430","Missouri","Jasper County",-26,-10,42,-11,-22,7
+"1431","Missouri","Jefferson County",-36,-16,94,6,-33,9
+"1432","Missouri","Johnson County",-28,-5,NA,NA,-20,16
+"1433","Missouri","Laclede County",-21,-2,NA,NA,-22,13
+"1434","Missouri","Lafayette County",-24,-8,NA,-19,-24,13
+"1435","Missouri","Lawrence County",-5,-2,NA,-17,-25,11
+"1436","Missouri","Lewis County",-14,NA,NA,NA,-13,NA
+"1437","Missouri","Lincoln County",-40,-14,NA,NA,-32,18
+"1438","Missouri","Linn County",-19,-7,NA,NA,-7,NA
+"1439","Missouri","Livingston County",-15,-6,NA,NA,-25,NA
+"1440","Missouri","Macon County",-29,-19,NA,-30,-19,NA
+"1441","Missouri","Madison County",-5,NA,NA,NA,-22,NA
+"1442","Missouri","Maries County",NA,NA,NA,NA,-21,NA
+"1443","Missouri","Marion County",-38,1,NA,-46,-26,13
+"1444","Missouri","McDonald County",-9,9,NA,NA,-25,-4
+"1445","Missouri","Miller County",-15,3,-32,NA,-24,-3
+"1446","Missouri","Mississippi County",-38,NA,NA,-13,-16,NA
+"1447","Missouri","Moniteau County",-18,14,NA,NA,-25,NA
+"1448","Missouri","Monroe County",-54,NA,NA,NA,-24,NA
+"1449","Missouri","Montgomery County",-54,-8,NA,NA,-18,NA
+"1450","Missouri","Morgan County",-17,23,NA,NA,-33,NA
+"1451","Missouri","New Madrid County",-22,-4,NA,-12,-23,NA
+"1452","Missouri","Newton County",-27,-7,7,-19,-26,13
+"1453","Missouri","Nodaway County",-30,-10,NA,NA,-16,NA
+"1454","Missouri","Oregon County",-2,4,NA,NA,-19,NA
+"1455","Missouri","Osage County",-47,-6,NA,NA,-26,NA
+"1456","Missouri","Ozark County",NA,NA,NA,NA,-17,NA
+"1457","Missouri","Pemiscot County",-37,5,NA,-27,-26,NA
+"1458","Missouri","Perry County",-33,-13,NA,NA,-33,NA
+"1459","Missouri","Pettis County",-27,7,NA,NA,-22,15
+"1460","Missouri","Phelps County",-37,-17,NA,-18,-27,16
+"1461","Missouri","Pike County",-28,-2,NA,NA,-26,NA
+"1462","Missouri","Platte County",-46,15,-19,-80,-40,15
+"1463","Missouri","Polk County",-24,-13,-46,NA,-23,10
+"1464","Missouri","Pulaski County",-32,-9,NA,-45,-19,13
+"1465","Missouri","Putnam County",NA,NA,NA,NA,-28,NA
+"1466","Missouri","Ralls County",-54,NA,NA,-9,-22,NA
+"1467","Missouri","Randolph County",-31,-17,NA,NA,-18,1
+"1468","Missouri","Ray County",-14,1,NA,NA,-22,7
+"1469","Missouri","Ripley County",-5,-2,NA,NA,-28,NA
+"1470","Missouri","Saline County",-26,0,NA,NA,3,0
+"1471","Missouri","Scott County",-34,0,NA,-19,-21,11
+"1472","Missouri","Shannon County",NA,NA,NA,NA,-29,NA
+"1473","Missouri","Shelby County",NA,NA,NA,NA,-28,NA
+"1474","Missouri","St. Charles County",-45,-13,63,-16,-37,11
+"1475","Missouri","St. Clair County",-27,-4,NA,NA,-17,NA
+"1476","Missouri","St. Francois County",-26,3,-29,NA,-15,13
+"1477","Missouri","St. Louis",-52,-7,34,-35,-36,11
+"1478","Missouri","St. Louis County",-45,-21,87,-59,-38,11
+"1479","Missouri","Ste. Genevieve County",-30,NA,NA,-3,-17,NA
+"1480","Missouri","Stoddard County",-19,-5,NA,NA,-18,-2
+"1481","Missouri","Stone County",-16,19,NA,NA,-39,9
+"1482","Missouri","Sullivan County",NA,NA,NA,NA,-7,NA
+"1483","Missouri","Taney County",-47,-7,41,NA,-49,13
+"1484","Missouri","Texas County",-21,13,NA,NA,-23,NA
+"1485","Missouri","Vernon County",-21,13,NA,-24,-14,NA
+"1486","Missouri","Warren County",-25,-5,NA,-4,-26,16
+"1487","Missouri","Washington County",-9,-9,NA,NA,-14,NA
+"1488","Missouri","Wayne County",-21,6,NA,NA,-29,NA
+"1489","Missouri","Webster County",-1,-13,NA,-38,-31,16
+"1490","Missouri","Wright County",-27,2,NA,NA,-19,NA
+"1491","Montana","Total",-51,-25,28,-37,-37,10
+"1492","Montana","Beaverhead County",-31,-11,NA,NA,-31,NA
+"1493","Montana","Big Horn County",-51,-7,NA,-13,-28,NA
+"1494","Montana","Blaine County",NA,NA,NA,NA,-41,NA
+"1495","Montana","Broadwater County",-62,-3,NA,NA,-33,NA
+"1496","Montana","Carbon County",-63,-30,NA,NA,-45,NA
+"1497","Montana","Cascade County",-48,-26,-22,-70,-32,12
+"1498","Montana","Custer County",-48,NA,NA,NA,-28,NA
+"1499","Montana","Dawson County",-60,-7,NA,NA,-23,NA
+"1500","Montana","Deer Lodge County",-57,-26,NA,NA,-31,NA
+"1501","Montana","Fergus County",-45,-31,NA,NA,-32,NA
+"1502","Montana","Flathead County",-53,-29,-35,-50,-42,10
+"1503","Montana","Gallatin County",-63,-39,61,-66,-51,12
+"1504","Montana","Glacier County",-71,-28,NA,NA,-45,NA
+"1505","Montana","Hill County",-42,-4,NA,NA,-24,NA
+"1506","Montana","Jefferson County",-69,NA,NA,NA,-36,NA
+"1507","Montana","Lake County",-41,-22,NA,NA,-31,1
+"1508","Montana","Lewis and Clark County",-51,-34,19,NA,-37,18
+"1509","Montana","Lincoln County",-79,-29,NA,NA,-38,NA
+"1510","Montana","Madison County",-100,NA,-42,NA,-44,NA
+"1511","Montana","Mineral County",NA,-54,NA,NA,-38,NA
+"1512","Montana","Missoula County",-55,-30,31,-28,-36,11
+"1513","Montana","Park County",-54,-29,NA,NA,-44,NA
+"1514","Montana","Pondera County",-53,NA,NA,NA,NA,NA
+"1515","Montana","Powell County",NA,NA,NA,NA,-30,NA
+"1516","Montana","Ravalli County",-49,-20,NA,NA,-39,11
+"1517","Montana","Richland County",-36,-22,NA,NA,-41,NA
+"1518","Montana","Roosevelt County",-25,-20,NA,NA,-42,NA
+"1519","Montana","Rosebud County",NA,NA,NA,NA,-30,NA
+"1520","Montana","Sanders County",-62,-27,NA,NA,-36,NA
+"1521","Montana","Silver Bow County",-45,-15,NA,-20,-37,13
+"1522","Montana","Stillwater County",-47,NA,NA,-4,-33,NA
+"1523","Montana","Teton County",NA,NA,NA,NA,-38,NA
+"1524","Montana","Valley County",-64,NA,NA,NA,-28,NA
+"1525","Montana","Yellowstone County",-49,-21,114,-45,-32,8
+"1526","Nebraska","Total",-34,-9,109,-18,-24,8
+"1527","Nebraska","Adams County",-24,-14,NA,NA,-18,13
+"1528","Nebraska","Box Butte County",-20,-7,NA,NA,-14,NA
+"1529","Nebraska","Buffalo County",-39,-16,NA,-3,-28,17
+"1530","Nebraska","Burt County",-58,NA,NA,NA,-18,NA
+"1531","Nebraska","Butler County",-53,NA,NA,NA,-19,NA
+"1532","Nebraska","Cass County",-33,NA,-63,NA,-28,12
+"1533","Nebraska","Cedar County",NA,NA,NA,NA,-19,NA
+"1534","Nebraska","Cherry County",-70,NA,NA,NA,-34,NA
+"1535","Nebraska","Cheyenne County",-21,-20,NA,-1,-26,NA
+"1536","Nebraska","Clay County",NA,NA,NA,NA,-28,NA
+"1537","Nebraska","Colfax County",-52,-10,NA,NA,-6,NA
+"1538","Nebraska","Cuming County",-29,NA,NA,NA,-24,NA
+"1539","Nebraska","Custer County",-33,-14,NA,NA,-14,NA
+"1540","Nebraska","Dakota County",-10,7,NA,NA,-23,1
+"1541","Nebraska","Dawes County",-26,NA,NA,NA,-30,NA
+"1542","Nebraska","Dawson County",-19,3,NA,NA,-12,-2
+"1543","Nebraska","Deuel County",NA,NA,NA,-5,NA,NA
+"1544","Nebraska","Dixon County",NA,NA,NA,NA,-25,NA
+"1545","Nebraska","Dodge County",-21,-5,NA,-2,-22,13
+"1546","Nebraska","Douglas County",-41,-7,55,-38,-30,9
+"1547","Nebraska","Fillmore County",NA,NA,NA,NA,-20,NA
+"1548","Nebraska","Gage County",-22,6,NA,NA,-21,1
+"1549","Nebraska","Hall County",-35,-20,NA,-15,-26,12
+"1550","Nebraska","Hamilton County",-58,NA,NA,-6,-22,NA
+"1551","Nebraska","Holt County",-20,6,NA,NA,-9,NA
+"1552","Nebraska","Howard County",NA,NA,NA,NA,-21,NA
+"1553","Nebraska","Jefferson County",-13,NA,NA,NA,-22,NA
+"1554","Nebraska","Kearney County",NA,NA,NA,NA,-29,NA
+"1555","Nebraska","Keith County",-31,-20,NA,14,-26,NA
+"1556","Nebraska","Kimball County",NA,NA,NA,NA,-41,NA
+"1557","Nebraska","Knox County",NA,NA,NA,NA,-25,NA
+"1558","Nebraska","Lancaster County",-39,-19,156,-18,-26,8
+"1559","Nebraska","Lincoln County",-29,-4,NA,-8,-14,14
+"1560","Nebraska","Madison County",-38,-7,NA,NA,-17,14
+"1561","Nebraska","Merrick County",-55,NA,NA,NA,-24,NA
+"1562","Nebraska","Morrill County",NA,NA,NA,NA,-22,NA
+"1563","Nebraska","Nemaha County",-56,NA,NA,NA,-27,NA
+"1564","Nebraska","Otoe County",-8,3,NA,NA,-16,NA
+"1565","Nebraska","Phelps County",-20,-8,NA,NA,-30,NA
+"1566","Nebraska","Pierce County",NA,NA,NA,NA,-24,NA
+"1567","Nebraska","Platte County",-34,-2,NA,-16,-17,15
+"1568","Nebraska","Polk County",NA,NA,NA,NA,-22,NA
+"1569","Nebraska","Red Willow County",-16,NA,NA,NA,-18,NA
+"1570","Nebraska","Richardson County",-24,-2,NA,NA,-13,NA
+"1571","Nebraska","Saline County",-17,-10,NA,NA,-24,NA
+"1572","Nebraska","Sarpy County",-36,-15,191,23,-30,9
+"1573","Nebraska","Saunders County",-29,18,NA,NA,-27,NA
+"1574","Nebraska","Scotts Bluff County",-25,-3,NA,NA,-18,14
+"1575","Nebraska","Seward County",-29,NA,NA,NA,-32,NA
+"1576","Nebraska","Stanton County",NA,NA,NA,NA,-20,NA
+"1577","Nebraska","Thayer County",NA,NA,NA,NA,-19,NA
+"1578","Nebraska","Thurston County",NA,NA,NA,NA,-30,NA
+"1579","Nebraska","Washington County",-18,-9,NA,NA,-23,NA
+"1580","Nebraska","Wayne County",-53,NA,NA,NA,-26,NA
+"1581","Nebraska","York County",-39,NA,NA,-12,-31,NA
+"1582","Nevada","Total",-47,-23,-38,-62,-52,14
+"1583","Nevada","Carson City",-36,-13,-3,NA,-35,18
+"1584","Nevada","Churchill County",-27,-11,NA,NA,-28,5
+"1585","Nevada","Clark County",-48,-26,-47,-66,-56,15
+"1586","Nevada","Douglas County",-58,-35,-35,NA,-47,18
+"1587","Nevada","Elko County",-40,10,7,-11,-35,17
+"1588","Nevada","Humboldt County",-46,-1,NA,-40,-20,NA
+"1589","Nevada","Lander County",-59,-12,NA,NA,-41,NA
+"1590","Nevada","Lyon County",-14,-5,NA,-10,-27,15
+"1591","Nevada","Mineral County",NA,NA,NA,-29,NA,NA
+"1592","Nevada","Nye County",-26,-15,-52,-20,-40,13
+"1593","Nevada","Pershing County",NA,NA,NA,6,-32,NA
+"1594","Nevada","Storey County",-73,NA,NA,NA,-38,NA
+"1595","Nevada","Washoe County",-44,-21,6,-64,-42,12
+"1596","Nevada","White Pine County",-65,-4,NA,-4,-23,NA
+"1597","New Hampshire","Total",-58,-35,-63,-63,-38,13
+"1598","New Hampshire","Belknap County",-52,-28,-53,NA,-35,18
+"1599","New Hampshire","Carroll County",-69,-30,-66,NA,-51,19
+"1600","New Hampshire","Cheshire County",-51,-36,-46,NA,-34,18
+"1601","New Hampshire","Coos County",-52,-21,-68,NA,-37,10
+"1602","New Hampshire","Grafton County",-62,-37,-71,-45,-44,20
+"1603","New Hampshire","Hillsborough County",-62,-37,-55,-57,-38,14
+"1604","New Hampshire","Merrimack County",-58,-31,-59,-76,-37,13
+"1605","New Hampshire","Rockingham County",-59,-36,-63,-60,-39,14
+"1606","New Hampshire","Strafford County",-51,-38,-53,-39,-38,13
+"1607","New Hampshire","Sullivan County",-45,-22,NA,NA,-28,16
+"1608","New Jersey","Total",-59,-33,-36,-70,-44,16
+"1609","New Jersey","Atlantic County",-56,-30,11,-72,-55,16
+"1610","New Jersey","Bergen County",-66,-37,-64,-64,-50,19
+"1611","New Jersey","Burlington County",-53,-39,7,-53,-38,14
+"1612","New Jersey","Camden County",-50,-30,-29,-59,-37,13
+"1613","New Jersey","Cape May County",-49,-27,-14,-59,-41,19
+"1614","New Jersey","Cumberland County",-36,-19,-35,-28,-25,10
+"1615","New Jersey","Essex County",-60,-27,-50,-78,-43,17
+"1616","New Jersey","Gloucester County",-54,-30,-3,-15,-36,13
+"1617","New Jersey","Hudson County",-62,-38,-69,-72,-51,18
+"1618","New Jersey","Hunterdon County",-64,-35,21,-31,-42,28
+"1619","New Jersey","Mercer County",-55,-25,-27,-74,-43,15
+"1620","New Jersey","Middlesex County",-64,-41,-31,-77,-44,17
+"1621","New Jersey","Monmouth County",-62,-34,-32,-67,-44,17
+"1622","New Jersey","Morris County",-63,-39,-43,-64,-47,18
+"1623","New Jersey","Ocean County",-55,-31,-25,-58,-42,15
+"1624","New Jersey","Passaic County",-66,-34,-53,-55,-46,16
+"1625","New Jersey","Salem County",-39,-21,-22,-61,-28,18
+"1626","New Jersey","Somerset County",-61,-36,-31,-60,-47,17
+"1627","New Jersey","Sussex County",-57,-27,-39,-53,-39,15
+"1628","New Jersey","Union County",-62,-32,-40,-61,-44,17
+"1629","New Jersey","Warren County",-47,-37,-35,-40,-35,14
+"1630","New Mexico","Total",-44,-18,-12,-31,-34,11
+"1631","New Mexico","Bernalillo County",-46,-22,8,-43,-37,11
+"1632","New Mexico","Chaves County",-46,-26,-41,-49,-26,12
+"1633","New Mexico","Cibola County",-27,-7,NA,-16,-30,NA
+"1634","New Mexico","Colfax County",-62,-29,NA,-26,-40,NA
+"1635","New Mexico","Curry County",-38,-17,-32,-38,-25,16
+"1636","New Mexico","Doña Ana County",-41,-19,-15,-34,-33,12
+"1637","New Mexico","Eddy County",-38,-20,-39,-35,-20,12
+"1638","New Mexico","Grant County",-35,-9,NA,NA,-25,2
+"1639","New Mexico","Guadalupe County",-39,-30,NA,-9,NA,NA
+"1640","New Mexico","Hidalgo County",-57,NA,NA,-31,NA,NA
+"1641","New Mexico","Lea County",-44,-9,-24,-34,-26,13
+"1642","New Mexico","Lincoln County",-71,-41,-72,NA,-48,NA
+"1643","New Mexico","Los Alamos County",-70,-33,NA,NA,-53,NA
+"1644","New Mexico","Luna County",-41,-16,-45,-22,-22,NA
+"1645","New Mexico","McKinley County",-41,1,NA,-13,-20,22
+"1646","New Mexico","Otero County",-39,-25,-58,NA,-36,19
+"1647","New Mexico","Quay County",-10,-4,NA,-7,-25,NA
+"1648","New Mexico","Rio Arriba County",-30,-20,NA,NA,-37,12
+"1649","New Mexico","Roosevelt County",-31,-23,NA,NA,-22,NA
+"1650","New Mexico","San Juan County",-42,-15,2,-38,-26,10
+"1651","New Mexico","San Miguel County",-29,-22,NA,-41,-29,-1
+"1652","New Mexico","Sandoval County",-34,-13,3,-28,-42,11
+"1653","New Mexico","Santa Fe County",-52,-23,-23,-51,-44,12
+"1654","New Mexico","Sierra County",-44,-4,NA,NA,-24,NA
+"1655","New Mexico","Socorro County",-42,-8,NA,NA,-36,NA
+"1656","New Mexico","Taos County",-59,-29,-36,NA,-52,1
+"1657","New Mexico","Torrance County",-24,-7,NA,-8,-25,NA
+"1658","New Mexico","Union County",NA,NA,NA,-34,NA,NA
+"1659","New Mexico","Valencia County",-38,-8,-10,-21,-33,13
+"1660","New York","Total",-62,-32,-47,-68,-46,16
+"1661","New York","Albany County",-59,-30,-15,-64,-36,13
+"1662","New York","Allegany County",-40,-15,NA,NA,-33,18
+"1663","New York","Bronx County",-64,-30,-51,-55,-50,16
+"1664","New York","Broome County",-51,-27,5,-43,-34,11
+"1665","New York","Cattaraugus County",-40,-15,-37,NA,-32,18
+"1666","New York","Cayuga County",-39,-15,NA,-49,-29,20
+"1667","New York","Chautauqua County",-33,-8,-22,NA,-26,8
+"1668","New York","Chemung County",-48,-14,NA,-58,-29,14
+"1669","New York","Chenango County",-38,-12,NA,NA,-23,20
+"1670","New York","Clinton County",-52,-18,NA,-67,-29,18
+"1671","New York","Columbia County",-51,-40,NA,-36,-35,19
+"1672","New York","Cortland County",-42,-9,NA,NA,-31,22
+"1673","New York","Delaware County",-48,-23,NA,NA,-29,10
+"1674","New York","Dutchess County",-54,-28,-34,-72,-38,14
+"1675","New York","Erie County",-52,-23,64,-49,-37,10
+"1676","New York","Essex County",-68,-35,-70,NA,-48,3
+"1677","New York","Franklin County",-44,-18,NA,NA,-34,17
+"1678","New York","Fulton County",-38,-25,NA,NA,-23,15
+"1679","New York","Genesee County",-25,-22,NA,-56,-27,20
+"1680","New York","Greene County",-46,-30,-48,NA,-36,17
+"1681","New York","Herkimer County",-45,-19,NA,-70,-34,18
+"1682","New York","Jefferson County",-48,-24,NA,NA,-27,9
+"1683","New York","Kings County",-68,-33,-55,-63,-51,18
+"1684","New York","Lewis County",-49,-17,NA,NA,-29,NA
+"1685","New York","Livingston County",-36,-7,NA,-37,-30,21
+"1686","New York","Madison County",-40,-18,NA,-62,-36,22
+"1687","New York","Monroe County",-48,-27,115,-41,-36,11
+"1688","New York","Montgomery County",-40,-20,NA,2,-23,17
+"1689","New York","Nassau County",-66,-34,-60,-69,-47,19
+"1690","New York","New York County",-86,-51,-79,-78,-57,19
+"1691","New York","Niagara County",-40,-15,14,-59,-33,10
+"1692","New York","Oneida County",-45,-25,-6,-50,-33,10
+"1693","New York","Onondaga County",-53,-29,38,-55,-36,11
+"1694","New York","Ontario County",-55,-21,-26,-62,-35,9
+"1695","New York","Orange County",-58,-38,-24,-61,-40,15
+"1696","New York","Orleans County",-22,-7,NA,NA,-27,19
+"1697","New York","Oswego County",-39,-14,15,NA,-26,10
+"1698","New York","Otsego County",-49,-29,NA,NA,-36,19
+"1699","New York","Putnam County",-54,-31,-36,-69,-40,28
+"1700","New York","Queens County",-69,-37,-52,-75,-58,20
+"1701","New York","Rensselaer County",-50,-23,-25,-54,-36,12
+"1702","New York","Richmond County",-59,-31,-48,-60,-42,17
+"1703","New York","Rockland County",-67,-35,-49,-68,-47,20
+"1704","New York","Saratoga County",-60,-29,-48,-52,-35,13
+"1705","New York","Schenectady County",-46,-24,-20,-48,-31,12
+"1706","New York","Schoharie County",-38,-22,NA,NA,-19,3
+"1707","New York","Schuyler County",-35,-4,NA,NA,-29,NA
+"1708","New York","Seneca County",-42,31,NA,-67,-34,15
+"1709","New York","St. Lawrence County",-45,-22,-47,NA,-30,11
+"1710","New York","Steuben County",-39,-23,-12,-22,-29,10
+"1711","New York","Suffolk County",-58,-31,-42,-70,-41,16
+"1712","New York","Sullivan County",-40,-8,NA,NA,-34,18
+"1713","New York","Tioga County",-63,-15,NA,NA,-35,19
+"1714","New York","Tompkins County",-59,-34,28,-50,-48,28
+"1715","New York","Ulster County",-53,-30,-41,-69,-35,14
+"1716","New York","Warren County",-56,-21,-46,-43,-36,18
+"1717","New York","Washington County",-48,-19,NA,NA,-24,17
+"1718","New York","Wayne County",-31,-8,NA,NA,-30,13
+"1719","New York","Westchester County",-64,-37,-47,-66,-47,18
+"1720","New York","Wyoming County",-26,-4,NA,NA,-21,19
+"1721","New York","Yates County",-34,-13,NA,NA,-31,NA
+"1722","North Carolina","Total",-40,-15,13,-51,-35,10
+"1723","North Carolina","Alamance County",-39,-7,34,-18,-33,9
+"1724","North Carolina","Alexander County",-24,10,NA,NA,-23,12
+"1725","North Carolina","Alleghany County",-31,-11,NA,NA,-22,NA
+"1726","North Carolina","Anson County",-43,2,NA,NA,-21,NA
+"1727","North Carolina","Ashe County",-5,1,NA,NA,-29,NA
+"1728","North Carolina","Avery County",-50,-18,NA,NA,-28,NA
+"1729","North Carolina","Beaufort County",-22,-7,58,NA,-25,13
+"1730","North Carolina","Bertie County",105,-3,NA,NA,-20,NA
+"1731","North Carolina","Bladen County",-14,5,-27,NA,-21,12
+"1732","North Carolina","Brunswick County",-27,-11,26,-33,-33,8
+"1733","North Carolina","Buncombe County",-60,-30,-9,-70,-45,13
+"1734","North Carolina","Burke County",-26,-3,30,NA,-24,7
+"1735","North Carolina","Cabarrus County",-50,-26,6,-33,-41,12
+"1736","North Carolina","Caldwell County",-20,-8,-2,NA,-29,7
+"1737","North Carolina","Camden County",-41,NA,NA,NA,-30,NA
+"1738","North Carolina","Carteret County",-25,-13,-2,NA,-33,8
+"1739","North Carolina","Caswell County",-25,38,NA,NA,-32,NA
+"1740","North Carolina","Catawba County",-41,-8,49,-11,-29,8
+"1741","North Carolina","Chatham County",-21,-20,0,NA,-35,17
+"1742","North Carolina","Cherokee County",-33,-14,NA,NA,-43,1
+"1743","North Carolina","Chowan County",-11,-1,NA,NA,-12,NA
+"1744","North Carolina","Clay County",-26,-14,NA,NA,-32,NA
+"1745","North Carolina","Cleveland County",-33,-5,8,NA,-27,7
+"1746","North Carolina","Columbus County",-19,3,NA,NA,-23,10
+"1747","North Carolina","Craven County",-30,-2,35,-25,-32,7
+"1748","North Carolina","Cumberland County",-31,-11,18,-32,-34,8
+"1749","North Carolina","Currituck County",-14,-7,NA,NA,-27,8
+"1750","North Carolina","Dare County",-45,-27,3,NA,-31,12
+"1751","North Carolina","Davidson County",-32,-12,60,-18,-31,9
+"1752","North Carolina","Davie County",-28,-9,NA,-27,-30,14
+"1753","North Carolina","Duplin County",-34,-3,NA,-20,-25,11
+"1754","North Carolina","Durham County",-50,-28,-7,-36,-43,13
+"1755","North Carolina","Edgecombe County",-9,12,NA,NA,-26,12
+"1756","North Carolina","Forsyth County",-45,-28,57,-17,-39,11
+"1757","North Carolina","Franklin County",-21,-8,NA,NA,-39,16
+"1758","North Carolina","Gaston County",-38,-26,-7,NA,-33,10
+"1759","North Carolina","Gates County",NA,NA,NA,NA,-28,NA
+"1760","North Carolina","Graham County",NA,NA,NA,NA,-30,NA
+"1761","North Carolina","Granville County",-18,-14,NA,NA,-32,16
+"1762","North Carolina","Greene County",-37,-6,-14,NA,-31,NA
+"1763","North Carolina","Guilford County",-47,-29,20,-42,-39,12
+"1764","North Carolina","Halifax County",-23,-8,NA,NA,-20,11
+"1765","North Carolina","Harnett County",-23,-3,0,-9,-32,8
+"1766","North Carolina","Haywood County",-40,-21,24,-19,-35,9
+"1767","North Carolina","Henderson County",-49,-26,25,-46,-38,11
+"1768","North Carolina","Hertford County",-46,9,NA,NA,-25,NA
+"1769","North Carolina","Hoke County",-14,3,NA,NA,-29,14
+"1770","North Carolina","Iredell County",-35,-7,38,-15,-31,8
+"1771","North Carolina","Jackson County",-40,-25,17,NA,-51,15
+"1772","North Carolina","Johnston County",-36,-14,21,-14,-33,9
+"1773","North Carolina","Jones County",NA,-8,NA,NA,-22,NA
+"1774","North Carolina","Lee County",-25,1,NA,NA,-27,14
+"1775","North Carolina","Lenoir County",-30,-4,NA,NA,-25,12
+"1776","North Carolina","Lincoln County",-16,-2,-31,NA,-32,7
+"1777","North Carolina","Macon County",-33,-8,-7,NA,-38,13
+"1778","North Carolina","Madison County",-38,-20,NA,NA,-28,NA
+"1779","North Carolina","Martin County",-21,0,NA,NA,-28,NA
+"1780","North Carolina","McDowell County",-20,-2,35,-23,-18,12
+"1781","North Carolina","Mecklenburg County",-53,-23,1,-70,-43,13
+"1782","North Carolina","Mitchell County",-26,-10,NA,NA,-24,NA
+"1783","North Carolina","Montgomery County",-21,24,9,-19,-24,-1
+"1784","North Carolina","Moore County",-40,-11,21,NA,-39,9
+"1785","North Carolina","Nash County",-32,-1,-39,-16,-29,7
+"1786","North Carolina","New Hanover County",-43,-17,12,-63,-34,9
+"1787","North Carolina","Northampton County",-62,22,NA,NA,-18,NA
+"1788","North Carolina","Onslow County",-30,-5,25,-61,-29,7
+"1789","North Carolina","Orange County",-56,-39,-20,-50,-44,14
+"1790","North Carolina","Pamlico County",-15,15,NA,NA,-29,NA
+"1791","North Carolina","Pasquotank County",-24,-9,NA,-49,-31,14
+"1792","North Carolina","Pender County",-17,-2,NA,NA,-27,14
+"1793","North Carolina","Perquimans County",-47,-10,NA,NA,-24,NA
+"1794","North Carolina","Person County",-21,15,NA,NA,-31,15
+"1795","North Carolina","Pitt County",-47,-20,6,-38,-32,9
+"1796","North Carolina","Polk County",-43,-14,NA,NA,-34,NA
+"1797","North Carolina","Randolph County",-38,-6,-13,NA,-25,8
+"1798","North Carolina","Richmond County",-31,-2,NA,NA,-26,10
+"1799","North Carolina","Robeson County",-27,-3,NA,-21,-26,6
+"1800","North Carolina","Rockingham County",-20,-3,-12,-8,-30,8
+"1801","North Carolina","Rowan County",-38,-6,66,-28,-30,8
+"1802","North Carolina","Rutherford County",-34,-8,-10,NA,-29,9
+"1803","North Carolina","Sampson County",-14,4,NA,NA,-24,11
+"1804","North Carolina","Scotland County",-25,-4,NA,NA,-30,11
+"1805","North Carolina","Stanly County",-18,-13,NA,NA,-32,12
+"1806","North Carolina","Stokes County",-33,-6,-25,NA,-26,12
+"1807","North Carolina","Surry County",-24,-3,-20,-9,-29,12
+"1808","North Carolina","Swain County",-77,9,-31,NA,-52,NA
+"1809","North Carolina","Transylvania County",-28,-11,14,NA,-37,6
+"1810","North Carolina","Union County",-33,-18,4,-17,-38,11
+"1811","North Carolina","Vance County",-24,0,NA,NA,-28,13
+"1812","North Carolina","Wake County",-51,-31,-1,-74,-43,13
+"1813","North Carolina","Warren County",-4,18,NA,NA,-20,NA
+"1814","North Carolina","Washington County",-29,8,NA,NA,-15,NA
+"1815","North Carolina","Watauga County",-55,-38,56,NA,-49,17
+"1816","North Carolina","Wayne County",-30,-5,22,-30,-24,7
+"1817","North Carolina","Wilkes County",-26,3,-49,NA,-25,10
+"1818","North Carolina","Wilson County",-27,-7,-11,NA,-26,7
+"1819","North Carolina","Yadkin County",-47,-7,NA,NA,-31,11
+"1820","North Carolina","Yancey County",-31,-7,NA,NA,-31,NA
+"1821","North Dakota","Total",-44,-13,73,-36,-24,9
+"1822","North Dakota","Barnes County",-22,NA,NA,NA,-25,NA
+"1823","North Dakota","Bottineau County",-39,NA,NA,NA,-35,NA
+"1824","North Dakota","Burleigh County",-44,-14,26,-56,-25,11
+"1825","North Dakota","Cass County",-54,-26,69,-34,-30,12
+"1826","North Dakota","Dunn County",-56,-18,-26,NA,NA,NA
+"1827","North Dakota","Grand Forks County",-46,-20,-48,-38,-28,20
+"1828","North Dakota","McKenzie County",-40,-15,NA,-25,-14,NA
+"1829","North Dakota","McLean County",-63,NA,NA,NA,-26,NA
+"1830","North Dakota","Mercer County",NA,10,NA,NA,-27,NA
+"1831","North Dakota","Morton County",-33,2,NA,-12,-24,17
+"1832","North Dakota","Mountrail County",-35,-14,NA,NA,-27,NA
+"1833","North Dakota","Pembina County",NA,NA,NA,NA,-22,NA
+"1834","North Dakota","Ramsey County",-39,-27,NA,NA,-29,NA
+"1835","North Dakota","Ransom County",NA,NA,NA,NA,-13,NA
+"1836","North Dakota","Richland County",-42,-4,NA,NA,-23,NA
+"1837","North Dakota","Rolette County",-33,NA,NA,NA,-37,NA
+"1838","North Dakota","Stark County",-29,18,NA,NA,-10,14
+"1839","North Dakota","Stutsman County",-25,-15,NA,NA,-15,NA
+"1840","North Dakota","Traill County",NA,NA,NA,NA,-31,NA
+"1841","North Dakota","Walsh County",-26,NA,NA,NA,-22,NA
+"1842","North Dakota","Ward County",-38,-12,NA,-35,-23,18
+"1843","North Dakota","Williams County",-30,-6,NA,-25,-21,14
+"1844","Ohio","Total",-43,-19,117,-33,-35,10
+"1845","Ohio","Adams County",-25,-4,NA,NA,-22,-2
+"1846","Ohio","Allen County",-48,-25,13,-31,-29,10
+"1847","Ohio","Ashland County",-38,-12,NA,NA,-28,19
+"1848","Ohio","Ashtabula County",-28,-11,-1,-23,-22,8
+"1849","Ohio","Athens County",-50,-20,NA,NA,-44,20
+"1850","Ohio","Auglaize County",-49,-19,NA,NA,-27,23
+"1851","Ohio","Belmont County",-37,-7,NA,-28,-27,18
+"1852","Ohio","Brown County",-30,-17,NA,NA,-25,19
+"1853","Ohio","Butler County",-45,-20,136,-6,-35,10
+"1854","Ohio","Carroll County",-32,-14,NA,NA,-32,0
+"1855","Ohio","Champaign County",-34,-15,NA,NA,-33,22
+"1856","Ohio","Clark County",-33,-20,NA,-19,-34,9
+"1857","Ohio","Clermont County",-40,-22,126,NA,-37,10
+"1858","Ohio","Clinton County",-40,-11,NA,30,-34,22
+"1859","Ohio","Columbiana County",-29,-6,NA,NA,-31,8
+"1860","Ohio","Coshocton County",-26,-5,NA,NA,-27,15
+"1861","Ohio","Crawford County",-32,-20,NA,NA,-38,19
+"1862","Ohio","Cuyahoga County",-48,-20,137,-47,-36,10
+"1863","Ohio","Darke County",-30,-11,NA,NA,-28,20
+"1864","Ohio","Defiance County",-47,-31,NA,NA,-33,23
+"1865","Ohio","Delaware County",-59,-33,171,-32,-43,12
+"1866","Ohio","Erie County",-47,-22,2,NA,-44,15
+"1867","Ohio","Fairfield County",-44,-18,61,NA,-36,10
+"1868","Ohio","Fayette County",-40,-25,NA,-20,-26,9
+"1869","Ohio","Franklin County",-46,-22,106,-47,-40,11
+"1870","Ohio","Fulton County",-42,-20,NA,-38,-34,24
+"1871","Ohio","Gallia County",-25,-17,NA,2,-22,NA
+"1872","Ohio","Geauga County",-37,-23,10,NA,-36,23
+"1873","Ohio","Greene County",-48,-21,113,NA,-42,11
+"1874","Ohio","Guernsey County",-31,-25,NA,-20,-25,15
+"1875","Ohio","Hamilton County",-45,-18,139,-16,-37,10
+"1876","Ohio","Hancock County",-51,-30,NA,-28,-45,25
+"1877","Ohio","Hardin County",-26,-10,NA,NA,-32,13
+"1878","Ohio","Harrison County",-28,2,NA,NA,-22,NA
+"1879","Ohio","Henry County",-38,-18,NA,-26,-29,13
+"1880","Ohio","Highland County",-15,-9,NA,NA,-30,19
+"1881","Ohio","Hocking County",-30,3,25,NA,-31,-3
+"1882","Ohio","Holmes County",-26,-18,NA,NA,-24,-1
+"1883","Ohio","Huron County",-41,-16,NA,NA,-36,19
+"1884","Ohio","Jackson County",-22,-9,NA,-22,-22,-1
+"1885","Ohio","Jefferson County",-26,-18,NA,-15,-27,15
+"1886","Ohio","Knox County",-28,-15,NA,NA,-33,20
+"1887","Ohio","Lake County",-47,-22,146,-43,-32,10
+"1888","Ohio","Lawrence County",-26,-14,NA,NA,-25,16
+"1889","Ohio","Licking County",-35,-18,39,-24,-32,9
+"1890","Ohio","Logan County",-32,4,NA,NA,-41,26
+"1891","Ohio","Lorain County",-42,-15,-8,-60,-35,10
+"1892","Ohio","Lucas County",-52,-25,78,-21,-35,10
+"1893","Ohio","Madison County",-28,-12,NA,-16,-38,22
+"1894","Ohio","Mahoning County",-42,-17,-25,-24,-36,9
+"1895","Ohio","Marion County",-39,-19,NA,NA,-35,19
+"1896","Ohio","Medina County",-45,-19,NA,-26,-37,11
+"1897","Ohio","Meigs County",-31,NA,NA,NA,-24,NA
+"1898","Ohio","Mercer County",-44,-16,NA,NA,-30,24
+"1899","Ohio","Miami County",-39,-20,-7,NA,-32,10
+"1900","Ohio","Monroe County",-46,-17,NA,NA,-38,NA
+"1901","Ohio","Montgomery County",-44,-16,104,-32,-36,10
+"1902","Ohio","Morgan County",-42,0,NA,NA,-39,NA
+"1903","Ohio","Morrow County",-36,-13,NA,-35,-29,20
+"1904","Ohio","Muskingum County",-37,-22,NA,-22,-26,7
+"1905","Ohio","Noble County",-55,-15,NA,-24,-33,NA
+"1906","Ohio","Ottawa County",-30,-2,NA,NA,-27,21
+"1907","Ohio","Paulding County",-51,-7,NA,NA,-26,NA
+"1908","Ohio","Perry County",-10,-5,NA,NA,-20,10
+"1909","Ohio","Pickaway County",-27,-12,NA,-8,-28,20
+"1910","Ohio","Pike County",-31,-15,NA,NA,-32,NA
+"1911","Ohio","Portage County",-41,-14,26,-43,-35,10
+"1912","Ohio","Preble County",-30,-22,NA,-18,-32,22
+"1913","Ohio","Putnam County",-41,-8,NA,NA,-34,16
+"1914","Ohio","Richland County",-50,-23,NA,-25,-33,9
+"1915","Ohio","Ross County",-37,-10,-28,-7,-28,17
+"1916","Ohio","Sandusky County",-43,-16,NA,-47,-30,22
+"1917","Ohio","Scioto County",-29,-18,NA,NA,-20,15
+"1918","Ohio","Seneca County",-35,-19,NA,NA,-37,23
+"1919","Ohio","Shelby County",-27,-29,NA,-22,-31,23
+"1920","Ohio","Stark County",-40,-18,167,10,-32,9
+"1921","Ohio","Summit County",-42,-17,139,-24,-36,10
+"1922","Ohio","Trumbull County",-36,-9,80,-12,-30,8
+"1923","Ohio","Tuscarawas County",-31,-12,NA,NA,-31,8
+"1924","Ohio","Union County",-46,-22,NA,NA,-35,30
+"1925","Ohio","Van Wert County",-39,-25,NA,NA,-27,19
+"1926","Ohio","Vinton County",-56,2,NA,NA,-35,NA
+"1927","Ohio","Warren County",-47,-17,23,-21,-40,11
+"1928","Ohio","Washington County",-41,-18,NA,NA,-34,19
+"1929","Ohio","Wayne County",-43,-18,NA,-33,-32,10
+"1930","Ohio","Williams County",-38,-20,NA,-42,-38,23
+"1931","Ohio","Wood County",-51,-37,-7,-23,-36,11
+"1932","Ohio","Wyandot County",-41,-5,NA,-21,-45,6
+"1933","Oklahoma","Total",-36,-12,29,-23,-32,9
+"1934","Oklahoma","Adair County",-3,8,NA,NA,-23,NA
+"1935","Oklahoma","Atoka County",-19,-19,NA,-26,-27,NA
+"1936","Oklahoma","Beckham County",-20,-9,NA,-10,-13,NA
+"1937","Oklahoma","Blaine County",-12,-1,NA,NA,-23,NA
+"1938","Oklahoma","Bryan County",-30,-25,NA,-21,-34,15
+"1939","Oklahoma","Caddo County",-17,-1,NA,-10,-35,NA
+"1940","Oklahoma","Canadian County",-33,-20,85,-9,-37,10
+"1941","Oklahoma","Carter County",-27,1,NA,-16,-29,14
+"1942","Oklahoma","Cherokee County",-26,-5,-38,NA,-33,17
+"1943","Oklahoma","Choctaw County",-22,-6,NA,NA,-21,NA
+"1944","Oklahoma","Cleveland County",-46,-22,26,NA,-39,11
+"1945","Oklahoma","Coal County",NA,NA,NA,NA,-28,NA
+"1946","Oklahoma","Comanche County",-38,-9,66,5,-38,9
+"1947","Oklahoma","Cotton County",NA,-23,NA,-43,-33,NA
+"1948","Oklahoma","Craig County",-14,-21,NA,8,-24,NA
+"1949","Oklahoma","Creek County",-22,-7,-18,NA,-31,10
+"1950","Oklahoma","Custer County",-32,-7,NA,-6,-28,NA
+"1951","Oklahoma","Delaware County",-16,20,NA,-13,-20,12
+"1952","Oklahoma","Garfield County",-38,-19,-36,-20,-23,13
+"1953","Oklahoma","Garvin County",-18,-3,-27,-16,-19,-4
+"1954","Oklahoma","Grady County",-37,2,NA,NA,-37,16
+"1955","Oklahoma","Greer County",NA,NA,NA,NA,-38,NA
+"1956","Oklahoma","Haskell County",-17,14,NA,NA,-30,NA
+"1957","Oklahoma","Hughes County",-19,8,NA,NA,-29,NA
+"1958","Oklahoma","Jackson County",-29,0,NA,NA,-25,9
+"1959","Oklahoma","Jefferson County",NA,5,NA,NA,-41,NA
+"1960","Oklahoma","Johnston County",-47,0,NA,NA,-26,NA
+"1961","Oklahoma","Kay County",-22,11,NA,-25,-32,13
+"1962","Oklahoma","Kingfisher County",-8,NA,NA,NA,-33,NA
+"1963","Oklahoma","Kiowa County",-15,-4,NA,NA,-20,NA
+"1964","Oklahoma","Latimer County",-19,-10,NA,NA,-32,NA
+"1965","Oklahoma","Le Flore County",-18,-5,NA,NA,-23,10
+"1966","Oklahoma","Lincoln County",-29,4,NA,NA,-31,12
+"1967","Oklahoma","Logan County",-18,-3,NA,-16,-26,17
+"1968","Oklahoma","Love County",-37,-9,NA,NA,-44,NA
+"1969","Oklahoma","Major County",NA,NA,NA,NA,-24,NA
+"1970","Oklahoma","Marshall County",-13,6,NA,NA,-27,NA
+"1971","Oklahoma","Mayes County",-22,-3,NA,-17,-25,14
+"1972","Oklahoma","McClain County",-30,-13,NA,-42,-38,17
+"1973","Oklahoma","McCurtain County",-23,-2,-11,-18,-18,9
+"1974","Oklahoma","McIntosh County",-15,25,NA,8,-22,NA
+"1975","Oklahoma","Murray County",-16,7,-22,NA,-30,NA
+"1976","Oklahoma","Muskogee County",-30,-10,1,-8,-24,14
+"1977","Oklahoma","Noble County",-42,-9,NA,-50,-33,NA
+"1978","Oklahoma","Nowata County",-8,-2,NA,-62,-29,NA
+"1979","Oklahoma","Okfuskee County",-32,-4,NA,-20,-31,NA
+"1980","Oklahoma","Oklahoma County",-43,-16,24,-37,-35,10
+"1981","Oklahoma","Okmulgee County",-21,-6,NA,-17,-25,13
+"1982","Oklahoma","Osage County",-25,7,-38,NA,-39,15
+"1983","Oklahoma","Ottawa County",-21,-3,NA,NA,-35,8
+"1984","Oklahoma","Pawnee County",-29,-25,NA,NA,-28,NA
+"1985","Oklahoma","Payne County",-44,-19,22,NA,-41,18
+"1986","Oklahoma","Pittsburg County",-40,-2,NA,-42,-24,12
+"1987","Oklahoma","Pontotoc County",-31,-15,NA,NA,-34,16
+"1988","Oklahoma","Pottawatomie County",-36,-7,-35,NA,-35,11
+"1989","Oklahoma","Pushmataha County",-18,-1,NA,NA,-17,NA
+"1990","Oklahoma","Rogers County",-29,-3,-10,NA,-32,11
+"1991","Oklahoma","Seminole County",-22,-1,NA,-30,-22,NA
+"1992","Oklahoma","Sequoyah County",-26,11,NA,-11,-32,14
+"1993","Oklahoma","Stephens County",-35,-12,NA,NA,-29,13
+"1994","Oklahoma","Texas County",-30,-4,NA,-13,-24,NA
+"1995","Oklahoma","Tillman County",-12,-8,NA,NA,-30,NA
+"1996","Oklahoma","Tulsa County",-42,-18,-22,-22,-36,10
+"1997","Oklahoma","Wagoner County",-21,7,NA,NA,-35,10
+"1998","Oklahoma","Washington County",-30,-7,NA,NA,-26,15
+"1999","Oklahoma","Washita County",NA,-17,NA,NA,-28,NA
+"2000","Oklahoma","Woods County",-12,NA,24,NA,-38,NA
+"2001","Oklahoma","Woodward County",-25,-7,NA,NA,-25,NA
+"2002","Oregon","Total",-51,-25,-22,-47,-38,12
+"2003","Oregon","Baker County",-44,-14,NA,-12,-31,NA
+"2004","Oregon","Benton County",-60,-35,-5,-51,-46,25
+"2005","Oregon","Clackamas County",-51,-23,-15,-44,-38,13
+"2006","Oregon","Clatsop County",-60,-34,-58,-61,-44,17
+"2007","Oregon","Columbia County",-44,-22,2,NA,-34,19
+"2008","Oregon","Coos County",-45,-24,-48,NA,-38,15
+"2009","Oregon","Crook County",-30,-15,NA,NA,-29,-1
+"2010","Oregon","Curry County",-48,-26,-24,NA,-35,NA
+"2011","Oregon","Deschutes County",-50,-24,-10,-66,-42,11
+"2012","Oregon","Douglas County",-38,-18,-10,-13,-33,9
+"2013","Oregon","Grant County",-72,-19,NA,NA,-30,NA
+"2014","Oregon","Harney County",-38,11,NA,NA,-20,NA
+"2015","Oregon","Hood River County",-56,-11,-12,NA,-51,NA
+"2016","Oregon","Jackson County",-46,-19,12,-49,-34,9
+"2017","Oregon","Jefferson County",-38,-13,NA,-32,-36,0
+"2018","Oregon","Josephine County",-40,-19,27,-33,-30,9
+"2019","Oregon","Klamath County",-37,-11,21,-14,-33,8
+"2020","Oregon","Lake County",-67,NA,NA,NA,-26,NA
+"2021","Oregon","Lane County",-52,-28,-29,-65,-40,12
+"2022","Oregon","Lincoln County",-62,-29,-53,NA,-52,17
+"2023","Oregon","Linn County",-44,-25,-9,-29,-32,11
+"2024","Oregon","Malheur County",-33,-15,NA,2,-23,7
+"2025","Oregon","Marion County",-48,-23,-26,-33,-34,12
+"2026","Oregon","Morrow County",-51,NA,NA,-7,-19,NA
+"2027","Oregon","Multnomah County",-61,-29,-23,-58,-41,14
+"2028","Oregon","Polk County",-42,-23,-5,NA,-39,13
+"2029","Oregon","Sherman County",NA,NA,NA,-37,NA,NA
+"2030","Oregon","Tillamook County",-61,-27,-50,NA,-37,-1
+"2031","Oregon","Umatilla County",-30,-6,-13,-23,-28,8
+"2032","Oregon","Union County",-39,-35,NA,-17,-29,0
+"2033","Oregon","Wallowa County",-63,-14,NA,NA,-30,NA
+"2034","Oregon","Wasco County",-45,-22,-9,NA,-41,7
+"2035","Oregon","Washington County",-53,-31,-6,-47,-41,14
+"2036","Oregon","Yamhill County",-42,-24,11,-63,-39,12
+"2037","Pennsylvania","Total",-50,-27,7,-52,-38,12
+"2038","Pennsylvania","Adams County",-58,-29,0,NA,-41,16
+"2039","Pennsylvania","Allegheny County",-51,-21,83,-56,-41,11
+"2040","Pennsylvania","Armstrong County",-27,-17,NA,NA,-26,18
+"2041","Pennsylvania","Beaver County",-42,-20,-59,-44,-37,10
+"2042","Pennsylvania","Bedford County",-41,-9,NA,-77,-26,17
+"2043","Pennsylvania","Berks County",-53,-32,-21,-24,-37,13
+"2044","Pennsylvania","Blair County",-50,-16,-36,-25,-31,9
+"2045","Pennsylvania","Bradford County",-37,-14,NA,NA,-19,17
+"2046","Pennsylvania","Bucks County",-52,-36,-8,-51,-40,14
+"2047","Pennsylvania","Butler County",-49,-51,-4,-14,-40,11
+"2048","Pennsylvania","Cambria County",-38,-14,NA,NA,-28,7
+"2049","Pennsylvania","Carbon County",-47,-7,-31,NA,-35,19
+"2050","Pennsylvania","Centre County",-71,-45,-24,-44,-54,16
+"2051","Pennsylvania","Chester County",-54,-38,-44,-72,-41,14
+"2052","Pennsylvania","Clarion County",-43,-18,NA,NA,-27,10
+"2053","Pennsylvania","Clearfield County",-33,-18,-34,-21,-23,13
+"2054","Pennsylvania","Clinton County",-34,-12,NA,-29,-20,18
+"2055","Pennsylvania","Columbia County",-44,-20,NA,-26,-28,20
+"2056","Pennsylvania","Crawford County",-33,-7,NA,NA,-31,18
+"2057","Pennsylvania","Cumberland County",-53,-25,-15,-25,-37,13
+"2058","Pennsylvania","Dauphin County",-55,-32,-18,-57,-35,12
+"2059","Pennsylvania","Delaware County",-50,-28,13,-43,-40,14
+"2060","Pennsylvania","Elk County",-26,-18,NA,NA,-33,8
+"2061","Pennsylvania","Erie County",-45,-13,127,-30,-32,9
+"2062","Pennsylvania","Fayette County",-35,-7,-34,NA,-31,8
+"2063","Pennsylvania","Franklin County",-41,-19,-40,-21,-30,10
+"2064","Pennsylvania","Fulton County",-59,-27,NA,-70,-33,NA
+"2065","Pennsylvania","Greene County",-31,-7,NA,NA,-24,3
+"2066","Pennsylvania","Huntingdon County",-34,-7,NA,NA,-26,16
+"2067","Pennsylvania","Indiana County",-37,-19,NA,NA,-33,19
+"2068","Pennsylvania","Jefferson County",-32,-7,NA,-14,-20,17
+"2069","Pennsylvania","Juniata County",-70,-31,NA,NA,-40,NA
+"2070","Pennsylvania","Lackawanna County",-56,-28,-9,-45,-34,12
+"2071","Pennsylvania","Lancaster County",-59,-38,-11,-67,-39,14
+"2072","Pennsylvania","Lawrence County",-28,-16,-50,NA,-29,18
+"2073","Pennsylvania","Lebanon County",-43,-23,-42,-28,-32,12
+"2074","Pennsylvania","Lehigh County",-58,-32,-28,-49,-37,13
+"2075","Pennsylvania","Luzerne County",-54,-25,-5,-30,-32,12
+"2076","Pennsylvania","Lycoming County",-49,-21,-44,-44,-32,10
+"2077","Pennsylvania","McKean County",-32,-11,NA,NA,-26,17
+"2078","Pennsylvania","Mercer County",-44,-34,NA,NA,-30,8
+"2079","Pennsylvania","Mifflin County",-35,-12,NA,NA,-24,18
+"2080","Pennsylvania","Monroe County",-59,-34,-49,-74,-45,13
+"2081","Pennsylvania","Montgomery County",-58,-36,-4,-54,-44,15
+"2082","Pennsylvania","Montour County",-63,-31,NA,NA,-13,NA
+"2083","Pennsylvania","Northampton County",-56,-32,-6,-61,-39,14
+"2084","Pennsylvania","Northumberland County",-42,-11,NA,-25,-22,9
+"2085","Pennsylvania","Perry County",-38,-13,NA,NA,-25,21
+"2086","Pennsylvania","Philadelphia County",-57,-27,-47,-57,-42,14
+"2087","Pennsylvania","Pike County",-48,-16,NA,NA,-39,22
+"2088","Pennsylvania","Potter County",-52,-6,NA,NA,-28,NA
+"2089","Pennsylvania","Schuylkill County",-39,-16,-43,-6,-28,10
+"2090","Pennsylvania","Snyder County",-55,-28,NA,NA,-33,12
+"2091","Pennsylvania","Somerset County",-36,-14,-20,-55,-26,19
+"2092","Pennsylvania","Sullivan County",NA,NA,NA,NA,-42,NA
+"2093","Pennsylvania","Susquehanna County",-42,-17,NA,-25,-30,15
+"2094","Pennsylvania","Tioga County",-45,-15,NA,NA,-27,16
+"2095","Pennsylvania","Union County",-55,-30,NA,NA,-35,14
+"2096","Pennsylvania","Venango County",-25,-15,NA,-70,-28,16
+"2097","Pennsylvania","Warren County",-28,5,-38,NA,-27,17
+"2098","Pennsylvania","Washington County",-45,-17,45,-16,-35,10
+"2099","Pennsylvania","Wayne County",-49,-19,NA,NA,-41,17
+"2100","Pennsylvania","Westmoreland County",-44,-28,103,-36,-35,10
+"2101","Pennsylvania","Wyoming County",-36,-8,NA,NA,-35,-1
+"2102","Pennsylvania","York County",-52,-34,-11,-46,-37,13
+"2103","Rhode Island","Total",-55,-30,-50,-67,-37,14
+"2104","Rhode Island","Bristol County",-61,-45,NA,NA,-37,22
+"2105","Rhode Island","Kent County",-57,-26,-44,-72,-36,13
+"2106","Rhode Island","Newport County",-57,-32,-60,-24,-39,21
+"2107","Rhode Island","Providence County",-57,-29,-50,-65,-36,14
+"2108","Rhode Island","Washington County",-53,-34,-59,-8,-40,13
+"2109","South Carolina","Total",-38,-11,-4,-34,-34,9
+"2110","South Carolina","Abbeville County",-35,7,NA,NA,-30,NA
+"2111","South Carolina","Aiken County",-31,-11,-1,0,-33,8
+"2112","South Carolina","Allendale County",NA,-12,NA,NA,-16,NA
+"2113","South Carolina","Anderson County",-40,-3,-1,-20,-34,8
+"2114","South Carolina","Bamberg County",-28,2,NA,NA,-26,NA
+"2115","South Carolina","Barnwell County",-23,11,NA,NA,-24,NA
+"2116","South Carolina","Beaufort County",-38,-16,1,-32,-39,10
+"2117","South Carolina","Berkeley County",-32,-10,47,-53,-32,9
+"2118","South Carolina","Calhoun County",-9,13,NA,-47,-32,NA
+"2119","South Carolina","Charleston County",-48,-25,-35,-62,-42,11
+"2120","South Carolina","Cherokee County",-37,-3,-7,-20,-24,11
+"2121","South Carolina","Chester County",-29,4,NA,-25,-25,14
+"2122","South Carolina","Chesterfield County",-34,3,NA,NA,-26,13
+"2123","South Carolina","Clarendon County",-23,-2,NA,-12,-28,NA
+"2124","South Carolina","Colleton County",-32,-13,NA,-27,-31,12
+"2125","South Carolina","Darlington County",-20,-2,-36,NA,-22,13
+"2126","South Carolina","Dillon County",-21,3,-41,-21,-19,-2
+"2127","South Carolina","Dorchester County",-32,-12,1,-38,-36,9
+"2128","South Carolina","Edgefield County",-46,8,NA,NA,-32,NA
+"2129","South Carolina","Fairfield County",0,1,NA,-27,-33,NA
+"2130","South Carolina","Florence County",-38,-11,-30,-24,-30,8
+"2131","South Carolina","Georgetown County",-41,-6,58,NA,-30,11
+"2132","South Carolina","Greenville County",-42,-12,-35,-38,-39,10
+"2133","South Carolina","Greenwood County",-30,-4,NA,NA,-27,11
+"2134","South Carolina","Hampton County",-44,-10,NA,-26,-23,NA
+"2135","South Carolina","Horry County",-43,-13,17,-58,-39,8
+"2136","South Carolina","Jasper County",-32,-21,-25,-8,-39,8
+"2137","South Carolina","Kershaw County",-38,-7,NA,-36,-30,14
+"2138","South Carolina","Lancaster County",-30,-13,NA,NA,-35,9
+"2139","South Carolina","Laurens County",-23,2,NA,-27,-26,6
+"2140","South Carolina","Lee County",-51,6,NA,-28,-20,NA
+"2141","South Carolina","Lexington County",-42,-15,24,-33,-35,10
+"2142","South Carolina","Marion County",-26,-7,NA,NA,-25,2
+"2143","South Carolina","Marlboro County",-20,4,NA,NA,-22,NA
+"2144","South Carolina","McCormick County",-36,30,NA,NA,-30,NA
+"2145","South Carolina","Newberry County",-22,1,NA,-31,-25,10
+"2146","South Carolina","Oconee County",-26,-6,2,NA,-28,8
+"2147","South Carolina","Orangeburg County",-34,-5,NA,-31,-24,8
+"2148","South Carolina","Pickens County",-35,-10,3,NA,-35,9
+"2149","South Carolina","Richland County",-43,-19,-37,-21,-35,11
+"2150","South Carolina","Saluda County",-36,-1,NA,NA,-26,NA
+"2151","South Carolina","Spartanburg County",-34,-11,10,-57,-34,9
+"2152","South Carolina","Sumter County",-33,-6,NA,-32,-31,8
+"2153","South Carolina","Union County",-24,1,NA,NA,-23,4
+"2154","South Carolina","Williamsburg County",-21,-2,NA,NA,-19,NA
+"2155","South Carolina","York County",-33,-16,31,-34,-35,10
+"2156","South Dakota","Total",-35,-3,126,-31,-25,8
+"2157","South Dakota","Beadle County",-35,-22,NA,NA,-26,NA
+"2158","South Dakota","Bon Homme County",NA,NA,NA,NA,-27,NA
+"2159","South Dakota","Brookings County",-44,-21,NA,NA,-30,21
+"2160","South Dakota","Brown County",-30,-10,NA,NA,-23,17
+"2161","South Dakota","Brule County",-51,NA,NA,NA,-32,NA
+"2162","South Dakota","Butte County",-8,NA,NA,NA,-17,NA
+"2163","South Dakota","Charles Mix County",-59,NA,NA,NA,-18,NA
+"2164","South Dakota","Clay County",-32,NA,NA,NA,-28,NA
+"2165","South Dakota","Codington County",-35,-14,NA,-29,-24,15
+"2166","South Dakota","Custer County",NA,NA,NA,NA,-23,NA
+"2167","South Dakota","Davison County",-36,-7,NA,NA,-19,NA
+"2168","South Dakota","Dewey County",NA,NA,NA,NA,-42,NA
+"2169","South Dakota","Fall River County",-35,-12,NA,NA,-23,NA
+"2170","South Dakota","Grant County",-52,NA,NA,NA,-21,NA
+"2171","South Dakota","Hamlin County",NA,NA,NA,NA,-32,NA
+"2172","South Dakota","Hughes County",-20,6,NA,NA,-16,NA
+"2173","South Dakota","Hutchinson County",NA,NA,NA,NA,-17,NA
+"2174","South Dakota","Kingsbury County",NA,NA,NA,NA,-27,NA
+"2175","South Dakota","Lake County",-13,-13,NA,NA,-27,NA
+"2176","South Dakota","Lawrence County",-42,-14,-41,NA,-46,0
+"2177","South Dakota","Lincoln County",-13,13,NA,NA,-24,22
+"2178","South Dakota","McCook County",NA,NA,NA,NA,-24,NA
+"2179","South Dakota","Meade County",-38,-10,NA,NA,-32,12
+"2180","South Dakota","Minnehaha County",-38,-5,141,-41,-23,8
+"2181","South Dakota","Moody County",NA,NA,NA,NA,-27,NA
+"2182","South Dakota","Pennington County",-42,-6,90,-24,-30,8
+"2183","South Dakota","Roberts County",-37,4,NA,-33,-29,NA
+"2184","South Dakota","Shannon County",-50,-11,NA,NA,-30,NA
+"2185","South Dakota","Spink County",NA,NA,NA,NA,-28,NA
+"2186","South Dakota","Todd County",NA,-26,NA,NA,-43,NA
+"2187","South Dakota","Tripp County",-36,NA,NA,NA,NA,NA
+"2188","South Dakota","Turner County",NA,NA,NA,NA,-21,NA
+"2189","South Dakota","Union County",-30,-15,NA,-18,-17,NA
+"2190","South Dakota","Walworth County",-19,NA,NA,NA,-37,NA
+"2191","South Dakota","Yankton County",-23,-3,NA,NA,-22,8
+"2192","Tennessee","Total",-35,-9,35,-35,-34,8
+"2193","Tennessee","Anderson County",-30,-5,65,NA,-31,8
+"2194","Tennessee","Bedford County",-17,-2,NA,NA,-33,14
+"2195","Tennessee","Benton County",-28,16,NA,-25,-30,NA
+"2196","Tennessee","Bledsoe County",-23,18,NA,NA,-29,NA
+"2197","Tennessee","Blount County",-35,-4,35,-79,-39,9
+"2198","Tennessee","Bradley County",-34,-6,NA,-18,-24,9
+"2199","Tennessee","Campbell County",-16,-1,30,-12,-29,10
+"2200","Tennessee","Cannon County",34,15,NA,NA,-24,NA
+"2201","Tennessee","Carroll County",-33,-2,NA,NA,-26,4
+"2202","Tennessee","Carter County",-15,1,16,NA,-21,11
+"2203","Tennessee","Cheatham County",-9,23,NA,-36,-32,16
+"2204","Tennessee","Chester County",-13,-3,NA,NA,-28,NA
+"2205","Tennessee","Claiborne County",-28,29,NA,NA,-26,-2
+"2206","Tennessee","Clay County",NA,NA,NA,NA,-28,NA
+"2207","Tennessee","Cocke County",-24,-11,-3,-20,-36,11
+"2208","Tennessee","Coffee County",-29,-6,NA,-35,-33,14
+"2209","Tennessee","Crockett County",-9,3,NA,NA,-11,NA
+"2210","Tennessee","Cumberland County",-22,-13,NA,-25,-32,11
+"2211","Tennessee","Davidson County",-44,-17,-6,-64,-44,11
+"2212","Tennessee","DeKalb County",-1,26,NA,NA,-34,NA
+"2213","Tennessee","Decatur County",-10,8,NA,NA,-28,NA
+"2214","Tennessee","Dickson County",-30,-13,NA,-19,-34,15
+"2215","Tennessee","Dyer County",-21,-5,NA,-9,-21,11
+"2216","Tennessee","Fayette County",-15,46,NA,-30,-35,9
+"2217","Tennessee","Fentress County",-19,0,NA,NA,-19,NA
+"2218","Tennessee","Franklin County",-15,3,NA,NA,-35,12
+"2219","Tennessee","Gibson County",-18,4,NA,NA,-25,12
+"2220","Tennessee","Giles County",-14,2,NA,-25,-24,8
+"2221","Tennessee","Grainger County",-46,-1,NA,NA,-20,NA
+"2222","Tennessee","Greene County",-26,-8,NA,-8,-19,4
+"2223","Tennessee","Grundy County",-52,4,NA,NA,-33,NA
+"2224","Tennessee","Hamblen County",-29,-12,NA,NA,-28,12
+"2225","Tennessee","Hamilton County",-46,-15,17,-39,-36,10
+"2226","Tennessee","Hancock County",NA,NA,NA,NA,-39,NA
+"2227","Tennessee","Hardeman County",-11,-4,NA,NA,-28,NA
+"2228","Tennessee","Hardin County",-24,-3,NA,NA,-29,NA
+"2229","Tennessee","Hawkins County",-14,-5,NA,NA,-25,12
+"2230","Tennessee","Haywood County",-11,4,NA,NA,-24,NA
+"2231","Tennessee","Henderson County",-21,11,NA,NA,-33,-1
+"2232","Tennessee","Henry County",-15,8,NA,NA,-30,11
+"2233","Tennessee","Hickman County",-28,3,NA,NA,-26,-3
+"2234","Tennessee","Houston County",-37,-17,NA,NA,-27,NA
+"2235","Tennessee","Humphreys County",-12,2,NA,NA,-26,NA
+"2236","Tennessee","Jackson County",NA,2,NA,NA,-31,NA
+"2237","Tennessee","Jefferson County",-14,-10,NA,-17,-37,13
+"2238","Tennessee","Johnson County",-26,3,NA,NA,-20,NA
+"2239","Tennessee","Knox County",-41,-16,35,-28,-40,10
+"2240","Tennessee","Lauderdale County",-7,21,NA,NA,-21,NA
+"2241","Tennessee","Lawrence County",-22,2,NA,NA,-28,12
+"2242","Tennessee","Lewis County",-7,-4,NA,NA,-39,NA
+"2243","Tennessee","Lincoln County",-23,5,NA,NA,-21,7
+"2244","Tennessee","Loudon County",-27,1,NA,-22,-40,13
+"2245","Tennessee","Macon County",-16,-5,NA,NA,-33,NA
+"2246","Tennessee","Madison County",-37,-15,-14,-32,-33,8
+"2247","Tennessee","Marion County",-27,-26,29,-16,-28,0
+"2248","Tennessee","Marshall County",-9,11,NA,-34,-29,14
+"2249","Tennessee","Maury County",-30,-15,-33,-15,-33,9
+"2250","Tennessee","McMinn County",-29,-13,NA,-23,-29,12
+"2251","Tennessee","McNairy County",-17,-1,NA,-20,-17,NA
+"2252","Tennessee","Meigs County",-12,14,NA,NA,-28,NA
+"2253","Tennessee","Monroe County",-22,-7,NA,NA,-37,14
+"2254","Tennessee","Montgomery County",-33,-9,91,-13,-32,8
+"2255","Tennessee","Moore County",NA,NA,NA,NA,-29,NA
+"2256","Tennessee","Morgan County",-5,2,NA,NA,-11,NA
+"2257","Tennessee","Obion County",-28,14,NA,NA,-24,6
+"2258","Tennessee","Overton County",-11,6,NA,NA,-30,NA
+"2259","Tennessee","Perry County",-61,NA,NA,NA,-30,NA
+"2260","Tennessee","Polk County",-29,9,NA,NA,-29,NA
+"2261","Tennessee","Putnam County",-25,-14,NA,-11,-30,6
+"2262","Tennessee","Rhea County",-7,-1,NA,NA,-26,11
+"2263","Tennessee","Roane County",-16,-6,-19,NA,-27,13
+"2264","Tennessee","Robertson County",-25,6,NA,-25,-36,15
+"2265","Tennessee","Rutherford County",-35,-12,74,-16,-35,10
+"2266","Tennessee","Scott County",-19,3,NA,NA,-20,NA
+"2267","Tennessee","Sequatchie County",-20,11,NA,NA,-25,NA
+"2268","Tennessee","Sevier County",-64,-29,-55,NA,-53,12
+"2269","Tennessee","Shelby County",-36,-9,0,-25,-32,10
+"2270","Tennessee","Smith County",-17,15,NA,-10,-13,NA
+"2271","Tennessee","Stewart County",-23,11,NA,NA,-23,NA
+"2272","Tennessee","Sullivan County",-33,-10,-22,-44,-30,8
+"2273","Tennessee","Sumner County",-35,-13,112,NA,-36,10
+"2274","Tennessee","Tipton County",-19,1,NA,NA,-29,16
+"2275","Tennessee","Trousdale County",-20,11,NA,NA,-33,NA
+"2276","Tennessee","Unicoi County",-22,3,NA,NA,-23,NA
+"2277","Tennessee","Union County",-24,6,NA,NA,-17,NA
+"2278","Tennessee","Van Buren County",NA,NA,NA,NA,-32,NA
+"2279","Tennessee","Warren County",0,40,NA,NA,-33,13
+"2280","Tennessee","Washington County",-45,-15,-25,-8,-33,8
+"2281","Tennessee","Wayne County",-20,3,NA,NA,-28,NA
+"2282","Tennessee","Weakley County",-27,-1,NA,NA,-23,7
+"2283","Tennessee","White County",-35,-16,NA,NA,-44,-1
+"2284","Tennessee","Williamson County",-46,-20,76,-19,-45,12
+"2285","Tennessee","Wilson County",-34,-4,51,-6,-38,10
+"2286","Texas","Total",-45,-23,-27,-47,-36,13
+"2287","Texas","Anderson County",-23,1,NA,-17,-22,11
+"2288","Texas","Andrews County",-28,-22,NA,32,-33,NA
+"2289","Texas","Angelina County",-38,-9,-45,-25,-25,12
+"2290","Texas","Aransas County",-48,-31,-67,NA,-29,10
+"2291","Texas","Archer County",NA,NA,NA,NA,-27,NA
+"2292","Texas","Atascosa County",-23,-24,NA,-65,-24,17
+"2293","Texas","Austin County",-32,-6,NA,NA,-24,1
+"2294","Texas","Bailey County",-29,-14,NA,NA,-31,NA
+"2295","Texas","Bandera County",-25,15,-36,NA,-35,NA
+"2296","Texas","Bastrop County",-32,-24,-14,NA,-34,12
+"2297","Texas","Bee County",-46,-35,NA,NA,-27,-1
+"2298","Texas","Bell County",-37,-24,8,-34,-33,10
+"2299","Texas","Bexar County",-47,-23,-46,-46,-38,13
+"2300","Texas","Blanco County",-41,-10,-50,NA,-39,NA
+"2301","Texas","Bosque County",-26,0,NA,NA,-17,NA
+"2302","Texas","Bowie County",-44,-20,-11,-18,-32,10
+"2303","Texas","Brazoria County",-39,-21,9,-24,-30,13
+"2304","Texas","Brazos County",-50,-28,-37,-60,-39,14
+"2305","Texas","Brewster County",-52,-37,NA,NA,-28,NA
+"2306","Texas","Brooks County",-53,-14,NA,-43,-31,NA
+"2307","Texas","Brown County",-34,-18,NA,NA,-21,12
+"2308","Texas","Burleson County",-26,0,NA,NA,-24,NA
+"2309","Texas","Burnet County",-27,-15,8,NA,-36,15
+"2310","Texas","Caldwell County",-35,-36,NA,-35,-36,17
+"2311","Texas","Calhoun County",-35,-20,NA,NA,-20,NA
+"2312","Texas","Callahan County",-26,-5,NA,-18,-8,NA
+"2313","Texas","Cameron County",-61,-41,-70,-62,-37,17
+"2314","Texas","Camp County",-11,-4,NA,NA,-13,NA
+"2315","Texas","Carson County",NA,-28,NA,-20,-30,NA
+"2316","Texas","Cass County",-28,4,NA,-20,-23,6
+"2317","Texas","Castro County",NA,-14,NA,NA,-20,NA
+"2318","Texas","Chambers County",-42,-19,NA,-39,-27,20
+"2319","Texas","Cherokee County",-22,-5,NA,NA,-22,12
+"2320","Texas","Childress County",-25,-31,NA,-11,-32,NA
+"2321","Texas","Clay County",-53,NA,NA,-10,-24,NA
+"2322","Texas","Coke County",NA,-21,NA,NA,NA,NA
+"2323","Texas","Coleman County",-18,-16,NA,NA,-20,NA
+"2324","Texas","Collin County",-50,-33,-11,-37,-45,14
+"2325","Texas","Colorado County",-36,-8,NA,-31,-18,NA
+"2326","Texas","Comal County",-47,-33,-30,-10,-36,12
+"2327","Texas","Comanche County",-9,-22,NA,NA,-25,NA
+"2328","Texas","Cooke County",-28,-3,-8,-33,-32,16
+"2329","Texas","Coryell County",-29,-18,35,NA,-27,11
+"2330","Texas","Crane County",-39,-27,NA,NA,-37,NA
+"2331","Texas","Crockett County",NA,-27,NA,NA,NA,NA
+"2332","Texas","Crosby County",NA,-15,NA,NA,-35,NA
+"2333","Texas","Culberson County",-46,NA,NA,-30,NA,NA
+"2334","Texas","Dallam County",-34,-12,NA,NA,-10,NA
+"2335","Texas","Dallas County",-45,-21,-24,-45,-38,14
+"2336","Texas","Dawson County",-36,-10,NA,NA,-26,NA
+"2337","Texas","DeWitt County",-30,-22,NA,NA,-19,NA
+"2338","Texas","Deaf Smith County",-24,-12,NA,-13,-18,NA
+"2339","Texas","Delta County",NA,NA,NA,NA,-37,NA
+"2340","Texas","Denton County",-47,-27,1,-30,-42,14
+"2341","Texas","Dimmit County",-19,-17,NA,-34,-30,NA
+"2342","Texas","Donley County",NA,NA,NA,9,NA,NA
+"2343","Texas","Duval County",-46,-28,NA,NA,-36,NA
+"2344","Texas","Eastland County",-31,-15,NA,-27,-28,NA
+"2345","Texas","Ector County",-32,-5,NA,-8,-24,10
+"2346","Texas","El Paso County",-50,-25,-65,-40,-37,15
+"2347","Texas","Ellis County",-35,-18,4,-33,-34,13
+"2348","Texas","Erath County",-47,-32,NA,NA,-25,10
+"2349","Texas","Falls County",-19,-13,NA,NA,-10,NA
+"2350","Texas","Fannin County",-11,-2,NA,NA,-25,11
+"2351","Texas","Fayette County",-35,-25,NA,-33,-17,NA
+"2352","Texas","Floyd County",NA,NA,NA,NA,-28,NA
+"2353","Texas","Fort Bend County",-49,-26,-2,-26,-41,15
+"2354","Texas","Franklin County",-33,4,NA,-23,-24,NA
+"2355","Texas","Freestone County",-52,-4,NA,-41,-22,NA
+"2356","Texas","Frio County",-21,-22,NA,-27,-19,NA
+"2357","Texas","Gaines County",-28,-8,NA,NA,-20,NA
+"2358","Texas","Galveston County",-42,-15,-29,-57,-35,12
+"2359","Texas","Garza County",-31,-13,NA,NA,NA,NA
+"2360","Texas","Gillespie County",-46,-25,-38,NA,-36,NA
+"2361","Texas","Goliad County",-54,-38,NA,NA,-32,NA
+"2362","Texas","Gonzales County",-30,-13,-19,NA,-20,NA
+"2363","Texas","Gray County",-33,-10,NA,NA,-26,NA
+"2364","Texas","Grayson County",-33,-9,47,NA,-29,9
+"2365","Texas","Gregg County",-43,-21,2,NA,-31,11
+"2366","Texas","Grimes County",-17,-3,NA,NA,-21,0
+"2367","Texas","Guadalupe County",-34,-24,-1,-23,-37,12
+"2368","Texas","Hale County",-29,-13,NA,NA,-27,11
+"2369","Texas","Hall County",NA,NA,NA,-13,NA,NA
+"2370","Texas","Hamilton County",-41,-32,NA,NA,-22,NA
+"2371","Texas","Hardeman County",NA,-24,NA,-16,NA,NA
+"2372","Texas","Hardin County",-45,-13,NA,NA,-32,16
+"2373","Texas","Harris County",-46,-23,-22,-58,-38,14
+"2374","Texas","Harrison County",-28,-7,-16,NA,-31,15
+"2375","Texas","Hartley County",NA,-4,NA,NA,NA,NA
+"2376","Texas","Haskell County",-16,-22,NA,NA,NA,NA
+"2377","Texas","Hays County",-46,-22,-23,-19,-36,13
+"2378","Texas","Henderson County",-30,-3,-22,NA,-28,9
+"2379","Texas","Hidalgo County",-63,-43,-74,-64,-43,18
+"2380","Texas","Hill County",-35,-8,NA,-41,-25,13
+"2381","Texas","Hockley County",-23,-15,NA,NA,-17,-3
+"2382","Texas","Hood County",-34,-7,-36,NA,-35,16
+"2383","Texas","Hopkins County",-31,4,NA,-22,-27,11
+"2384","Texas","Houston County",-22,5,NA,NA,-21,NA
+"2385","Texas","Howard County",-35,-19,NA,-32,-24,14
+"2386","Texas","Hunt County",-33,-15,-5,-23,-33,10
+"2387","Texas","Hutchinson County",-19,-13,NA,NA,-11,NA
+"2388","Texas","Jack County",-9,NA,NA,NA,-26,NA
+"2389","Texas","Jackson County",-21,-19,NA,-44,-21,NA
+"2390","Texas","Jasper County",-36,-24,25,NA,-30,6
+"2391","Texas","Jefferson County",-49,-22,4,-35,-33,12
+"2392","Texas","Jim Hogg County",NA,-29,NA,NA,NA,NA
+"2393","Texas","Jim Wells County",-38,-22,NA,NA,-28,14
+"2394","Texas","Johnson County",-33,-18,19,NA,-31,11
+"2395","Texas","Jones County",-36,-8,NA,NA,-18,NA
+"2396","Texas","Karnes County",-31,-24,NA,-46,-19,NA
+"2397","Texas","Kaufman County",-46,-22,-26,-18,-38,12
+"2398","Texas","Kendall County",-38,-25,-61,-31,-38,14
+"2399","Texas","Kerr County",-32,-18,19,NA,-30,14
+"2400","Texas","Kimble County",-35,NA,NA,-24,NA,NA
+"2401","Texas","Kleberg County",-42,-36,-71,-56,-28,16
+"2402","Texas","La Salle County",-54,-23,NA,-40,NA,NA
+"2403","Texas","Lamar County",-24,-6,NA,-20,-13,12
+"2404","Texas","Lamb County",-40,-17,NA,NA,-22,NA
+"2405","Texas","Lampasas County",-30,-27,NA,NA,-38,NA
+"2406","Texas","Lavaca County",133,-11,NA,NA,-18,NA
+"2407","Texas","Lee County",-33,-37,NA,NA,-22,NA
+"2408","Texas","Leon County",-51,-23,NA,-26,-32,NA
+"2409","Texas","Liberty County",-38,-2,NA,-14,-28,11
+"2410","Texas","Limestone County",-26,-15,NA,NA,-24,NA
+"2411","Texas","Live Oak County",-68,-35,NA,-52,-39,NA
+"2412","Texas","Llano County",-26,-3,10,NA,-32,NA
+"2413","Texas","Loving County",NA,-58,NA,NA,NA,NA
+"2414","Texas","Lubbock County",-37,-14,17,-36,-28,10
+"2415","Texas","Lynn County",NA,NA,NA,NA,-24,NA
+"2416","Texas","Madison County",-36,-63,NA,NA,-29,NA
+"2417","Texas","Marion County",-30,-12,NA,NA,-26,NA
+"2418","Texas","Martin County",-12,-13,NA,NA,-32,NA
+"2419","Texas","Matagorda County",-34,-16,NA,NA,-9,13
+"2420","Texas","Maverick County",-56,-36,-82,-62,-36,19
+"2421","Texas","McCulloch County",-27,-10,NA,NA,-14,NA
+"2422","Texas","McLennan County",-43,-22,-12,-34,-34,10
+"2423","Texas","McMullen County",NA,NA,NA,-50,NA,NA
+"2424","Texas","Medina County",-24,-8,-54,-30,-30,19
+"2425","Texas","Midland County",-41,-19,-45,-24,-25,12
+"2426","Texas","Milam County",-35,-20,NA,NA,-27,NA
+"2427","Texas","Mitchell County",-35,-14,-70,NA,-26,NA
+"2428","Texas","Montague County",-21,-18,NA,NA,-30,NA
+"2429","Texas","Montgomery County",-47,-24,0,-26,-38,13
+"2430","Texas","Moore County",-27,-12,NA,-7,-15,-1
+"2431","Texas","Morris County",-15,-9,NA,NA,-30,NA
+"2432","Texas","Nacogdoches County",-36,-3,-17,-43,-24,15
+"2433","Texas","Navarro County",-40,-18,-7,-40,-32,16
+"2434","Texas","Newton County",NA,0,NA,NA,-35,NA
+"2435","Texas","Nolan County",-36,-10,NA,-31,-18,NA
+"2436","Texas","Nueces County",-46,-25,-40,-45,-34,13
+"2437","Texas","Ochiltree County",-44,-14,NA,NA,-26,NA
+"2438","Texas","Oldham County",NA,NA,NA,-5,NA,NA
+"2439","Texas","Orange County",-35,-18,-38,-37,-32,11
+"2440","Texas","Palo Pinto County",-19,-1,NA,-34,-29,8
+"2441","Texas","Panola County",-21,0,NA,-22,-28,NA
+"2442","Texas","Parker County",-35,-15,2,-32,-35,10
+"2443","Texas","Parmer County",NA,-10,NA,NA,-23,NA
+"2444","Texas","Pecos County",-33,-17,NA,-22,-20,NA
+"2445","Texas","Polk County",-36,-14,-7,-41,-36,10
+"2446","Texas","Potter County",-41,-13,2,-17,-26,9
+"2447","Texas","Presidio County",-69,-38,NA,NA,-35,NA
+"2448","Texas","Rains County",-22,-8,NA,NA,-20,NA
+"2449","Texas","Randall County",-34,-17,-24,NA,-30,9
+"2450","Texas","Reagan County",NA,-2,NA,-15,NA,NA
+"2451","Texas","Red River County",-2,16,NA,NA,-23,NA
+"2452","Texas","Reeves County",-39,-19,NA,-8,-12,NA
+"2453","Texas","Refugio County",-67,-43,NA,-43,-31,NA
+"2454","Texas","Robertson County",-38,-16,NA,-32,-16,NA
+"2455","Texas","Rockwall County",-45,-25,NA,-21,-40,25
+"2456","Texas","Runnels County",-23,-5,NA,NA,-22,NA
+"2457","Texas","Rusk County",-24,-7,NA,NA,-26,13
+"2458","Texas","Sabine County",-17,13,NA,NA,-34,NA
+"2459","Texas","San Augustine County",-62,-9,NA,NA,-34,NA
+"2460","Texas","San Jacinto County",-31,7,-42,NA,-29,5
+"2461","Texas","San Patricio County",-38,-23,-30,-33,-24,12
+"2462","Texas","San Saba County",-12,NA,NA,NA,NA,NA
+"2463","Texas","Scurry County",-32,-21,NA,NA,-18,NA
+"2464","Texas","Shelby County",-29,-3,NA,NA,-27,NA
+"2465","Texas","Sherman County",NA,NA,NA,0,NA,NA
+"2466","Texas","Smith County",-52,-28,-21,-36,-34,13
+"2467","Texas","Somervell County",-37,-6,NA,NA,-34,NA
+"2468","Texas","Starr County",-54,-31,-57,NA,-29,25
+"2469","Texas","Stephens County",-32,NA,NA,NA,-19,NA
+"2470","Texas","Sutton County",-53,-29,NA,NA,NA,NA
+"2471","Texas","Swisher County",NA,-4,NA,NA,-29,NA
+"2472","Texas","Tarrant County",-48,-20,-16,-71,-36,13
+"2473","Texas","Taylor County",-34,-14,NA,-7,-25,9
+"2474","Texas","Terry County",-18,-19,NA,NA,-14,NA
+"2475","Texas","Titus County",-28,2,NA,NA,-21,11
+"2476","Texas","Tom Green County",-46,-18,18,NA,-26,10
+"2477","Texas","Travis County",-54,-29,-19,-72,-44,15
+"2478","Texas","Trinity County",-42,9,NA,NA,-26,NA
+"2479","Texas","Tyler County",-45,11,NA,NA,-32,NA
+"2480","Texas","Upshur County",-24,2,NA,NA,-31,15
+"2481","Texas","Upton County",NA,-21,NA,NA,NA,NA
+"2482","Texas","Uvalde County",-43,-31,NA,NA,-28,NA
+"2483","Texas","Val Verde County",-55,-35,-53,NA,-32,21
+"2484","Texas","Van Zandt County",-33,-16,7,-18,-25,13
+"2485","Texas","Victoria County",-41,-23,-39,-49,-27,10
+"2486","Texas","Walker County",-42,-17,-1,-42,-27,15
+"2487","Texas","Waller County",-30,-22,NA,-22,-33,20
+"2488","Texas","Ward County",-34,-16,NA,35,-15,NA
+"2489","Texas","Washington County",-25,-14,NA,NA,-27,-2
+"2490","Texas","Webb County",-55,-38,-78,-43,-35,16
+"2491","Texas","Wharton County",-25,-36,NA,-36,-20,15
+"2492","Texas","Wheeler County",-41,NA,NA,NA,NA,NA
+"2493","Texas","Wichita County",-50,-30,-11,-24,-32,11
+"2494","Texas","Wilbarger County",-20,-12,NA,-17,-9,NA
+"2495","Texas","Willacy County",-51,-36,NA,NA,-34,NA
+"2496","Texas","Williamson County",-49,-29,-14,-41,-43,14
+"2497","Texas","Wilson County",-33,-55,-20,NA,-32,19
+"2498","Texas","Winkler County",-29,-23,NA,75,-14,NA
+"2499","Texas","Wise County",-27,-11,8,-16,-31,15
+"2500","Texas","Wood County",-21,7,NA,NA,-28,12
+"2501","Texas","Yoakum County",-39,-12,NA,NA,-30,NA
+"2502","Texas","Young County",-18,-4,NA,NA,-28,NA
+"2503","Texas","Zapata County",-42,-19,NA,NA,-44,NA
+"2504","Texas","Zavala County",-49,-25,NA,NA,-31,NA
+"2505","Utah","Total",-41,-14,26,-44,-40,10
+"2506","Utah","Beaver County",-58,NA,NA,-26,-23,NA
+"2507","Utah","Box Elder County",-28,-24,13,-5,-36,15
+"2508","Utah","Cache County",-33,-3,66,-7,-39,10
+"2509","Utah","Carbon County",-22,2,NA,NA,-30,NA
+"2510","Utah","Davis County",-39,-1,48,-15,-41,10
+"2511","Utah","Duchesne County",-25,1,NA,NA,-11,NA
+"2512","Utah","Emery County",-45,6,NA,NA,-16,NA
+"2513","Utah","Garfield County",NA,NA,13,NA,NA,NA
+"2514","Utah","Grand County",-48,-1,-18,NA,-22,NA
+"2515","Utah","Iron County",-43,-49,NA,-16,-38,16
+"2516","Utah","Juab County",-32,-15,NA,-13,-23,NA
+"2517","Utah","Kane County",-25,-6,21,NA,-33,NA
+"2518","Utah","Millard County",-23,72,NA,NA,-14,NA
+"2519","Utah","Morgan County",-31,-13,NA,NA,-42,NA
+"2520","Utah","Salt Lake County",-46,-16,16,-62,-38,11
+"2521","Utah","San Juan County",-21,60,-7,NA,-33,NA
+"2522","Utah","Sanpete County",-4,0,NA,NA,-36,NA
+"2523","Utah","Sevier County",-19,2,NA,-9,-25,NA
+"2524","Utah","Summit County",-84,-65,-47,-59,-76,6
+"2525","Utah","Tooele County",-22,-11,NA,-18,-30,11
+"2526","Utah","Uintah County",-18,-4,-20,NA,-37,5
+"2527","Utah","Utah County",-36,-11,54,13,-50,11
+"2528","Utah","Wasatch County",-48,-30,-6,NA,-60,4
+"2529","Utah","Washington County",-38,-10,-2,-22,-39,9
+"2530","Utah","Weber County",-32,-17,76,-8,-31,8
+"2531","Vermont","Total",-62,-42,-55,-71,-43,13
+"2532","Vermont","Addison County",-55,-38,NA,NA,-35,6
+"2533","Vermont","Bennington County",-62,-29,-23,NA,-40,8
+"2534","Vermont","Caledonia County",-67,-44,NA,NA,-30,2
+"2535","Vermont","Chittenden County",-61,-53,-50,-57,-46,14
+"2536","Vermont","Essex County",NA,NA,NA,NA,-37,NA
+"2537","Vermont","Franklin County",-52,-27,NA,NA,-28,22
+"2538","Vermont","Grand Isle County",NA,NA,NA,-60,-49,NA
+"2539","Vermont","Lamoille County",-79,-45,NA,-40,-58,NA
+"2540","Vermont","Orange County",-73,-33,NA,-66,-31,1
+"2541","Vermont","Orleans County",-52,-31,-46,NA,-32,0
+"2542","Vermont","Rutland County",-59,-33,NA,-77,-47,21
+"2543","Vermont","Washington County",-65,-45,NA,NA,-41,23
+"2544","Vermont","Windham County",-76,-43,-38,NA,-47,15
+"2545","Vermont","Windsor County",-67,-50,-63,-60,-49,22
+"2546","Virginia","Total",-39,-16,46,-50,-36,11
+"2547","Virginia","Accomack County",-30,-18,NA,NA,-26,13
+"2548","Virginia","Albemarle County",-50,-30,36,-55,-47,23
+"2549","Virginia","Alexandria",-54,-22,49,-58,-44,16
+"2550","Virginia","Alleghany County",-32,NA,NA,-12,-23,NA
+"2551","Virginia","Amelia County",-31,-18,NA,NA,-35,NA
+"2552","Virginia","Amherst County",-9,-7,NA,NA,-23,8
+"2553","Virginia","Appomattox County",-20,2,NA,NA,-30,NA
+"2554","Virginia","Arlington County",-62,-32,8,-82,-50,16
+"2555","Virginia","Augusta County",-39,-16,-22,52,-22,8
+"2556","Virginia","Bath County",NA,NA,-70,NA,NA,NA
+"2557","Virginia","Bedford County",-27,-8,NA,NA,-34,14
+"2558","Virginia","Bland County",NA,NA,NA,-19,-32,NA
+"2559","Virginia","Botetourt County",-59,-11,NA,-20,-44,14
+"2560","Virginia","Bristol",-20,-12,NA,NA,-32,NA
+"2561","Virginia","Brunswick County",-37,NA,NA,-50,-11,NA
+"2562","Virginia","Buchanan County",-18,6,NA,NA,-29,NA
+"2563","Virginia","Buckingham County",-7,-3,NA,NA,-22,NA
+"2564","Virginia","Buena Vista",-31,-14,NA,NA,-38,NA
+"2565","Virginia","Campbell County",-26,-13,NA,NA,-33,13
+"2566","Virginia","Caroline County",-42,-20,-70,-37,-26,17
+"2567","Virginia","Carroll County",-15,12,NA,-16,-19,4
+"2568","Virginia","Charles City County",NA,NA,NA,NA,-34,NA
+"2569","Virginia","Charlotte County",-20,20,NA,NA,-28,NA
+"2570","Virginia","Charlottesville",-68,-30,-39,-58,-49,15
+"2571","Virginia","Chesapeake",-35,-18,35,-18,-36,9
+"2572","Virginia","Chesterfield County",-40,-21,27,-19,-39,10
+"2573","Virginia","Clarke County",-43,-19,NA,NA,-36,NA
+"2574","Virginia","Colonial Heights",-46,-26,NA,NA,-34,NA
+"2575","Virginia","Covington",-27,-9,NA,NA,-26,NA
+"2576","Virginia","Craig County",NA,NA,NA,NA,-24,NA
+"2577","Virginia","Culpeper County",-33,-12,NA,NA,-28,16
+"2578","Virginia","Cumberland County",-62,-24,NA,NA,-28,NA
+"2579","Virginia","Danville",-35,-9,NA,-14,-35,11
+"2580","Virginia","Dickenson County",-14,-11,NA,NA,-29,NA
+"2581","Virginia","Dinwiddie County",35,-29,NA,NA,-24,14
+"2582","Virginia","Emporia",-41,-6,NA,-20,-16,NA
+"2583","Virginia","Essex County",-18,10,NA,NA,-28,NA
+"2584","Virginia","Fairfax",-65,-40,-26,NA,-51,3
+"2585","Virginia","Fairfax County",-49,-24,15,-46,-46,15
+"2586","Virginia","Falls Church",-70,-39,NA,NA,-74,NA
+"2587","Virginia","Fauquier County",-29,-34,NA,NA,-32,20
+"2588","Virginia","Floyd County",-32,9,NA,NA,-29,NA
+"2589","Virginia","Fluvanna County",-79,-31,NA,NA,-34,-1
+"2590","Virginia","Franklin",-11,22,NA,-14,-25,NA
+"2591","Virginia","Franklin County",-16,-7,NA,NA,-28,13
+"2592","Virginia","Frederick County",-37,-26,-7,-33,-29,13
+"2593","Virginia","Fredericksburg",-51,-29,10,-67,-39,0
+"2594","Virginia","Galax",-26,15,NA,NA,-32,NA
+"2595","Virginia","Giles County",-19,0,NA,NA,-16,NA
+"2596","Virginia","Gloucester County",-27,12,NA,NA,-26,15
+"2597","Virginia","Goochland County",-43,-22,NA,NA,-38,NA
+"2598","Virginia","Grayson County",NA,NA,NA,NA,-18,NA
+"2599","Virginia","Greene County",-18,-15,NA,NA,-33,NA
+"2600","Virginia","Greensville County",NA,NA,NA,-24,-18,NA
+"2601","Virginia","Halifax County",-24,-11,NA,NA,-28,12
+"2602","Virginia","Hampton",-34,-6,117,-8,-32,10
+"2603","Virginia","Hanover County",-37,-23,NA,-25,-38,20
+"2604","Virginia","Harrisonburg",-51,-20,NA,-24,-36,16
+"2605","Virginia","Henrico County",-42,-22,28,-71,-36,11
+"2606","Virginia","Henry County",-17,-9,NA,NA,-28,11
+"2607","Virginia","Hopewell",-31,-4,NA,NA,-29,11
+"2608","Virginia","Isle of Wight County",-26,-11,NA,NA,-33,18
+"2609","Virginia","James City County",-59,-2,-2,NA,-47,19
+"2610","Virginia","King George County",-31,-37,NA,-28,-31,0
+"2611","Virginia","King William County",-13,-7,NA,NA,-20,NA
+"2612","Virginia","King and Queen County",NA,NA,NA,NA,-29,NA
+"2613","Virginia","Lancaster County",-9,-2,NA,NA,-25,NA
+"2614","Virginia","Lee County",-18,10,NA,NA,-13,NA
+"2615","Virginia","Lexington",-61,-14,NA,NA,NA,NA
+"2616","Virginia","Loudoun County",-50,-24,-11,-80,-44,15
+"2617","Virginia","Louisa County",-22,-13,NA,NA,-32,17
+"2618","Virginia","Lunenburg County",NA,-2,NA,NA,-29,NA
+"2619","Virginia","Lynchburg",-45,-18,NA,-9,-35,9
+"2620","Virginia","Madison County",-53,-34,NA,NA,-36,NA
+"2621","Virginia","Manassas",-35,-16,NA,-41,-34,19
+"2622","Virginia","Manassas Park",-49,-6,NA,NA,-33,NA
+"2623","Virginia","Martinsville",-36,1,NA,NA,-35,NA
+"2624","Virginia","Mathews County",-64,-2,NA,NA,-33,NA
+"2625","Virginia","Mecklenburg County",-23,1,2,-26,-16,5
+"2626","Virginia","Middlesex County",-44,12,NA,NA,-31,NA
+"2627","Virginia","Montgomery County",-53,-18,NA,-26,-35,9
+"2628","Virginia","Nelson County",-42,1,NA,NA,-38,NA
+"2629","Virginia","New Kent County",-22,-5,NA,-40,-41,NA
+"2630","Virginia","Newport News",-37,-10,55,-32,-31,9
+"2631","Virginia","Norfolk",-36,-8,37,-56,-31,9
+"2632","Virginia","Northampton County",-32,-22,NA,NA,-14,NA
+"2633","Virginia","Northumberland County",-31,-18,NA,NA,-24,NA
+"2634","Virginia","Norton",-29,NA,NA,NA,NA,NA
+"2635","Virginia","Nottoway County",-30,38,NA,NA,-11,NA
+"2636","Virginia","Orange County",-25,-15,NA,NA,-23,11
+"2637","Virginia","Page County",-14,3,-17,NA,-33,NA
+"2638","Virginia","Patrick County",-18,25,NA,NA,-17,NA
+"2639","Virginia","Petersburg",-23,-9,NA,-20,-25,13
+"2640","Virginia","Pittsylvania County",-15,-9,NA,NA,-31,12
+"2641","Virginia","Poquoson",-16,-9,NA,NA,-44,NA
+"2642","Virginia","Portsmouth",-20,-10,53,3,-34,9
+"2643","Virginia","Powhatan County",-26,-28,NA,NA,-37,8
+"2644","Virginia","Prince Edward County",-35,-19,NA,NA,-32,NA
+"2645","Virginia","Prince George County",-29,-31,NA,-32,-28,17
+"2646","Virginia","Prince William County",-45,-22,30,-27,-40,13
+"2647","Virginia","Pulaski County",-13,1,NA,NA,-31,13
+"2648","Virginia","Radford",-59,-11,NA,NA,-33,NA
+"2649","Virginia","Rappahannock County",NA,NA,NA,NA,-28,NA
+"2650","Virginia","Richmond",-47,-11,83,-19,-37,10
+"2651","Virginia","Richmond County",-34,-25,NA,NA,-19,NA
+"2652","Virginia","Roanoke",-44,-7,49,-43,-33,8
+"2653","Virginia","Roanoke County",-29,-15,NA,NA,-40,10
+"2654","Virginia","Rockbridge County",-28,NA,NA,-20,-27,NA
+"2655","Virginia","Rockingham County",-29,-10,-7,-22,-27,9
+"2656","Virginia","Russell County",-22,-14,NA,NA,-15,NA
+"2657","Virginia","Salem",-33,-5,NA,NA,-30,-1
+"2658","Virginia","Scott County",-18,-2,NA,NA,-26,NA
+"2659","Virginia","Shenandoah County",-27,-10,NA,-22,-32,16
+"2660","Virginia","Smyth County",-21,2,NA,NA,-14,4
+"2661","Virginia","Southampton County",-27,4,NA,NA,-29,NA
+"2662","Virginia","Spotsylvania County",-42,-17,NA,NA,-40,10
+"2663","Virginia","Stafford County",-32,-29,99,NA,-40,12
+"2664","Virginia","Staunton",-33,-15,NA,NA,-32,0
+"2665","Virginia","Suffolk",-32,-7,-16,-9,-29,9
+"2666","Virginia","Surry County",NA,NA,NA,NA,-36,NA
+"2667","Virginia","Sussex County",-38,18,NA,-48,-17,NA
+"2668","Virginia","Tazewell County",-22,6,NA,NA,-30,10
+"2669","Virginia","Virginia Beach",-37,-13,38,-3,-36,9
+"2670","Virginia","Warren County",-23,-11,NA,NA,-32,18
+"2671","Virginia","Washington County",-42,-11,NA,-26,-24,11
+"2672","Virginia","Waynesboro",-32,-12,NA,NA,-21,-1
+"2673","Virginia","Westmoreland County",-32,20,NA,NA,-31,NA
+"2674","Virginia","Williamsburg",-63,-41,NA,NA,-48,NA
+"2675","Virginia","Winchester",-51,-16,-37,NA,-33,9
+"2676","Virginia","Wise County",-11,4,NA,NA,-20,6
+"2677","Virginia","Wythe County",-39,-17,NA,-4,-26,-2
+"2678","Virginia","York County",-31,-20,31,NA,-43,23
+"2679","Washington","Total",-48,-26,-11,-56,-41,13
+"2680","Washington","Adams County",-31,4,NA,-31,-27,NA
+"2681","Washington","Asotin County",-33,NA,NA,NA,-31,7
+"2682","Washington","Benton County",-47,-23,3,-12,-39,10
+"2683","Washington","Chelan County",-43,-20,-15,-27,-43,18
+"2684","Washington","Clallam County",-42,-27,-20,-29,-35,18
+"2685","Washington","Clark County",-46,-28,-3,-38,-41,13
+"2686","Washington","Cowlitz County",-40,-20,-23,-34,-35,11
+"2687","Washington","Douglas County",-53,-19,NA,-39,-40,17
+"2688","Washington","Ferry County",NA,NA,NA,NA,-40,NA
+"2689","Washington","Franklin County",-35,-15,-16,-59,-33,12
+"2690","Washington","Grant County",-36,-8,10,-46,-29,8
+"2691","Washington","Grays Harbor County",-40,-18,-16,-26,-37,14
+"2692","Washington","Island County",-34,-25,-12,-53,-42,21
+"2693","Washington","Jefferson County",-62,-31,-9,-58,-40,2
+"2694","Washington","King County",-57,-30,0,-66,-47,15
+"2695","Washington","Kitsap County",-45,-27,12,-62,-43,12
+"2696","Washington","Kittitas County",-56,-32,-43,-22,-45,19
+"2697","Washington","Klickitat County",-56,-3,NA,NA,-36,NA
+"2698","Washington","Lewis County",-49,-21,-37,-32,-34,11
+"2699","Washington","Lincoln County",NA,NA,NA,NA,-37,NA
+"2700","Washington","Mason County",-28,-25,1,NA,-38,20
+"2701","Washington","Okanogan County",-29,2,NA,NA,-37,9
+"2702","Washington","Pacific County",-56,-24,-27,NA,-41,NA
+"2703","Washington","Pend Oreille County",-67,-6,NA,NA,-41,NA
+"2704","Washington","Pierce County",-46,-22,-17,-31,-39,12
+"2705","Washington","San Juan County",-61,-32,NA,-43,-45,NA
+"2706","Washington","Skagit County",-47,-25,0,-51,-42,12
+"2707","Washington","Skamania County",-65,NA,-57,NA,-40,NA
+"2708","Washington","Snohomish County",-47,-30,-2,-48,-45,14
+"2709","Washington","Spokane County",-44,-20,9,-45,-38,11
+"2710","Washington","Stevens County",-30,-7,0,NA,-33,16
+"2711","Washington","Thurston County",-47,-28,-32,-36,-38,12
+"2712","Washington","Walla Walla County",-42,-21,NA,-47,-40,18
+"2713","Washington","Whatcom County",-57,-34,-11,-69,-44,13
+"2714","Washington","Whitman County",-46,-25,NA,NA,-47,23
+"2715","Washington","Yakima County",-36,-13,0,-21,-33,9
+"2716","West Virginia","Total",-38,-16,52,-31,-33,8
+"2717","West Virginia","Barbour County",-47,-9,NA,NA,-16,NA
+"2718","West Virginia","Berkeley County",-35,-20,-9,-55,-32,9
+"2719","West Virginia","Boone County",-40,-13,NA,NA,-20,NA
+"2720","West Virginia","Braxton County",-31,NA,NA,-30,-38,NA
+"2721","West Virginia","Brooke County",-31,-10,NA,NA,-24,NA
+"2722","West Virginia","Cabell County",-47,-20,NA,-37,-34,9
+"2723","West Virginia","Fayette County",-21,-9,NA,NA,-26,7
+"2724","West Virginia","Grant County",-51,9,NA,NA,-25,NA
+"2725","West Virginia","Greenbrier County",-40,-16,NA,NA,-41,0
+"2726","West Virginia","Hampshire County",-26,-1,NA,NA,-20,NA
+"2727","West Virginia","Hancock County",-37,-1,NA,NA,-32,10
+"2728","West Virginia","Hardy County",-29,-13,NA,NA,-23,NA
+"2729","West Virginia","Harrison County",-43,-18,-24,-47,-31,19
+"2730","West Virginia","Jackson County",-33,-32,NA,-11,-33,NA
+"2731","West Virginia","Jefferson County",-39,-39,17,NA,-43,20
+"2732","West Virginia","Kanawha County",-44,-14,-2,-43,-33,8
+"2733","West Virginia","Lewis County",-33,-7,NA,NA,-40,NA
+"2734","West Virginia","Lincoln County",NA,NA,NA,NA,-39,NA
+"2735","West Virginia","Logan County",-32,-16,NA,NA,-24,NA
+"2736","West Virginia","Marion County",-38,-21,NA,NA,-34,20
+"2737","West Virginia","Marshall County",-29,-18,NA,NA,-27,1
+"2738","West Virginia","Mason County",-36,-8,NA,NA,-28,NA
+"2739","West Virginia","McDowell County",NA,-13,NA,NA,-18,NA
+"2740","West Virginia","Mercer County",-44,-16,-36,-30,-35,15
+"2741","West Virginia","Mineral County",-28,-4,NA,NA,-24,-2
+"2742","West Virginia","Mingo County",-63,NA,NA,NA,-37,NA
+"2743","West Virginia","Monongalia County",-48,-23,60,-35,-44,25
+"2744","West Virginia","Monroe County",NA,NA,NA,NA,-32,NA
+"2745","West Virginia","Morgan County",-38,-19,NA,NA,-34,NA
+"2746","West Virginia","Nicholas County",-28,-12,NA,NA,-30,NA
+"2747","West Virginia","Ohio County",-40,11,-34,-19,-38,16
+"2748","West Virginia","Pleasants County",-50,NA,NA,NA,-40,NA
+"2749","West Virginia","Pocahontas County",-74,NA,4,NA,-55,NA
+"2750","West Virginia","Preston County",-36,-5,NA,NA,-25,NA
+"2751","West Virginia","Putnam County",-33,-16,NA,-9,-41,21
+"2752","West Virginia","Raleigh County",-42,-24,NA,-35,-37,15
+"2753","West Virginia","Randolph County",-27,-9,NA,NA,-17,NA
+"2754","West Virginia","Ritchie County",-49,NA,NA,NA,-45,NA
+"2755","West Virginia","Roane County",-25,NA,NA,NA,-42,NA
+"2756","West Virginia","Summers County",4,NA,NA,NA,-39,NA
+"2757","West Virginia","Taylor County",-13,-32,NA,NA,-41,NA
+"2758","West Virginia","Tucker County",NA,-14,NA,NA,-37,NA
+"2759","West Virginia","Tyler County",NA,NA,NA,NA,-29,NA
+"2760","West Virginia","Upshur County",-28,-24,NA,NA,-25,NA
+"2761","West Virginia","Wayne County",-1,-10,NA,NA,-28,0
+"2762","West Virginia","Webster County",NA,NA,NA,NA,-38,NA
+"2763","West Virginia","Wetzel County",-39,-15,NA,NA,-31,NA
+"2764","West Virginia","Wood County",-40,-12,-21,NA,-31,9
+"2765","West Virginia","Wyoming County",-66,NA,NA,NA,-32,NA
+"2766","Wisconsin","Total",-55,-30,-12,-50,-34,13
+"2767","Wisconsin","Adams County",-62,-16,NA,NA,-36,NA
+"2768","Wisconsin","Ashland County",-54,-44,NA,NA,-37,NA
+"2769","Wisconsin","Barron County",-47,-38,NA,NA,-31,17
+"2770","Wisconsin","Bayfield County",-69,-33,NA,NA,-37,NA
+"2771","Wisconsin","Brown County",-56,-31,-26,-77,-31,13
+"2772","Wisconsin","Buffalo County",-74,-12,NA,NA,-26,NA
+"2773","Wisconsin","Burnett County",-62,-24,NA,NA,-34,NA
+"2774","Wisconsin","Calumet County",-71,-29,193,NA,-33,25
+"2775","Wisconsin","Chippewa County",-52,-34,NA,NA,-28,19
+"2776","Wisconsin","Clark County",-79,-29,NA,NA,-25,16
+"2777","Wisconsin","Columbia County",-54,-29,NA,-37,-31,21
+"2778","Wisconsin","Crawford County",-44,-26,NA,NA,-19,NA
+"2779","Wisconsin","Dane County",-68,-38,-25,-67,-43,15
+"2780","Wisconsin","Dodge County",-48,-32,-9,NA,-21,13
+"2781","Wisconsin","Door County",-54,-28,NA,NA,-33,-2
+"2782","Wisconsin","Douglas County",-54,-40,NA,NA,-33,20
+"2783","Wisconsin","Dunn County",-49,-35,NA,-14,-32,19
+"2784","Wisconsin","Eau Claire County",-59,-35,-22,-36,-32,14
+"2785","Wisconsin","Florence County",-73,NA,NA,NA,NA,NA
+"2786","Wisconsin","Fond du Lac County",-54,-36,-13,-21,-31,12
+"2787","Wisconsin","Forest County",-84,NA,NA,NA,-40,NA
+"2788","Wisconsin","Grant County",-47,-24,NA,NA,-27,19
+"2789","Wisconsin","Green County",-53,-22,NA,NA,-31,22
+"2790","Wisconsin","Green Lake County",-36,-22,NA,NA,-25,NA
+"2791","Wisconsin","Iowa County",-54,-44,NA,NA,-35,2
+"2792","Wisconsin","Iron County",-86,NA,NA,NA,-42,NA
+"2793","Wisconsin","Jackson County",-50,-19,NA,-12,-38,NA
+"2794","Wisconsin","Jefferson County",-52,-28,-11,-62,-30,14
+"2795","Wisconsin","Juneau County",-64,-33,NA,-29,-32,13
+"2796","Wisconsin","Kenosha County",-61,-33,-23,-56,-34,12
+"2797","Wisconsin","Kewaunee County",-57,-17,NA,NA,-23,NA
+"2798","Wisconsin","La Crosse County",-56,-28,-4,-38,-35,13
+"2799","Wisconsin","Lafayette County",-85,-7,NA,NA,-22,NA
+"2800","Wisconsin","Langlade County",-46,-30,NA,NA,-24,NA
+"2801","Wisconsin","Lincoln County",-50,-36,NA,NA,-32,13
+"2802","Wisconsin","Manitowoc County",-51,-19,11,NA,-21,15
+"2803","Wisconsin","Marathon County",-54,-32,-50,NA,-32,13
+"2804","Wisconsin","Marinette County",-49,-25,-15,NA,-25,15
+"2805","Wisconsin","Marquette County",-65,-25,NA,NA,-27,NA
+"2806","Wisconsin","Milwaukee County",-55,-28,-9,-57,-38,13
+"2807","Wisconsin","Monroe County",-46,-33,NA,-17,-26,19
+"2808","Wisconsin","Oconto County",-69,-22,-58,NA,-25,16
+"2809","Wisconsin","Oneida County",-54,-47,-50,NA,-32,17
+"2810","Wisconsin","Outagamie County",-61,-35,-41,-62,-33,13
+"2811","Wisconsin","Ozaukee County",-59,-35,11,NA,-37,27
+"2812","Wisconsin","Pepin County",-64,NA,NA,NA,-29,NA
+"2813","Wisconsin","Pierce County",-73,-21,NA,NA,-35,23
+"2814","Wisconsin","Polk County",-43,-26,-33,NA,-33,21
+"2815","Wisconsin","Portage County",-52,-34,-18,NA,-38,22
+"2816","Wisconsin","Price County",-67,-31,NA,NA,-33,NA
+"2817","Wisconsin","Racine County",-52,-28,-11,-37,-32,12
+"2818","Wisconsin","Richland County",-44,NA,NA,NA,-25,NA
+"2819","Wisconsin","Rock County",-52,-30,-15,-36,-34,11
+"2820","Wisconsin","Rusk County",-49,-39,NA,NA,-25,NA
+"2821","Wisconsin","Sauk County",-66,-29,-30,-50,-48,22
+"2822","Wisconsin","Sawyer County",-45,-37,NA,NA,-43,NA
+"2823","Wisconsin","Shawano County",-48,-35,NA,NA,-33,19
+"2824","Wisconsin","Sheboygan County",-47,-28,4,-23,-26,11
+"2825","Wisconsin","St. Croix County",-53,-35,-21,-39,-34,24
+"2826","Wisconsin","Taylor County",-50,-21,NA,NA,-2,NA
+"2827","Wisconsin","Trempealeau County",-59,-28,NA,NA,-26,15
+"2828","Wisconsin","Vernon County",-54,-28,NA,NA,-35,4
+"2829","Wisconsin","Vilas County",-83,-28,-46,NA,-51,NA
+"2830","Wisconsin","Walworth County",-49,-28,-33,NA,-39,12
+"2831","Wisconsin","Washburn County",-37,-59,NA,NA,-39,NA
+"2832","Wisconsin","Washington County",-49,-29,-22,-31,-36,13
+"2833","Wisconsin","Waukesha County",-58,-35,-23,-44,-40,14
+"2834","Wisconsin","Waupaca County",-50,-26,-25,NA,-24,19
+"2835","Wisconsin","Waushara County",-56,-1,NA,NA,-35,4
+"2836","Wisconsin","Winnebago County",-54,-32,-11,-41,-32,13
+"2837","Wisconsin","Wood County",-43,-31,NA,NA,-31,15
+"2838","Wyoming","Total",-37,-13,29,-14,-29,8
+"2839","Wyoming","Albany County",-42,-27,-4,1,-29,16
+"2840","Wyoming","Big Horn County",-35,-7,NA,NA,-29,NA
+"2841","Wyoming","Campbell County",-32,-2,NA,-7,-22,17
+"2842","Wyoming","Carbon County",-30,-14,NA,-15,-35,NA
+"2843","Wyoming","Converse County",-42,-3,NA,-35,-22,NA
+"2844","Wyoming","Crook County",NA,NA,NA,NA,-38,NA
+"2845","Wyoming","Fremont County",-31,-17,NA,NA,-27,15
+"2846","Wyoming","Goshen County",-24,-17,NA,NA,-26,NA
+"2847","Wyoming","Hot Springs County",-67,-22,-56,NA,NA,NA
+"2848","Wyoming","Johnson County",-38,-2,NA,NA,-30,NA
+"2849","Wyoming","Laramie County",-39,-20,26,-16,-28,10
+"2850","Wyoming","Lincoln County",-30,-5,NA,NA,-35,NA
+"2851","Wyoming","Natrona County",-36,-8,64,-29,-29,9
+"2852","Wyoming","Park County",-35,10,NA,NA,-31,5
+"2853","Wyoming","Platte County",-35,-5,NA,-43,-31,NA
+"2854","Wyoming","Sheridan County",-34,7,NA,NA,-26,13
+"2855","Wyoming","Sublette County",-70,-24,NA,NA,-36,NA
+"2856","Wyoming","Sweetwater County",-33,-9,NA,6,-22,15
+"2857","Wyoming","Teton County",-83,-50,-57,-80,-70,NA
+"2858","Wyoming","Uinta County",-29,2,NA,1,-18,NA
+"2859","Wyoming","Washakie County",-17,-7,NA,NA,-32,NA
+"2860","Wyoming","Weston County",-57,-24,NA,NA,-34,NA
